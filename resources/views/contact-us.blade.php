@@ -1,12 +1,11 @@
+<body class="page-template-template-contactpage">
+   <div id="page" class="hfeed site">
+      
 @extends('layouts.frontend')
 
 @section('main_content')
-<div id="content" class="site-content" tabindex="-1" >
-            <div class="col-full">
-               <div id="primary" class="content-area">
-                  <main id="main" class="site-main">
                      <div class="contact-map" >
-                        <iframe width="600" height="450" src="https://maps.google.com/maps?q=20%2C%20Oba%20Ogunusi%20Road%2C%20Akiode%20Bus%20stop%2C%20Ojudu%20Berger%2C%20Lagos%2C%20Nigeria&t=&z=13&ie=UTF8&iwloc=&output=embed"></iframe>
+                        <iframe allowfullscreen height="450" src="https://maps.google.com/maps?q=20%2C%20Oba%20Ogunusi%20Road%2C%20Akiode%20Bus%20stop%2C%20Ojudu%20Berger%2C%20Lagos%2C%20Nigeria&t=&z=13&ie=UTF8&iwloc=&output=embed"></iframe>
                      </div>
                      <header class="contact-header">
                         <h1 class="entry-title">Contact Us</h1>
