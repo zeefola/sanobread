@@ -8,6 +8,7 @@
             <header class="contact-header">
                <h1 class="entry-title">Contact Us</h1>
                <p class="description">We are a second-generation family business established in 1972</p>
+               @includeIf('layouts.error_template')
             </header>
             <div class="contact-form-with-address">
                <div class="row">
@@ -64,6 +65,8 @@
                                  <textarea name="message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false"></textarea>
                                  </span>
                               </div>
+                              {!! NoCaptcha::renderJs() !!}
+            {!! NoCaptcha::display() !!}
                               <div class="form-group clearfix">
                                  <p><input type="submit" value="Send Message" class="wpcf7-form-control wpcf7-submit" /></p>
                               </div>

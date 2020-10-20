@@ -41,7 +41,22 @@ class HomepageController extends Controller
 
         $data->save();
 
-        /** Send message to admin */
+        //save all request into data
+        $data = array (
+            'fullname' => request()->fullname,
+            'email' => request()->email,
+            'phone' => request()->phone,
+            'subject' => request()->subject,
+            'description' => request()->message,
+            'admin_email' => 'info@sanobread.com',
+            'created_at' => $data->created_at,
+
+        );
+
+        //send mail to admin
+        // Mail::send('emails.contact_notification',$data, function($m) use($data){
+        //     $m->to($data['admin_email'])->subject('Contact us Notification');
+        // });
 
         /**Return back with a session flash */
         session()->flash('success_report' , 'Contact Form submitted successfully!!');
