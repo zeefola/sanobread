@@ -12,13 +12,6 @@ class HomepageController extends Controller
         return view('welcome');
     }
 
-<<<<<<< HEAD
-    public function about_us(){
-        return view('about-us');
-    }
-    
-=======
->>>>>>> 6009c49... Unstage changes done
     public function contactUs(){
         return view('contact-us');
     }
