@@ -15,7 +15,7 @@
       <link rel="shortcut icon" href="assets/images/fav-icon.png">
    </head>
 
-   <body class="page-template-template-homepage-v1 home-v1">
+   <body class="page-template-template-contactpage">
     <div id="page" class="hfeed site">
         {{-- header --}}
         @includeIf('layouts.header')
