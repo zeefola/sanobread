@@ -17,7 +17,6 @@ use Illuminate\Support\Facades\Route;
 //     return view('welcome');
 // });
 
-Route::get('/' , 'HomepageController@index');
-Route::get('/contact-us' , 'HomepageController@contactUs');
-Route::post('/contact-us' , 'HomepageController@contactUsConfirm');
+Route::get('/', 'HomepageController@index');
 Route::get('/about-us', 'HomepageController@about_us');
+Route::get('/contact-us' , 'HomepageController@contact_us');
