@@ -1,3 +1,6 @@
+<body class="about full-width page-template-template-aboutpage">
+    <div id="page" class="hfeed site">
+
 @extends('layouts.frontend')
 
 @section('main_content')
@@ -7,7 +10,7 @@
  <div class="pizzaro-about-features">
     <div class="feature-head">
        <h2 class="section-title">About Us</h2>
-       {{-- <span class="section-subtitle align-center">We are a second-generation family business established in 1972</span> --}}
+       <span class="section-subtitle">We are a second-generation family business established in 1972</span>
     </div>
     <div class="widget widget_template_features">
        <div class="features columns-3">
