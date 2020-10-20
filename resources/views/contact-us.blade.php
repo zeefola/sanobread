@@ -3,38 +3,23 @@
       
 @extends('layouts.frontend')
 
+@section("title")
+
+Contact Us | {{ config("app.name") }}
+
+@endsection
+
+ 
+
 @section('main_content')
             <div class="contact-map" >
-               <iframe width="600" height="450" src="https://maps.google.com/maps?q=20%2C%20Oba%20Ogunusi%20Road%2C%20Akiode%20Bus%20stop%2C%20Ojudu%20Berger%2C%20Lagos%2C%20Nigeria&t=&z=13&ie=UTF8&iwloc=&output=embed"></iframe>
+               <iframe allowfullscreen height="450" src="https://maps.google.com/maps?q=20%2C%20Oba%20Ogunusi%20Road%2C%20Akiode%20Bus%20stop%2C%20Ojudu%20Berger%2C%20Lagos%2C%20Nigeria&t=&z=13&ie=UTF8&iwloc=&output=embed"></iframe>
             </div>
             <header class="contact-header">
                <h1 class="entry-title">Contact Us</h1>
                <p class="description">We are a second-generation family business established in 1972</p>
                @includeIf('layouts.error_template')
             </header>
-            <div class="contact-form-with-address">
-               <div class="row">
-                  <div class="col-md-9 col-sm-9 col-xs-12">
-                     <div class="contact-form">
-                        <h2>Leave us a Message</h2>
-                        <p>Aenean massa diam, viverra vitae luctus sed, gravida eget est. Etiam nec ipsum porttitor, consequat libero eu, dignissim eros. Nulla auctor lacinia enim id mollis.</p>
-                        <div role="form" class="wpcf7" id="wpcf7-f425-o1" lang="en-US" dir="ltr">
-                           <div class="screen-reader-response"></div>
-                           <form   class="wpcf7-form" method="POST" action="/contact-us">
-                              {{ csrf_field() }}
-                              <div style="display: none;">
-                                 <input type="hidden" name="_wpcf7" value="425" />
-                                 <input type="hidden" name="_wpcf7_version" value="4.5.1" />
-                                 <input type="hidden" name="_wpcf7_locale" value="en_US" />
-                                 <input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f425-o1" />
-                                 <input type="hidden" name="_wpnonce" value="e6363d91dd" />
-                     <div class="contact-map" >
-                        <iframe allowfullscreen height="450" src="https://maps.google.com/maps?q=20%2C%20Oba%20Ogunusi%20Road%2C%20Akiode%20Bus%20stop%2C%20Ojudu%20Berger%2C%20Lagos%2C%20Nigeria&t=&z=13&ie=UTF8&iwloc=&output=embed"></iframe>
-                     </div>
-                     <header class="contact-header">
-                        <h1 class="entry-title">Contact Us</h1>
-                        <p class="description">We are a second-generation family business established in 1972</p>
-                     </header>
                      <div class="contact-form-with-address">
                         <div class="row">
                            <div class="col-md-9 col-sm-9 col-xs-12">
@@ -84,17 +69,25 @@
                                           <input type="text" name="subject"  size="40" class="wpcf7-form-control wpcf7-text input-text" aria-invalid="false" />
                                           </span> --}}
                                        </div>
-                                       {!! NoCaptcha::renderJs() !!}
-                                       {!! NoCaptcha::display() !!}
                                        <div class="form-group">
                                           <label>Your Message</label><br />
                                           <span class="wpcf7-form-control-wrap your-message">
                                           <textarea name="message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false"></textarea>
                                           </span>
                                        </div>
-                                       <div class="form-group clearfix">
-                                          <p><input type="submit" value="Send Message" class="wpcf7-form-control wpcf7-submit" /></p>
-                                       </div>
+                                       <div class="form-group row">
+                                          <div class="col-xs-12 col-md-6">
+                                             {!! NoCaptcha::renderJs() !!}
+                                             {!! NoCaptcha::display() !!}
+                                           </div>
+                                           <div class="col-xs-12 col-md-6">
+                                             <div class="form-group clearfix">
+                                                <p><input type="submit" value="Send Message" class="wpcf7-form-control wpcf7-submit" /></p>
+                                             </div>
+                                           </div>
+                                         </div>
+                                       
+                                       
                                        <div class="wpcf7-response-output wpcf7-display-none">
                                        </div>
                                     </form>
@@ -133,9 +126,10 @@
                      </div>
                   </main>
                   <!-- #main -->
-               </div>
-               <!-- #primary -->
-            </div>
-            <!-- .col-full -->
-         </div>
+                  </div>
+                  <!-- #primary -->
+                  </div>
+                  <!-- .col-full -->
+                  </div>
+                  <!-- #content -->
 @endsection

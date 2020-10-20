@@ -28,6 +28,7 @@ class HomepageController extends Controller
             'phone' => 'required',
             'subject' => 'required',
             'message' => 'required',
+            'g-recaptcha-response' => 'required|captcha'
         ));
 
         /** Create an instance of the model and store the input */
