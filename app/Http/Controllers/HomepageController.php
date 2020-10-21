@@ -55,9 +55,9 @@ class HomepageController extends Controller
         );
 
         //send mail to admin
-        // Mail::send('emails.contact_notification',$data, function($m) use($data){
-        //     $m->to($data['admin_email'])->subject('Contact us Notification');
-        // });
+        Mail::send('emails.contact_notification',$data, function($m) use($data){
+            $m->to($data['admin_email'])->subject('Contact us Notification');
+        });
 
         /**Return back with a session flash */
         session()->flash('success_report' , 'Contact Form submitted successfully!!');

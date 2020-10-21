@@ -31,11 +31,11 @@
                             <span class="count">Faq</span>
                           </a>
                        </li>
-                     <li>
+                     {{-- <li>
                         <a href="/newsletter" title="News Letter">
                           <span class="count">News Letter</span>
                         </a>
-                     </li>
+                     </li> --}}
                      <li>
                         <a href="/terms-of-use" title="Terms of Use">
                           <span class="count">Terms of Use</span>
