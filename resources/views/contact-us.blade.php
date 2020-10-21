@@ -1,6 +1,6 @@
 <body class="page-template-template-contactpage">
    <div id="page" class="hfeed site">
-      
+
 @extends('layouts.frontend')
 
 @section("title")
@@ -45,8 +45,8 @@ Contact Us | {{ config("app.name") }}
                                              </span>
                                           </div>
                                           <div class="col-xs-12 col-md-6">
-                                             <label>Email*</label><br />
-                                             <span class="wpcf7-form-control-wrap last-name">
+                                             <label class="email-view">Email*</label><br/>
+                                             <span class="wpcf7-form-control-wrap email">
                                              <input type="email" name="email" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required input-text" aria-required="true" aria-invalid="false" />
                                              </span>
                                           </div>
@@ -59,7 +59,7 @@ Contact Us | {{ config("app.name") }}
                                             </span>
                                          </div>
                                          <div class="col-xs-12 col-md-6">
-                                            <label>Subject*</label> <br/>
+                                            <label class="email-view">Subject*</label> <br/>
                                             <span class="wpcf7-form-control-wrap subject">
                                             <input type="text" name="subject" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required input-text" aria-required="true" aria-invalid="false" />
                                             </span>
@@ -81,7 +81,7 @@ Contact Us | {{ config("app.name") }}
                                              {!! NoCaptcha::display() !!}
                                            </div>
                                            <div class="col-xs-12 col-md-6">
-                                             <div class="form-group clearfix">
+                                             <div class="form-group clearfix button-adjust">
                                                 <p><input type="submit" value="Send Message" class="wpcf7-form-control wpcf7-submit" /></p>
                                              </div>
                                            </div>
