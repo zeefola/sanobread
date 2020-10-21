@@ -64,4 +64,24 @@ class HomepageController extends Controller
         return back();
         
     }
+
+    public function products() {
+        return view('products');
+    }
+
+    public function single_product() {
+        return view('single-product');
+    }
+
+    public function news_letter() {
+        return view('newsletter');
+    }
+
+    public function faq() {
+        return view('faq');
+    }
+
+    public function terms_of_use() {
+        return view('terms-of-use');
+    }
 }
