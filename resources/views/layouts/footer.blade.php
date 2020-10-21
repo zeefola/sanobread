@@ -50,7 +50,7 @@
           </ul>
        </div>
        <div class="site-info">
-          <p class="copyright">Copyright &copy; 2017 Pizzaro Template. All rights reserved.</p>
+          <p class="copyright">Copyright &copy; {{ date('Y') }} {{ config('app.name') }}. All rights reserved.</p>
        </div>
        <!-- .site-info -->      <a role="button" class="footer-action-btn" data-toggle="collapse" href="#footer-map-collapse"><i class="po po-map-marker"></i>Find us on Map</a>
        <div class="pizzaro-handheld-footer-bar">

@@ -2,6 +2,12 @@
     <div id="page" class="hfeed site">
        
  @extends('layouts.frontend')
+
+ @section("title")
+
+Terms of Use | {{ config("app.name") }}
+
+@endsection
  
 @section('breadcrumb')
 @includeIf('layouts.breadcrumb', ['title' => 'Terms of Use'])
@@ -9,10 +15,10 @@
 
  @section('main_content')
  <div id="post-238" class="post-238 page type-page status-publish hentry">
-    <header class="entry-header">
+    {{-- <header class="entry-header">
        <h1 class="entry-title">Terms Of Use</h1>
        <p class="entry-subtitle">This Agreement was last modified on 18 December  2016.</p>
-    </header>
+    </header> --}}
     <!-- .entry-header -->
     <div class="entry-content">
        <section class="section inner-bottom-xs">

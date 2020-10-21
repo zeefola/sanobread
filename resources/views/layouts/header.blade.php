@@ -53,7 +53,7 @@
                    <li class="menu-item "><a href="contact-us"><i class=""></i>Contact Us</a></li>
                    <li class="menu-item "><a href="/products"><i class=""></i>Products</a></li>
                    <li class="menu-item "><a href="/faq"><i class=""></i>Faq</a></li>
-                   <li class="menu-item "><a href="/newsletter"><i class=""></i>News Letter</a></li>
+                   {{-- <li class="menu-item "><a href="/newsletter"><i class=""></i>News Letter</a></li> --}}
                    <li class="menu-item "><a href="/terms-of-use"><i class=""></i>Terms of Use</a></li>
                 </ul>
 
