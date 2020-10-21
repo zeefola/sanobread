@@ -8077,7 +8077,9 @@ a.jp-mute, a.jp-unmute {
 
 .features-list {
   text-align: center;
-  padding: 6.478em 0; }
+  padding: 6.478em 0; 
+  margin-top: -5rem; 
+  margin-bottom: -6rem;}
   .features-list .feature {
     font-size: 1.125em;
     color: #2d2b2d; }
@@ -9774,7 +9776,7 @@ article.post {
       cursor: pointer;
       line-height: 30px;
       width: 100%;
-      font-size: 25px;
+      font-size: 19px;
       margin-bottom: 0px; }
       .faq .kc-col-container .panel .panel-heading .panel-title a {
         color: #434343;
@@ -9800,8 +9802,9 @@ article.post {
 .kc-col-container .panel-body {
   padding: 15px;
   width: 100%;
-  padding-top: 40px;
-  padding-bottom: 30px; }
+  /* padding-top: 40px;
+  padding-bottom: 30px;  */
+}
 
 .faq .panel-group .panel-heading + .panel-collapse > .list-group, .faq .panel-group .panel-heading + .panel-collapse > .panel-body {
   border-top: none; }
