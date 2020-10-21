@@ -3673,7 +3673,8 @@ embed, iframe, object, video {
     width: 100%;
     float: left;
     margin-left: 0;
-    margin-right: 0; }
+    margin-right: 0;
+   }
   .content-area, .widget-area {
     margin-bottom: 2.617924em; }
   /**
