@@ -114,12 +114,10 @@
 <!-- End Services Section Two -->
 
 <!-- Video Section -->
-<section class="video-section" style="background-image: url(assets/images/background/12.jpg)">
+<section class="video-section" style="background-image: url(assets/images/12.jpg)">
     <div class="auto-container">
         <div class="content">
             <h1>Big Taste <span>Great Taste</span></h1>
-            <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="lightbox-image video-box"><span
-                    class="fa fa-play"><i class="ripple"></i></span></a>
             <div class="text">Nam sollicitudin tincidunt dolor. Nunc sed feugiat tortor. <br> In auctor odio
                 odio, ut auctor enim tempus.</div>
         </div>
@@ -147,7 +145,7 @@
                     <div class="image-box">
                         <!--Image-->
                         <figure class="image">
-                            <img src="assets/images/resource/chef-1.jpg" alt="" />
+                            <img src="assets/images/chef-1.jpg" alt="" />
                         </figure>
                         <!--Overlay Box-->
                         <div class="overlay-box">
@@ -177,7 +175,7 @@
                     <div class="image-box">
                         <!--Image-->
                         <figure class="image">
-                            <img src="assets/images/resource/chef-2.jpg" alt="" />
+                            <img src="assets/images/chef-2.jpg" alt="" />
                         </figure>
                         <!--Overlay Box-->
                         <div class="overlay-box">
@@ -207,7 +205,7 @@
                     <div class="image-box">
                         <!--Image-->
                         <figure class="image">
-                            <img src="assets/images/resource/chef-3.jpg" alt="" />
+                            <img src="assets/images/chef-3.jpg" alt="" />
                         </figure>
                         <!--Overlay Box-->
                         <div class="overlay-box">
@@ -237,7 +235,7 @@
                     <div class="image-box">
                         <!--Image-->
                         <figure class="image">
-                            <img src="assets/images/resource/chef-4.jpg" alt="" />
+                            <img src="assets/images/chef-4.jpg" alt="" />
                         </figure>
                         <!--Overlay Box-->
                         <div class="overlay-box">
@@ -264,54 +262,26 @@
     </div>
 </section>
 <!-- End Chefs Section -->
-
-<!-- Testimonial Section Two -->
-<section class="testimonial-section-two" style="background-image:url(assets/images/background/13.jpg)">
-    <div class="auto-container">
-        <div class="inner-container">
-            <div class="sec-title light">
-                <h2>What our Client Says</h2>
-            </div>
-            <div class="single-item-carousel owl-carousel owl-theme">
-
-                <div class="testimonial-block-two">
-                    <div class="inner-box">
-                        <div class="image-box">
-                            <div class="image"><img src="assets/images/resource/author-2.jpg" alt="" /></div>
-                        </div>
-                        <div class="text">Osed quia consequuntur magni dolores eos qui ratione voluptatem sequi
-                            nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet,
-                            consectetur, adipisci sed quia non numquam qui ratione voluptatem sequi nesciunt.
-                            Neque porro quisquam est.</div>
-                        <div class="quote-icon">
-                            <span class="icon fa fa-quote-left"></span>
-                        </div>
-                        <div class="author">- Robert joe</div>
-                    </div>
-                </div>
-
-                <div class="testimonial-block-two">
-                    <div class="inner-box">
-                        <div class="image-box">
-                            <div class="image"><img src="assets/images/resource/author-2.jpg" alt="" /></div>
-                        </div>
-                        <div class="text">Osed quia consequuntur magni dolores eos qui ratione voluptatem sequi
-                            nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet,
-                            consectetur, adipisci sed quia non numquam qui ratione voluptatem sequi nesciunt.
-                            Neque porro quisquam est.</div>
-                        <div class="quote-icon">
-                            <span class="icon fa fa-quote-left"></span>
-                        </div>
-                        <div class="author">- Robert joe</div>
-                    </div>
-                </div>
-
-            </div>
-        </div>
+<div class="pizzaro-basics ">
+    <figure>
+       <img width="1920" height="418" src="assets/images/about-banner.jpg" alt="" />
+    </figure>
+    <div class="container">
+       <div class="row">
+          <div class="blocks">
+             <div class="block col-xs-12 col-sm-4">
+                <h2>Pizza Basics</h2>
+             </div>
+             <div class="block col-xs-12 col-sm-4">
+                <p>Mauris tempus erat laoreet turpis lobortis, eu tincidunt erat fermentum.  Aliquam non tincidunt urna. Integer tincidunt nec nisl vitae ullamcorper. Proin sed ultrices erat.</p>
+             </div>
+             <div class="block col-xs-12 col-sm-4">
+                <p>Mauris tempus erat laoreet turpis lobortis, eu tincidunt erat fermentum.  Aliquam non tincidunt urna. Integer tincidunt nec nisl vitae ullamcorper. Proin sed ultrices erat.</p>
+             </div>
+          </div>
+       </div>
     </div>
-</section>
-<!-- End Testimonial Section Two -->
-
+ </div>
 <!-- Services Section -->
 <section class="services-section style-two">
     <div class="auto-container">
@@ -321,7 +291,7 @@
             <div class="service-block col-lg-3 col-md-6 col-sm-12">
                 <div class="inner-box">
                     <div class="icon-box">
-                        <img src="assets/images/resource/service-1.png" alt="" />
+                        <img src="assets/images/service-1.png" alt="" />
                     </div>
                     <h6>Free shipping on <br> first order</h6>
                     <div class="text">Sign up for updates and <br> get free shipping</div>
@@ -332,7 +302,7 @@
             <div class="service-block col-lg-3 col-md-6 col-sm-12">
                 <div class="inner-box">
                     <div class="icon-box">
-                        <img src="assets/images/resource/service-2.png" alt="" />
+                        <img src="assets/images/service-2.png" alt="" />
                     </div>
                     <h6>Best Taste <br> Guaranttee</h6>
                     <div class="text">We use best ingredients to <br> cook the taste food.</div>
@@ -343,7 +313,7 @@
             <div class="service-block col-lg-3 col-md-6 col-sm-12">
                 <div class="inner-box">
                     <div class="icon-box">
-                        <img src="assets/images/resource/service-3.png" alt="" />
+                        <img src="assets/images/service-3.png" alt="" />
                     </div>
                     <h6>Variety of <br> Dishes</h6>
                     <div class="text">We give variety of dishes, <br> deserts, and drinks</div>
@@ -354,7 +324,7 @@
             <div class="service-block col-lg-3 col-md-6 col-sm-12">
                 <div class="inner-box">
                     <div class="icon-box">
-                        <img src="assets/images/resource/service-4.png" alt="" />
+                        <img src="assets/images/service-4.png" alt="" />
                     </div>
                     <h6>25 Minites <br> Delivery</h6>
                     <div class="text">We deliver your food at <br> your dooe that you order</div>
