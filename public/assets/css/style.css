@@ -9135,8 +9135,8 @@ article.post {
   margin-bottom: 100px; }
 
 .section-events {
-  padding-top: 8.063em;
-  padding-bottom: 6em; }
+  padding-top: 0.315em;
+  padding-bottom: 5em; }
   .section-events .section-title, .section-events .error404 .page-content section h2, .error404 .page-content section .section-events h2, .section-events .error404 .fourohfour-columns-2 .col-1 h2, .error404 .fourohfour-columns-2 .col-1 .section-events h2, .section-events .related > h2:first-child, .section-events .upsells > h2:first-child, .section-events .woocommerce-cart .cart-collaterals + .cross-sells h2, .woocommerce-cart .cart-collaterals + .cross-sells .section-events h2, .section-events .pre-title {
     font-family: 'Yanone Kaffeesatz', sans-serif;
     text-transform: uppercase; }
@@ -9888,7 +9888,7 @@ article.post {
     .site-content .home-v1-slider .owl-carousel .item {
       background-position: center;
       background-size: cover;
-      height: 55em;
+      height: 27.5em;
       width: 100%;
       position: relative; }
     .site-content .home-v1-slider .owl-carousel .slider-4 .pre-title {
@@ -10690,9 +10690,9 @@ ul.products li.product, .products .owl-item > .product {
         font-size: 1.063em; }
 
 .section-products-with-gallery {
-  padding-top: 140px;
+  padding-top: 20px;
   background-color: #f6f6f6;
-  padding-bottom: 107px; }
+  padding-bottom: 20px; }
   .section-products-with-gallery.stretch-full-width .columns-5 ul.products li.product, .blog.full-width .section-products-with-gallery.pagination .columns-5 ul.products li.product, .blog.full-width .section-products-with-gallery.woocommerce-pagination .columns-5 ul.products li.product, .lite.full-width .section-products-with-gallery.pagination .columns-5 ul.products li.product, .lite.full-width .section-products-with-gallery.woocommerce-pagination .columns-5 ul.products li.product, .blog.full-width .section-products-with-gallery.blog-menu .columns-5 ul.products li.product, .section-products-with-gallery.pizzaro-breadcrumb .columns-5 ul.products li.product, .page-template-template-contactpage .section-products-with-gallery.contact-map .columns-5 ul.products li.product {
     padding: 0; }
   .section-products-with-gallery ul.products {
