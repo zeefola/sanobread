@@ -84,4 +84,8 @@ class HomepageController extends Controller
     public function terms_of_use() {
         return view('terms-of-use');
     }
+
+    public function la_familia(){
+       return view('la-familia');
+    }
 }
