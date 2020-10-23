@@ -266,7 +266,7 @@
     <figure>
        <img width="1920" height="418" src="assets/images/about-banner.jpg" alt="" />
     </figure>
-    <div class="container">
+    {{-- <div class="container">
        <div class="row">
           <div class="blocks">
              <div class="block col-xs-12 col-sm-4">
@@ -280,7 +280,7 @@
              </div>
           </div>
        </div>
-    </div>
+    </div> --}}
  </div>
 <!-- Services Section -->
 <section class="services-section style-two">
