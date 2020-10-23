@@ -1780,7 +1780,7 @@
                         </div>
                      </div>
                      
-                     <div class="list-view section-products" style="margin-top: 5rem;">
+                     <div class="list-view section-products" style="margin-top: 5rem; margin-bottom: 3rem;">
                         <h2 class="section-title">Product Details</h2>
                         <div class="footer-about-info">
                            <div class="container">
@@ -1797,9 +1797,45 @@
                            </div>
                         </div>
                      </div>
+
+<section class="promo-section bg-grey bd-bottom padding">
+<div class="container">
+<div class="promo-wrap row">
+<div class="col-lg-3 col-sm-6 sm-padding">
+<div class="promo-content text-center">
+<i class="icon-camera"></i>
+<h3>Camera Resulation</h3>
+<p>Sintex camera is an optical instrument for recording or capturing images</p>
+</div>
+</div>
+<div class="col-lg-3 col-sm-6 sm-padding">
+<div class="promo-content text-center">
+<i class="icon-speedometer"></i>
+<h3>High Speed Shooting</h3>
+<p>Sintex camera is an optical instrument for recording or capturing images</p>
+</div>
+</div> 
+<div class="col-lg-3 col-sm-6 sm-padding">
+<div class="promo-content text-center">
+<i class="icon-adjustments"></i>
+<h3>Powerful Control Panel</h3>
+<p>Sintex camera is an optical instrument for recording or capturing images</p>
+</div>
+</div>
+<div class="col-lg-3 col-sm-6 sm-padding">
+<div class="promo-content text-center">
+<i class="icon-bargraph"></i>
+<h3>Healthy Battery Life</h3>
+<p>Sintex camera is an optical instrument for recording or capturing images</p>
+</div>
+</div> 
+</div>
+</div>
+</section>
+
                      <div class="section-events" >
-                        <h3 class="pre-title"><span>DONT MISS ANY OF</span></h3>
-                        <h2 class="section-title">UPCOMING EVENTS</h2>
+                        <h3 class="pre-title"><span>Customers Reviews</span></h3>
+                        <h2 class="section-title">TESTIMONIALS</h2>
                         <div class="events">
                            <div class="event">
                               <div class="media">
