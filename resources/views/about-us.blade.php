@@ -13,46 +13,256 @@
 <header class="about-header">
     <img width="1934" height="734" src="assets/images/about-bg.jpg" class="attachment-full size-full wp-post-image" alt=""  />
  </header>
- <div class="pizzaro-about-features">
-    <div class="feature-head">
-       <h2 class="section-title">About Us</h2>
-       <span class="section-subtitle">We are a second-generation family business established in 1972</span>
+ <!-- About Section Two -->
+ <section class="about-section-two">
+    <div class="auto-container">
+        <div class="row clearfix">
+
+            <!-- Content Column -->
+            <div class="content-column col-lg-7 col-md-12 col-sm-12">
+                <div class="inner-column">
+                    <h2>Some Words About Us <br> & Our Fast Food</h2>
+                    <div class="text">
+                        <p>Leverage agile frameworks to provide a robust synopsis for high level overviews.
+                            Iterative approaches to corporate strategy foster collaborative thinking to further
+                            the overall value proposition. Organically grow the holistic world view of
+                            disruptive innovation via workplace diversity and empowerment.</p>
+                        <p>Bring to the table win-win survival strategies to ensure proactive domination. At the
+                            end of the day, going forward, a new normal that has evolved from generation X is on
+                            the runway heading towards a streamlined cloud solution. User generated content in
+                            real-time will have multiple touchpoints for offshoring. strategies to ensure
+                            proactive domination. At the end of the day, going forward, a new normal that has
+                            evolved from generation X is on the runway heading towards a streamlined cloud
+                            solution</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Images Column -->
+            <div class="images-column col-lg-5 col-md-12 col-sm-12">
+                <div class="inner-column">
+                    <div class="image">
+                        <img src="assets/images/about-1.jpg" alt="" />
+                    </div>
+                    <div class="image-two">
+                        <img src="assets/images/about-2.jpg" alt="" />
+                    </div>
+                </div>
+            </div>
+
+        </div>
     </div>
-    <div class="widget widget_template_features">
-       <div class="features columns-3">
-          <div class="feature first">
-             <a href="#" title="Taste Driven" >
-             <img width="370" height="280" src="assets/images/about-column-1.jpg" class="attachment-370x370 size-370x370 wp-post-image" alt="" />
-             </a>
-             <h3 class="feature-title">
-                <a href="#" title="Taste Driven" >Taste Driven</a>
-             </h3>
-             <div class="feature-content">Mauris tempus erat laoreet turpis lobortis, eu tincidunt erat fermentum.  Aliquam non tincidunt urna. Integer tincidunt nec nisl vitae ullamcorper. Proin sed ultrices erat.</div>
-          </div>
-          <div class="feature">
-             <a href="#" title="Made the Quality Way" >
-             <img width="370" height="280" src="assets/images/about-column-2.jpg" class="attachment-370x370 size-370x370 wp-post-image" alt=""/>
-             </a>
-             <h3 class="feature-title">
-                <a href="#" title="Made the Quality Way" >Made the Quality Way</a>
-             </h3>
-             <div class="feature-content">Mauris tempus erat laoreet turpis lobortis, eu tincidunt erat fermentum.<br><br>Be Bold // Do Everything Better<br>Be Open // Work Stronger Together</div>
-          </div>
-          <div class="feature last">
-             <a href="#" title="Family of Creators" >
-             <img width="370" height="280" src="assets/images/about-column-3.jpg" class="attachment-370x370 size-370x370 wp-post-image" alt="" />
-             </a>
-             <h3 class="feature-title">
-                <a href="#" title="Family of Creators" >Family of Creators</a>
-             </h3>
-             <div class="feature-content">Mauris tempus erat laoreet turpis lobortis, eu tincidunt erat fermentum.  Aliquam non tincidunt urna. Integer tincidunt nec nisl vitae ullamcorper. Proin sed ultrices erat.</div>
-          </div>
-       </div>
-       <!--/.features-->
+</section>
+<!-- End About Section Two -->
+
+<!-- Services Section Two -->
+<section class="services-section-two">
+    <div class="auto-container">
+        <div class="row clearfix">
+
+            <!-- Service Block Two -->
+            <div class="service-block-two col-lg-4 col-md-6 col-sm-12">
+                <div class="inner-box wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
+                    <div class="image">
+                        <a href="menu-features.html"><img src="assets/images/service-5.jpg"
+                                alt="" /></a>
+                    </div>
+                    <div class="lower-content">
+                        <h4><a href="menu-features.html">Take Care of Quality</a></h4>
+                        <div class="text">apitalize on low hanging fruit to identify a ballpark value added
+                            activity to beta test. Override the digital divide with additional clickthroughs.
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Service Block Two -->
+            <div class="service-block-two col-lg-4 col-md-6 col-sm-12">
+                <div class="inner-box wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
+                    <div class="image">
+                        <a href="menu-features.html"><img src="assets/images/service-6.jpg"
+                                alt="" /></a>
+                    </div>
+                    <div class="lower-content">
+                        <h4><a href="menu-features.html">Taste Driven Food</a></h4>
+                        <div class="text">apitalize on low hanging fruit to identify a ballpark value added
+                            activity to beta test. Override the digital divide with additional clickthroughs.
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Service Block Two -->
+            <div class="service-block-two col-lg-4 col-md-6 col-sm-12">
+                <div class="inner-box wow fadeInRight" data-wow-delay="0ms" data-wow-duration="1500ms">
+                    <div class="image">
+                        <a href="menu-features.html"><img src="assets/images/service-7.jpg"
+                                alt="" /></a>
+                    </div>
+                    <div class="lower-content">
+                        <h4><a href="menu-features.html">On Time Delivery</a></h4>
+                        <div class="text">apitalize on low hanging fruit to identify a ballpark value added
+                            activity to beta test. Override the digital divide with additional clickthroughs.
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
     </div>
-    <!--/.widget widget_template_features-->
- </div>
- <div class="pizzaro-basics ">
+</section>
+<!-- End Services Section Two -->
+
+<!-- Video Section -->
+<section class="video-section" style="background-image: url(assets/images/12.jpg)">
+    <div class="auto-container">
+        <div class="content">
+            <h1>Big Taste <span>Great Taste</span></h1>
+            <div class="text">Nam sollicitudin tincidunt dolor. Nunc sed feugiat tortor. <br> In auctor odio
+                odio, ut auctor enim tempus.</div>
+        </div>
+    </div>
+</section>
+<!-- End Video Section -->
+
+<!-- Chefs Section -->
+<section class="chefs-section">
+    <div class="auto-container">
+
+        <!-- Title Box -->
+        <div class="title-box">
+            <h2>Our Chef</h2>
+            <div class="text">Override the digital divide with additional clickthroughs from immersion <br>
+                along the information highway.</div>
+        </div>
+
+        <div class="row clearfix">
+
+            <!-- Chef Member -->
+            <div class="chef-member col-lg-3 col-md-6 col-sm-12">
+                <div class="inner-box wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
+                    <!--Image Box-->
+                    <div class="image-box">
+                        <!--Image-->
+                        <figure class="image">
+                            <img src="assets/images/chef-1.jpg" alt="" />
+                        </figure>
+                        <!--Overlay Box-->
+                        <div class="overlay-box">
+                            <div class="inner">
+                                <!--Social Icon One-->
+                                <ul class="social-icon-one">
+                                    <li><a class="fab fa-facebook" href="#"></a></li>
+                                    <li><a class="fab fa-twitter" href="#"></a></li>
+                                    <li><a class="fab fa-linkedin" href="#"></a></li>
+                                    <li><a class="fab fa-instagram" href="#"></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Lower Content-->
+                    <div class="lower-content">
+                        <h4>John michale</h4>
+                        <div class="designation">Burger Specilist</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Chef Member -->
+            <div class="chef-member col-lg-3 col-md-6 col-sm-12">
+                <div class="inner-box wow fadeInLeft" data-wow-delay="100ms" data-wow-duration="1500ms">
+                    <!--Image Box-->
+                    <div class="image-box">
+                        <!--Image-->
+                        <figure class="image">
+                            <img src="assets/images/chef-2.jpg" alt="" />
+                        </figure>
+                        <!--Overlay Box-->
+                        <div class="overlay-box">
+                            <div class="inner">
+                                <!--Social Icon One-->
+                                <ul class="social-icon-one">
+                                    <li><a class="fab fa-facebook" href="#"></a></li>
+                                    <li><a class="fab fa-twitter" href="#"></a></li>
+                                    <li><a class="fab fa-linkedin" href="#"></a></li>
+                                    <li><a class="fab fa-instagram" href="#"></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Lower Content-->
+                    <div class="lower-content">
+                        <h4>John michale</h4>
+                        <div class="designation">Burger Specilist</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Chef Member -->
+            <div class="chef-member col-lg-3 col-md-6 col-sm-12">
+                <div class="inner-box wow fadeInLeft" data-wow-delay="300ms" data-wow-duration="1500ms">
+                    <!--Image Box-->
+                    <div class="image-box">
+                        <!--Image-->
+                        <figure class="image">
+                            <img src="assets/images/chef-3.jpg" alt="" />
+                        </figure>
+                        <!--Overlay Box-->
+                        <div class="overlay-box">
+                            <div class="inner">
+                                <!--Social Icon One-->
+                                <ul class="social-icon-one">
+                                    <li><a class="fab fa-facebook" href="#"></a></li>
+                                    <li><a class="fab fa-twitter" href="#"></a></li>
+                                    <li><a class="fab fa-linkedin" href="#"></a></li>
+                                    <li><a class="fab fa-instagram" href="#"></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Lower Content-->
+                    <div class="lower-content">
+                        <h4>John michale</h4>
+                        <div class="designation">Burger Specilist</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Chef Member -->
+            <div class="chef-member col-lg-3 col-md-6 col-sm-12">
+                <div class="inner-box wow fadeInLeft" data-wow-delay="400ms" data-wow-duration="1500ms">
+                    <!--Image Box-->
+                    <div class="image-box">
+                        <!--Image-->
+                        <figure class="image">
+                            <img src="assets/images/chef-4.jpg" alt="" />
+                        </figure>
+                        <!--Overlay Box-->
+                        <div class="overlay-box">
+                            <div class="inner">
+                                <!--Social Icon One-->
+                                <ul class="social-icon-one">
+                                    <li><a class="fab fa-facebook" href="#"></a></li>
+                                    <li><a class="fab fa-twitter" href="#"></a></li>
+                                    <li><a class="fab fa-linkedin" href="#"></a></li>
+                                    <li><a class="fab fa-instagram" href="#"></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Lower Content-->
+                    <div class="lower-content">
+                        <h4>John michale</h4>
+                        <div class="designation">Burger Specilist</div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+<!-- End Chefs Section -->
+<div class="pizzaro-basics ">
     <figure>
        <img width="1920" height="418" src="assets/images/about-banner.jpg" alt="" />
     </figure>
@@ -72,26 +282,60 @@
        </div>
     </div>
  </div>
- {{-- <div class="pizzaro-brands">
-    <h2 class="section-title">We delivering Pizzas for</h2>
-    <ul>
-       <li>
-          <img width="121" height="100" src="assets/images/brand.png" alt="" />
-       </li>
-       <li>
-          <img width="121" height="100" src="assets/images/brand.png" alt="" />
-       </li>
-       <li>
-          <img width="121" height="100" src="assets/images/brand.png" alt="" />
-       </li>
-       <li>
-          <img width="121" height="100" src="assets/images/brand.png" alt="" />
-       </li>
-       <li>
-          <img width="121" height="100" src="assets/images/brand.png" alt="" />
-       </li>
-    </ul>
- </div> --}}
+<!-- Services Section -->
+<section class="services-section style-two">
+    <div class="auto-container">
+        <div class="row clearfix">
+
+            <!-- Service Block -->
+            <div class="service-block col-lg-3 col-md-6 col-sm-12">
+                <div class="inner-box">
+                    <div class="icon-box">
+                        <img src="assets/images/service-1.png" alt="" />
+                    </div>
+                    <h6>Free shipping on <br> first order</h6>
+                    <div class="text">Sign up for updates and <br> get free shipping</div>
+                </div>
+            </div>
+
+            <!-- Service Block -->
+            <div class="service-block col-lg-3 col-md-6 col-sm-12">
+                <div class="inner-box">
+                    <div class="icon-box">
+                        <img src="assets/images/service-2.png" alt="" />
+                    </div>
+                    <h6>Best Taste <br> Guaranttee</h6>
+                    <div class="text">We use best ingredients to <br> cook the taste food.</div>
+                </div>
+            </div>
+
+            <!-- Service Block -->
+            <div class="service-block col-lg-3 col-md-6 col-sm-12">
+                <div class="inner-box">
+                    <div class="icon-box">
+                        <img src="assets/images/service-3.png" alt="" />
+                    </div>
+                    <h6>Variety of <br> Dishes</h6>
+                    <div class="text">We give variety of dishes, <br> deserts, and drinks</div>
+                </div>
+            </div>
+
+            <!-- Service Block -->
+            <div class="service-block col-lg-3 col-md-6 col-sm-12">
+                <div class="inner-box">
+                    <div class="icon-box">
+                        <img src="assets/images/service-4.png" alt="" />
+                    </div>
+                    <h6>25 Minites <br> Delivery</h6>
+                    <div class="text">We deliver your food at <br> your dooe that you order</div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+<!-- End Services Section -->
+
 </main>
 <!-- #main -->
 </div>
