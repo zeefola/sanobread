@@ -2819,7 +2819,8 @@ body {
   margin-bottom: 2.618em; }
 
 .site-content {
-  outline: none; }
+  outline: none; 
+  margin-bottom: -8rem;}
 
 .page-template-template-homepage .site-main {
   padding-top: 4.236em; }
@@ -4324,8 +4325,7 @@ embed, iframe, object, video {
 
 .footer-about-info {
   background-color: #f5f5f5;
-  padding-top: 46px;
-  padding-bottom: 10px; }
+  padding-top: 46px; }
   .footer-about-info .image img {
     position: relative;
     top: -76px; }
@@ -9135,8 +9135,8 @@ article.post {
   margin-bottom: 100px; }
 
 .section-events {
-  padding-top: 0.315em;
-  padding-bottom: 5em; }
+  padding-top: 4rem;
+  padding-bottom: 6em; }
   .section-events .section-title, .section-events .error404 .page-content section h2, .error404 .page-content section .section-events h2, .section-events .error404 .fourohfour-columns-2 .col-1 h2, .error404 .fourohfour-columns-2 .col-1 .section-events h2, .section-events .related > h2:first-child, .section-events .upsells > h2:first-child, .section-events .woocommerce-cart .cart-collaterals + .cross-sells h2, .woocommerce-cart .cart-collaterals + .cross-sells .section-events h2, .section-events .pre-title {
     font-family: 'Yanone Kaffeesatz', sans-serif;
     text-transform: uppercase; }
@@ -9173,7 +9173,8 @@ article.post {
       .section-events .pre-title span::after {
         left: 100%; }
   .section-events .events {
-    display: inline-block; }
+    display: inline-block;
+    margin-top: -7rem; }
     .section-events .events .event {
       float: left;
       position: relative;
@@ -9888,7 +9889,7 @@ article.post {
     .site-content .home-v1-slider .owl-carousel .item {
       background-position: center;
       background-size: cover;
-      height: 27.5em;
+      height: 30em;
       width: 100%;
       position: relative; }
     .site-content .home-v1-slider .owl-carousel .slider-4 .pre-title {
@@ -10004,7 +10005,8 @@ article.post {
       line-height: 1em;
       font-weight: 700;
       text-align: center;
-      padding-bottom: 0.059em; }
+      padding-bottom: 0.059em;
+      padding-top: 10rem; }
     .site-content .home-v1-slider .owl-carousel .slider-1 .sub-title {
       font-size: 0.482em;
       line-height: 1;
@@ -10690,9 +10692,9 @@ ul.products li.product, .products .owl-item > .product {
         font-size: 1.063em; }
 
 .section-products-with-gallery {
-  padding-top: 20px;
+  padding-top: 40px;
   background-color: #f6f6f6;
-  padding-bottom: 20px; }
+  padding-bottom: 40px; }
   .section-products-with-gallery.stretch-full-width .columns-5 ul.products li.product, .blog.full-width .section-products-with-gallery.pagination .columns-5 ul.products li.product, .blog.full-width .section-products-with-gallery.woocommerce-pagination .columns-5 ul.products li.product, .lite.full-width .section-products-with-gallery.pagination .columns-5 ul.products li.product, .lite.full-width .section-products-with-gallery.woocommerce-pagination .columns-5 ul.products li.product, .blog.full-width .section-products-with-gallery.blog-menu .columns-5 ul.products li.product, .section-products-with-gallery.pizzaro-breadcrumb .columns-5 ul.products li.product, .page-template-template-contactpage .section-products-with-gallery.contact-map .columns-5 ul.products li.product {
     padding: 0; }
   .section-products-with-gallery ul.products {
@@ -15815,7 +15817,9 @@ img {
   position: relative;
   padding: 70px 0px 70px;
   background-color: #efefef;
-  width: 100%;
+  width: 100vw;
+    margin-left: -50vw;
+    left: 50%;
 }
 .auto-container {
   position: static;
@@ -15905,7 +15909,8 @@ a {
   background-attachment: fixed;
   background-size: cover;
   width: 100vw;
-  margin-left: -10rem;
+    margin-left: -50vw;
+    left: 50%;
 }
 .video-section:before {
   position: absolute;
@@ -16504,14 +16509,5 @@ a:hover, a:focus, a:visited {
 @media only screen and (max-width: 767px){
 .services-section.style-two .service-block::before, .testimonial-block-two .inner-box .image-box::after, .chefs-section .title-box .text br, .video-section h1 span::before {
     display: none;
-}
-}
-
-@media only screen and (max-width: 599px){
-.services-section-two {
-  position: relative;
-  padding: 70px 0px 70px;
-  background-color: #efefef;
-  width: 100% !important;
 }
 }

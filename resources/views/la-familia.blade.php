@@ -21,73 +21,7 @@
                <a class="skip-link screen-reader-text" href="#site-navigation">Skip to navigation</a>
                <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
                <nav id="site-navigation" class="main-navigation"  aria-label="Primary Navigation">
-                  <!-- <button class="menu-toggle" aria-controls="site-navigation" aria-expanded="false"><span class="close-icon"><i class="po po-close-delete"></i></span><span class="menu-icon"><i class="po po-menu-icon"></i></span><span class=" screen-reader-text">Menu</span></button> -->
-                  <div class="primary-navigation">
-                     <ul id="menu-main-menu" class="menu nav-menu" aria-expanded="false">
-                        <li class="yamm-fw menu-item menu-item-has-children">
-                           <ul class="sub-menu">
-                              <li class="menu-item">
-                                 <div class="yamm-content">
-
-                                    <div class="kc-elm kc-css-4169277 kc_row">
-                                       <div class="kc-row-container  kc-container">
-                                          <div class="kc-wrap-columns">
-                                             <div class="col-sm-3 col-xs-12 col-md-3 col-lg-3">
-                                                <div class="kc-col-container">
-                                                   <div class="widget widget_nav_menu kc-elm kc-css-1908114">
-                                                      <div class="menu-pages-menu-1-container">
-                                                         <ul id="menu-pages-menu-5" class="menu">
-                                                           
-                                                      </div>
-                                                   </div>
-                                                </div>
-                                             </div>
-                                             <div class="col-sm-3 col-xs-12 col-md-3 col-lg-3">
-                                                <div class="kc-col-container">
-                                                   <div class="widget widget_nav_menu kc-elm kc-css-2420681">
-                                                      <div class="menu-pages-menu-2-container">
-                                                         <ul id="menu-pages-menu-6" class="menu">
-                                                          
-                                                      </div>
-                                                   </div>
-                                                </div>
-                                             </div>
-                                             <div class="col-sm-3 col-xs-12 col-md-3 col-lg-3">
-                                                <div class="kc-col-container">
-                                                   <div class="widget widget_nav_menu kc-elm kc-css-3102392">
-                                                      <div class="menu-pages-menu-3-container">
-                                                         <ul id="menu-pages-menu-7" class="menu">
-                                                   </div>
-                                                </div>
-                                             </div>
-                                             <div class="col-sm-3 col-xs-12 col-md-3 col-lg-3">
-                                                <div class="kc-col-container">
-                                                   <div class="widget widget_nav_menu kc-elm kc-css-3447423">
-                                                      <div class="menu-pages-menu-4-container">
-                                                         <ul id="menu-pages-menu-8" class="menu">
-                                                            <li class="nav-title menu-item"><a href="single-product-v1.html">Single Product Style</a></li>
-                                                            <li class="menu-item"><a href="single-product-v1.html">Single Product v1</a></li>
-                                                            <li class="menu-item"><a href="single-product-v2.html">Single Product v2</a></li>
-                                                            <li class="menu-item"><a href="single-product-v3.html">Single Product v3</a></li>
-                                                            <li class="nav-title menu-item"><a href="#">Template Pages</a></li>
-                                                            <li class="menu-item"><a href="about.html">About Us</a></li>
-                                                            <li class="menu-item"><a href="contact.html">Contact</a></li>
-                                                            <li class="menu-item"><a href="terms-and-conditions.html">Terms &amp; Conditions</a></li>
-                                                            <li class="menu-item"><a href="faq-v1.html">FAQ v1</a></li>
-                                                            <li class="menu-item"><a href="faq-v2.html">FAQ v2</a></li>
-                                                            <li class="menu-item"><a href="404.html">404</a></li>
-                                                         </ul>
-                                                      </div>
-                                                   </div>
-                                                </div>
-                                             </div>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </li>
-                           </ul>
-                        </li>
+                  <button class="menu-toggle" aria-controls="site-navigation" aria-expanded="false"><span class="close-icon"><i class="po po-close-delete"></i></span><span class="menu-icon"><i class="po po-menu-icon"></i></span><span class=" screen-reader-text">Menu</span></button>
                   <div class="handheld-navigation">
                      <span class="phm-close">Close</span>
                      <ul  class="menu">
@@ -110,43 +44,6 @@
                      </svg>
                   </a>
                </div>
-               <div class="header-info-wrapper">
-                  <div class="header-nav-links">
-                  </div>
-                  <ul class="site-header-cart menu">
-                     <li class="mini-cart">
-                        <div class="mini-cart-toggle">
-                           <div class="widget woocommerce widget_shopping_cart">
-                              <div class="widget_shopping_cart_content">
-                                 <ul class="cart_list product_list_widget ">
-                                    <li class="mini_cart_item">
-                                       <a href="#" class="remove" title="Remove this item" data-product_id="51" data-product_sku="">×</a>
-                                       <a href="single-product-v1.html"><img width="180" height="180" src="assets/images/products/mini.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="5">Chicken Hawaii&nbsp;</a>
-                                       <dl class="variation">
-                                          <dt class="variation-Baseprice">Base price:</dt>
-                                          <dd class="variation-Baseprice">
-                                             <p><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>0.00</span></p>
-                                          </dd>
-                                          <dt class="variation-PickSizespanclasswoocommerce-Price-amountamountspanclasswoocommerce-Price-currencySymbol36span2590span">Pick Size ( <span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>25.90</span> ):</dt>
-                                          <dd class="variation-PickSizespanclasswoocommerce-Price-amountamountspanclasswoocommerce-Price-currencySymbol36span2590span">
-                                             <p>29  cm</p>
-                                          </dd>
-                                       </dl>
-                                       <span class="quantity">1 × <span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>25.90</span></span>
-                                    </li>
-                                 </ul>
-                                 <!-- end product list -->
-                                 <p class="total"><strong>Subtotal:</strong> <span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>25.90</span></p>
-                                 <p class="buttons">
-                                    <a href="cart.html" class="button wc-forward">View Cart</a>
-                                    <a href="checkout.html" class="button checkout wc-forward">Checkout</a>
-                                 </p>
-                              </div>
-                           </div>
-                       </div>
-                     </li>
-                  </ul>
-               </div>
             </div>
          </header>
          <div id="content" class="site-content" tabindex="-1" >
@@ -156,10 +53,18 @@
                      <div class="home-v1-slider" >
                         <div id="owl-main" class="owl-carousel owl-inner-nav owl-ui-sm">
                            <div class="item slider-1" style="background-image: url(assets/images/slider/homepage-slider-1.jpg);">
+                              <div class="caption fadeIn">
+                                 <div class="title">SUPREME BBQ</div>
+                                 <div class="sub-title">CHICKEN</div>
+                              </div>
                               <!-- /.caption -->
                            </div>
-                          <!-- /.owl-carousel -->
+                           <!-- /.item -->
+                        </div>
+                        <!-- /.owl-carousel -->
                      </div>
+                     <div class="stretch-full-width products-with-gallery-tabs section-tabs">
+                        <div class="section-tabs">
                            <div class="tab-content">
                               <div class="tab-pane" id="h1-tab-products-1">
                                  <div class="section-products-with-gallery section-products">
@@ -1874,6 +1779,24 @@
                            </div>
                         </div>
                      </div>
+                     
+                     <div class="list-view section-products" style="margin-top: 5rem;">
+                        <h2 class="section-title">Product Details</h2>
+                        <div class="footer-about-info">
+                           <div class="container">
+                              <div class="row">
+                                 <div class="col-md-5 image">
+                                    <img src="assets/images/footer/about.jpg" alt="About us">
+                                 </div>
+                                 <div class="col-md-7 content">
+                                    <h2>About us</h2>
+                                    <p>Proin ac semper mi. Phasellus magna elit, dapibus at egestas a, facilisis nec ligula. In vitae ex ante. Aliquam interdum maximus dui quis sodales. Cras vel mi diam. Phasellus mi ante, iaculis nec tempus ac, tincidunt sit amet eros. Fusce malesuada elit massa, ac eleifend  massa ligula, semper sed faucibus vitae, fermentum sed ex.</p>
+                                    <a href="about.html">Read More &nbsp;&nbsp;&nbsp;→</a>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
                      <div class="section-events" >
                         <h3 class="pre-title"><span>DONT MISS ANY OF</span></h3>
                         <h2 class="section-title">UPCOMING EVENTS</h2>
@@ -1934,21 +1857,6 @@
             <!-- .col-full -->
          </div>
          <!-- #content -->
-         <div class="footer-about-info">
-            <div class="container">
-               <div class="row">
-                  <div class="col-md-5 image">
-                     <img src="assets/images/footer/about.jpg" alt="About us">
-                  </div>
-                  <div class="col-md-7 content">
-                     <h2>About us</h2>
-                     <p>Proin ac semper mi. Phasellus magna elit, dapibus at egestas a, facilisis nec ligula. In vitae ex ante. Aliquam interdum maximus dui quis sodales. Cras vel mi diam. Phasellus mi ante, iaculis nec tempus ac, tincidunt sit amet eros. Fusce malesuada elit massa, ac eleifend  massa ligula, semper sed faucibus vitae, fermentum sed ex.</p>
-                     <a href="about.html">Read More &nbsp;&nbsp;&nbsp;→</a>
-                  </div>
-               </div>
-            </div>
-         </div>
-         <div class="footer-map"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d317718.69319292053!2d-0.3817765050863085!3d51.528307984912544!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8a00baf21de75%3A0x52963a5addd52a99!2sLondon%2C+UK!5e0!3m2!1sen!2sin!4v1463669021863" height="462" allowfullscreen=""></iframe></div>
          <footer id="colophon" class="site-footer footer-v2" >
             <div class="col-full">
                <div class="footer-row row vertical-align">
@@ -1990,22 +1898,6 @@
                   <div class="footer-contact-form">
                      <div class="contact-form">
                         <h3 class="contact-form-title">Write Hello to Pizzaro</h3>
-                        <form action="post">
-                           <div class="form-group">
-                              <label for="yourName">Your Name</label>
-                              <input type="text" class="form-control" id="yourName" placeholder="Your Name">
-                           </div>
-                           <div class="form-group">
-                              <label for="emailAddress">Email Address</label>
-                              <input type="email" class="form-control" id="emailAddress" placeholder="Email Address">
-                           </div>
-                           <div class="form-group">
-                              <label for="yourMessage">Your Message to us..</label>
-                              <textarea rows="10" cols="10" class="form-control" id="yourMessage" placeholder="Your Message to us.." autocomplete="off" style="margin: 0px 85px 26px 0px;/* width: 342px; *//* height: 232px; */"></textarea>
-                           </div>
-                           <div class="text-center"><button type="submit" class="btn btn-default button">Send Message</button>
-                           </div>
-                        </form>
                      </div>
                   </div>
                   <div class="footer-contact-info">
