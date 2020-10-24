@@ -35,7 +35,7 @@
                          </a>
                       </div>
                       <div class="product-content-wrapper">
-                         <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
+                         <a href="/single-product" class="woocommerce-LoopProduct-link">
                             <h3>Pepperoni Pizza</h3>
                             <div itemprop="description">
                                <p style="max-height: none;">Extra-virgin olive oil, garlic, mozzarella, mushrooms and olives.</p>
@@ -57,7 +57,7 @@
                             </div>
                          </a>
                          <div class="hover-area">
-                            <a rel="nofollow" href="single-product-v1.html" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
+                            <a rel="nofollow" href="/single-product" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
                          </div>
                       </div>
                    </div>
@@ -69,12 +69,12 @@
                 <div class="product-outer">
                    <div class="product-inner">
                       <div class="product-image-wrapper">
-                         <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
+                         <a href="/single-product" class="woocommerce-LoopProduct-link">
                          <img src="assets/images/products/p2.jpg" class="img-responsive" alt="">
                          </a>
                       </div>
                       <div class="product-content-wrapper">
-                         <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
+                         <a href="/single-product" class="woocommerce-LoopProduct-link">
                             <h3>Trio Cheese</h3>
                             <div itemprop="description">
                                <p style="max-height: none;">Extra-virgin olive oil, garlic, mozzarella, mushrooms and olives.</p>
@@ -96,7 +96,7 @@
                             </div>
                          </a>
                          <div class="hover-area">
-                            <a rel="nofollow" href="single-product-v1.html" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
+                            <a rel="nofollow" href="/single-product" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
                          </div>
                       </div>
                    </div>
@@ -108,12 +108,12 @@
                 <div class="product-outer">
                    <div class="product-inner">
                       <div class="product-image-wrapper">
-                         <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
+                         <a href="/single-product" class="woocommerce-LoopProduct-link">
                          <img src="assets/images/products/p3.jpg" class="img-responsive" alt="">
                          </a>
                       </div>
                       <div class="product-content-wrapper">
-                         <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
+                         <a href="/single-product" class="woocommerce-LoopProduct-link">
                             <h3>Apricot Chicken</h3>
                             <div itemprop="description">
                                <p style="max-height: none;">Extra-virgin olive oil, garlic, mozzarella, mushrooms and olives.</p>
@@ -135,7 +135,7 @@
                             </div>
                          </a>
                          <div class="hover-area">
-                            <a rel="nofollow" href="single-product-v1.html" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
+                            <a rel="nofollow" href="/single-product" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
                          </div>
                       </div>
                    </div>
@@ -147,12 +147,12 @@
                 <div class="product-outer">
                    <div class="product-inner">
                       <div class="product-image-wrapper">
-                         <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
+                         <a href="/single-product" class="woocommerce-LoopProduct-link">
                          <img src="assets/images/products/p4.jpg" class="img-responsive" alt="">
                          </a>
                       </div>
                       <div class="product-content-wrapper">
-                         <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
+                         <a href="/single-product" class="woocommerce-LoopProduct-link">
                             <h3>Italiano Original</h3>
                             <div itemprop="description">
                                <p style="max-height: none;">Extra-virgin olive oil, garlic, mozzarella, mushrooms and olives.</p>
@@ -174,7 +174,7 @@
                             </div>
                          </a>
                          <div class="hover-area">
-                            <a rel="nofollow" href="single-product-v1.html" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
+                            <a rel="nofollow" href="/single-product" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
                          </div>
                       </div>
                    </div>
@@ -186,12 +186,12 @@
                 <div class="product-outer">
                    <div class="product-inner">
                       <div class="product-image-wrapper">
-                         <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
+                         <a href="/single-product" class="woocommerce-LoopProduct-link">
                          <img src="assets/images/products/p5.jpg" class="img-responsive" alt="">
                          </a>
                       </div>
                       <div class="product-content-wrapper">
-                         <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
+                         <a href="/single-product" class="woocommerce-LoopProduct-link">
                             <h3>Chicken Hawaii</h3>
                             <div itemprop="description">
                                <p style="max-height: none;">Extra-virgin olive oil, garlic, mozzarella, mushrooms and olives.</p>
@@ -213,7 +213,7 @@
                             </div>
                          </a>
                          <div class="hover-area">
-                            <a rel="nofollow" href="single-product-v1.html" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
+                            <a rel="nofollow" href="/single-product" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
                          </div>
                       </div>
                    </div>
@@ -225,12 +225,12 @@
                 <div class="product-outer">
                    <div class="product-inner">
                       <div class="product-image-wrapper">
-                         <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
+                         <a href="/single-product" class="woocommerce-LoopProduct-link">
                          <img src="assets/images/products/p6.jpg" class="img-responsive" alt="">
                          </a>
                       </div>
                       <div class="product-content-wrapper">
-                         <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
+                         <a href="/single-product" class="woocommerce-LoopProduct-link">
                             <h3>Summer Pizza</h3>
                             <div itemprop="description">
                                <p style="max-height: none;">Extra-virgin olive oil, garlic, mozzarella, mushrooms and olives.</p>
@@ -252,7 +252,7 @@
                             </div>
                          </a>
                          <div class="hover-area">
-                            <a rel="nofollow" href="single-product-v1.html" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
+                            <a rel="nofollow" href="/single-product" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
                          </div>
                       </div>
                    </div>
@@ -264,12 +264,12 @@
                 <div class="product-outer">
                    <div class="product-inner">
                       <div class="product-image-wrapper">
-                         <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
+                         <a href="/single-product" class="woocommerce-LoopProduct-link">
                          <img src="assets/images/products/p7.jpg" class="img-responsive" alt="">
                          </a>
                       </div>
                       <div class="product-content-wrapper">
-                         <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
+                         <a href="/single-product" class="woocommerce-LoopProduct-link">
                             <h3>Pepperoni Calzone</h3>
                             <div itemprop="description">
                                <p style="max-height: none;">Extra-virgin olive oil, garlic, mozzarella, mushrooms and olives.</p>
@@ -291,7 +291,7 @@
                             </div>
                          </a>
                          <div class="hover-area">
-                            <a rel="nofollow" href="single-product-v1.html" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
+                            <a rel="nofollow" href="/single-product" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
                          </div>
                       </div>
                    </div>
@@ -303,12 +303,12 @@
                 <div class="product-outer">
                    <div class="product-inner">
                       <div class="product-image-wrapper">
-                         <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
+                         <a href="single-product" class="woocommerce-LoopProduct-link">
                          <img src="assets/images/products/p8.jpg" class="img-responsive" alt="">
                          </a>
                       </div>
                       <div class="product-content-wrapper">
-                         <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
+                         <a href="/single-product" class="woocommerce-LoopProduct-link">
                             <h3>Pepperoni Pizza</h3>
                             <div itemprop="description">
                                <p style="max-height: none;">Extra-virgin olive oil, garlic, mozzarella, mushrooms and olives.</p>
@@ -330,7 +330,7 @@
                             </div>
                          </a>
                          <div class="hover-area">
-                            <a rel="nofollow" href="single-product-v1.html" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
+                            <a rel="nofollow" href="/single-product" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
                          </div>
                       </div>
                    </div>
@@ -342,12 +342,12 @@
                 <div class="product-outer">
                    <div class="product-inner">
                       <div class="product-image-wrapper">
-                         <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
+                         <a href="/single-product" class="woocommerce-LoopProduct-link">
                          <img src="assets/images/products/p9.jpg" class="img-responsive" alt="">
                          </a>
                       </div>
                       <div class="product-content-wrapper">
-                         <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
+                         <a href="/single-product" class="woocommerce-LoopProduct-link">
                             <h3>Trio Cheese</h3>
                             <div itemprop="description">
                                <p style="max-height: none;">Extra-virgin olive oil, garlic, mozzarella, mushrooms and olives.</p>
@@ -369,7 +369,7 @@
                             </div>
                          </a>
                          <div class="hover-area">
-                            <a rel="nofollow" href="single-product-v1.html" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
+                            <a rel="nofollow" href="/single-product" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
                          </div>
                       </div>
                    </div>

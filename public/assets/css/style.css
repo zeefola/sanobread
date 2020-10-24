@@ -4132,7 +4132,7 @@ embed, iframe, object, video {
     font-weight: 900;
     font-size: 0.875em;
     line-height: 1.929em;
-    background-color: #f0002f;
+    background-color: #CC4205;
     display: inline-block;
     padding: 1.214em 3.746em;
     border-top-left-radius: 18px;
@@ -6176,7 +6176,7 @@ p.stars {
   font-size: 0.875em;
   text-transform: uppercase;
   display: inline-block;
-  background-color: #8ca93e;
+  background-color: #93490C;
   line-height: 1;
   z-index: 1; }
 
@@ -10157,7 +10157,8 @@ article.post {
   .header-v1 .main-navigation ul li.yamm-fw ul.sub-menu, .header-v3 .main-navigation ul li.yamm-fw ul.sub-menu {
     left: 0; }
   .header-v1 .primary-navigation ul.menu, .header-v1 .primary-navigation ul.nav-menu, .header-v3 .primary-navigation ul.menu, .header-v3 .primary-navigation ul.nav-menu {
-    position: relative; } }
+    position: relative; 
+    padding-right: 7rem; } }
 
 @media (max-width: 767px) {
   .home-v7 .newsletter-subscription form input, .home-v7 .site-footer.footer-v5 .footer-newsletter form input, .site-footer.footer-v5 .home-v7 .footer-newsletter form input, .home-v5 .newsletter-subscription form input, .home-v5 .site-footer.footer-v5 .footer-newsletter form input, .site-footer.footer-v5 .home-v5 .footer-newsletter form input {
@@ -11879,7 +11880,7 @@ ul.products li.product, .products .owl-item > .product {
 
 .header-v1 .site-header-cart .cart-contents {
   padding: .407em .9em .8em .9em;
-  background-color: #8ca93e;
+  background-color: #93490C;
   border-radius: 50px;
   color: #fff;
   line-height: 1;
@@ -11926,7 +11927,7 @@ ul.products li.product, .products .owl-item > .product {
     margin-left: calc(100% - 225px); }
     .header-v1 .site-header-cart-v2 .cart-content > a {
       padding: .66em .9em;
-      background-color: #8ca93e;
+      background-color: #93490C;
       border-radius: 50px;
       color: #fff;
       line-height: 1;
@@ -15483,7 +15484,7 @@ p.order-again .button:after {
       margin-top: 10px; }
   .header-v1 .header-wrap {
     justify-content: space-between;
-    margin-bottom: 0; }
+    margin-bottom: -1rem; }
   .header-v1.site-header .main-navigation {
     margin-top: 0; } }
 
@@ -15731,10 +15732,11 @@ p.order-again .button:after {
     margin: 0; } }
 
 
-
-    .email-view{
-      margin-top: 1.5rem;
-    }
+    @media only screen and (max-width: 990px){
+      .email-view{
+        margin-top: 1.5rem;
+      }
+      }
 
     .button-adjust{
       margin-top:2rem;
