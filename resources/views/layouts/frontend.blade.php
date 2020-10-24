@@ -55,6 +55,10 @@
                     {{-- footer --}}
                     @includeIf('layouts.footer')
                     {{-- end footer --}}
+
+                  <!-- chat plugin-->
+                    @includeIf("layouts.tawk")
+                  
     <!-- #colophon -->
     </div>
     <script type="text/javascript" src="assets/js/jquery.min.js"></script>
