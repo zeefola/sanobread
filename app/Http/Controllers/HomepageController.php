@@ -5,18 +5,31 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use App\Contact;
 Use Mail;
+use Artesaos\SEOTools\Facades\SEOTools;
 
 class HomepageController extends Controller
 {
     public function index(){
+
+        SEOTools::setTitle('Home');
+        SEOTools::setDescription('This is my page description');
+
         return view('welcome');
     }
 
     public function about_us(){
+
+        SEOTools::setTitle('About Us');
+        SEOTools::setDescription('This is my page description');
+    
         return view('about-us');
     }
 
     public function contactUs(){
+
+        SEOTools::setTitle('Contact Us');
+        SEOTools::setDescription('This is my page description');
+    
         return view('contact-us');
     }
 
@@ -66,26 +79,43 @@ class HomepageController extends Controller
     }
 
     public function products() {
+
+        SEOTools::setTitle('Products');
+        SEOTools::setDescription('This is my page description');
+
         return view('products');
     }
 
     public function single_product() {
+
+        SEOTools::setTitle('Product_name here');
+        SEOTools::setDescription('This is my page description');
+
         return view('single-product');
     }
 
-    public function news_letter() {
-        return view('newsletter');
-    }
 
     public function faq() {
+
+        SEOTools::setTitle('Frequently Asked Questions');
+        SEOTools::setDescription('This is my page description');
+
         return view('faq');
     }
 
     public function terms_of_use() {
+
+        SEOTools::setTitle('Terms of Use');
+        SEOTools::setDescription('This is my page description');
+
         return view('terms-of-use');
     }
 
     public function la_familia(){
+
+        SEOTools::setTitle('product_name here');
+        SEOTools::setDescription('This is my page description');
+        
        return view('la-familia');
     }
 }

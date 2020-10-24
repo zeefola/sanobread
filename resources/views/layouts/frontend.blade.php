@@ -3,7 +3,7 @@
    <head>
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1">
-      <title> @yield('title') </title>
+       {!! SEO::generate() !!} 
       <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css" media="all" />
       <link rel="stylesheet" type="text/css" href="assets/css/font-awesome.min.css" media="all" />
       <link rel="stylesheet" type="text/css" href="assets/css/animate.min.css" media="all" />
@@ -12,7 +12,28 @@
       <link rel="stylesheet" type="text/css" href="assets/css/colors/red.css" media="all" />
       <link rel="stylesheet" type="text/css" href="assets/css/jquery.mCustomScrollbar.min.css" media="all" />
       <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800%7CYanone+Kaffeesatz:200,300,400,700" rel="stylesheet">
-      <link rel="shortcut icon" href="assets/images/fav-icon.png">
+
+
+      <link rel="apple-touch-icon" sizes="57x57" href="/assets/images/favicon57-57.png">
+      <link rel="apple-touch-icon" sizes="60x60" href="/assets/images/favicon60-60.png">
+      <link rel="apple-touch-icon" sizes="72x72" href="/assets/images/favicon72-72.png">
+      <link rel="apple-touch-icon" sizes="76x76" href="/assets/images/favicon76-76.png">
+      <link rel="apple-touch-icon" sizes="114x114" href="/assets/images/favicon114-114.png">
+      <link rel="apple-touch-icon" sizes="120x120" href="/assets/images/favicon120-120.png">
+      <link rel="apple-touch-icon" sizes="144x144" href="/assets/images/favicon144-144.png">
+      <link rel="apple-touch-icon" sizes="152x152" href="/assets/images/favicon152-152.png">
+      <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/favicon180-180.png">
+
+      <link rel="icon" type="image/png" href="/assets/images/favicon32-32.png" sizes="32x32">
+      <link rel="icon" type="image/png" href="/assets/images/favicon192-192.png" sizes="192x192">
+      <link rel="icon" type="image/png" href="/assets/images/favicon96-96.png" sizes="96x96">
+      <link rel="icon" type="image/png" href="/assets/images/favicon16-16.png" sizes="16x16">
+
+      <link rel=icon href=/assets/images/20.png sizes="20x20" type="image/png">
+      <link rel="shortcut icon" href="assets/images/sanobread_logo.ico" />
+
+
+      @includeIf('layouts.analytics')
    </head>
 
    

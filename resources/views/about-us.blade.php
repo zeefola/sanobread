@@ -3,12 +3,6 @@
 
 @extends('layouts.frontend')
 
-@section("title")
-
- About Us | {{ config("app.name") }} 
-
-@endsection
-
 @section('main_content')
 <header class="about-header">
     <img width="1934" height="734" src="assets/images/about-bg.jpg" class="attachment-full size-full wp-post-image" alt=""  />

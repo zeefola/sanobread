@@ -25,6 +25,6 @@ Route::get('/about-us', 'HomepageController@about_us');
 Route::get('/products', 'HomepageController@products');
 Route::get('/single-product', 'HomepageController@single_product');
 Route::get('/faq', 'HomepageController@faq');
-Route::get('/newsletter', 'HomepageController@news_letter');
+// Route::get('/newsletter', 'HomepageController@news_letter');
 Route::get('/terms-of-use', 'HomepageController@terms_of_use');
 Route::get('/la-familia', 'HomepageController@la_familia');

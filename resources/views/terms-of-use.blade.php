@@ -2,12 +2,6 @@
     <div id="page" class="hfeed site">
        
  @extends('layouts.frontend')
-
- @section("title")
-
-Terms of Use | {{ config("app.name") }}
-
-@endsection
  
 @section('breadcrumb')
 @includeIf('layouts.breadcrumb', ['title' => 'Terms of Use'])

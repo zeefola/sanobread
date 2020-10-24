@@ -3,14 +3,6 @@
 
 @extends('layouts.frontend')
 
-@section("title")
-
-Contact Us | {{ config("app.name") }}
-
-@endsection
-
- 
-
 @section('main_content')
             <div class="contact-map" >
                <iframe allowfullscreen height="450" src="https://maps.google.com/maps?q=20%2C%20Oba%20Ogunusi%20Road%2C%20Akiode%20Bus%20stop%2C%20Ojudu%20Berger%2C%20Lagos%2C%20Nigeria&t=&z=13&ie=UTF8&iwloc=&output=embed"></iframe>

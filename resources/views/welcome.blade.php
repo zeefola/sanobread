@@ -3,12 +3,6 @@
         
    @extends('layouts.frontend')
 
-   @section("title")
-
-HomePage | {{ config("app.name") }}
-
-@endsection
-
 @section('banner')
 @includeIf('layouts.banner')
 @endsection
