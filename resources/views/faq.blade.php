@@ -1,6 +1,9 @@
-<body class="faq">
-    <div id="page" class="hfeed site">
 @extends('layouts.frontend')
+
+@section('body')
+<body class="faq">
+   <div id="page" class="hfeed site">
+@endsection
 
 @section('breadcrumb')
 @includeIf('layouts.breadcrumb', ['title' => 'FAQ'])

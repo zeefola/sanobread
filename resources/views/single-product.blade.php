@@ -1,7 +1,9 @@
-<body class="single-product style-2">
-    <div id="page" class="hfeed site">
-       
- @extends('layouts.frontend')
+@extends('layouts.frontend')
+
+ @section('body')
+ <body class="single-product style-2">
+   <div id="page" class="hfeed site">
+ @endsection
 
 @section('main_content')
        <div class="product type-product status-publish has-post-thumbnail product_cat-pizza pa_food-type-veg first instock shipping-taxable purchasable product-type-variable has-children">
