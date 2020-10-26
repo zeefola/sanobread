@@ -1,7 +1,9 @@
+@extends('layouts.frontend')
+
+@section('body')
 <body class="about full-width page-template-template-aboutpage">
     <div id="page" class="hfeed site">
-
-@extends('layouts.frontend')
+@endsection
 
 @section('main_content')
 <header class="about-header">

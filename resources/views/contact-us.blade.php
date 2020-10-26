@@ -1,7 +1,9 @@
+@extends('layouts.frontend')
+
+@section('body')
 <body class="page-template-template-contactpage">
    <div id="page" class="hfeed site">
-
-@extends('layouts.frontend')
+@endsection
 
 @section('main_content')
             <div class="contact-map" >

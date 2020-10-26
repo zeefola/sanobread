@@ -35,7 +35,8 @@
 
       @includeIf('layouts.analytics')
    </head>
-
+      {{-- body --}}
+      @yield('body')
    
         {{-- header --}}
         @includeIf('layouts.header')

@@ -1,7 +1,10 @@
-<body class="blog full-width">
-    <div id="page" class="hfeed site">
 @extends('layouts.frontend')
- 
+
+@section('body')
+<body class="blog full-width">
+   <div id="page" class="hfeed site">
+@endsection
+
 @section('breadcrumb')
 @includeIf('layouts.breadcrumb', ['title' => 'Blog'])
 @endsection

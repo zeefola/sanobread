@@ -1,7 +1,9 @@
+@extends('layouts.frontend')
+
+@section('body')
 <body class="page-template-template-homepage-v1 home-v1">
-    <div id="page" class="hfeed site">
-        
-   @extends('layouts.frontend')
+   <div id="page" class="hfeed site">
+@endsection
 
 @section('banner')
 @includeIf('layouts.banner')

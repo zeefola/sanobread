@@ -1,8 +1,10 @@
-<body class="terms-conditions">
-    <div id="page" class="hfeed site">
-       
- @extends('layouts.frontend')
+@extends('layouts.frontend')
  
+ @section('body')
+ <body class="terms-conditions">
+   <div id="page" class="hfeed site">
+@endsection
+
 @section('breadcrumb')
 @includeIf('layouts.breadcrumb', ['title' => 'Terms of Use'])
 @endsection
