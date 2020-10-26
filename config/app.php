@@ -14,9 +14,12 @@ return [
     */
 
     'name' => env('APP_NAME', 'SANOBREAD'),
-    // 'facebook' => 'https://web.facebook.com/Sanofoodsltd-101262698316740',
-    // 'twitter' => '#',
-    // 'instagram' => 'https://instagram.com/sanofoodsltd/',
+    'facebook' => 'https://www.facebook.com/sanobread',
+    'twitter' => 'https://twitter.com/sanobread',
+    'instagram' => 'https://www.instagram.com/sanobread/',
+    'linkedin' => '#',
+    'pinterest' => '#',
+    'youtube' => '#',
     'telephone_1' => '(+234) 906-2822-258',
     'telephone_2' => '(+234) 904-6040-991',
     // 'email' => 'info@sanofoods.ng',
