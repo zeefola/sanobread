@@ -100,7 +100,9 @@ class HomepageController extends Controller
         SEOTools::setTitle('Frequently Asked Questions');
         SEOTools::setDescription('This is my page description');
 
-        return view('faq');
+        $datas = \App\Repositories\Faq::getFaq();
+
+        return view('faq', compact('datas'));
     }
 
     public function terms_of_use() {

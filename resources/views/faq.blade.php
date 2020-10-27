@@ -25,78 +25,20 @@
                      <div class="kc-elm kc-css-248013 kc_col-sm-12 col-md-12 kc_column kc_col-sm-12">
                         <div class="kc-col-container">
                            <div class="panel-group" id="accordion">
+                              @foreach($datas as $data)
                               <div class="panel panel-default">
                                  <div class="panel-heading">
                                     <h3 class="panel-title">
-                                       <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne"><i class=""></i> What Shipping Methods are Available?</a>
+                                       <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse{{ $loop->iteration }}"><i class=""></i> {{ $data->question }}</a>
                                     </h3>
                                  </div>
-                                 <div id="collapseOne" class="panel-collapse collapse in">
+                                 <div id="collapse{{ $loop->iteration }}" class="panel-collapse collapse">
                                     <div class="panel-body">
-                                       <p>Aenean malesuada vitae nibh id lacinia. Vestibulum imperdiet viverra lobortis. Quisque placerat sapien non placerat interdum. libero vitae scelerisque tristique, turpis augue faucibus dolor, at aliquet ligula massa at justo.</p>
+                                       <p>{{ $data->answer }}</p>
                                     </div>
                                  </div>
                               </div>
-                              <div class="panel panel-default">
-                                 <div class="panel-heading">
-                                    <h3 class="panel-title">
-                                       <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo"><i class=""></i> How Long Will it Take To Get My Package?</a>
-                                    </h3>
-                                 </div>
-                                 <div id="collapseTwo" class="panel-collapse collapse">
-                                    <div class="panel-body">
-                                       <p>In egestas, libero vitae scelerisque tristique, turpis augue faucibus dolor, at aliquet ligula massa at justo. Donec viverra tortor quis tortor scelerisque risus finibus. Integer viverra pretium auctor.</p>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="panel panel-default">
-                                 <div class="panel-heading">
-                                    <h3 class="panel-title">
-                                       <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseThree"><i class=""></i> How Do I Track My Order?</a>
-                                    </h3>
-                                 </div>
-                                 <div id="collapseThree" class="panel-collapse collapse">
-                                    <div class="panel-body">
-                                       <p>Aenean malesuada vitae nibh id lacinia. Vestibulum imperdiet viverra lobortis. Quisque placerat sapien non placerat interdum. libero vitae scelerisque tristique, turpis augue faucibus dolor, at aliquet ligula massa at justo.</p>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="panel panel-default">
-                                 <div class="panel-heading">
-                                    <h3 class="panel-title">
-                                       <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseFour"><i class=""></i> How do I place an Order?</a>
-                                    </h3>
-                                 </div>
-                                 <div id="collapseFour" class="panel-collapse collapse">
-                                    <div class="panel-body">
-                                       <p>Dolor sit amet, consectetur adipiscing elit. Etiam quis diam erat. Duis velit lectus, posuere a blandit sit amet, tempor at lorem. libero vitae scelerisque tristique, turpis augue faucibus dolor, at aliquet ligula massa at justo.</p>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="panel panel-default">
-                                 <div class="panel-heading">
-                                    <h3 class="panel-title">
-                                       <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseFive"> Who should I to contact if I have any queries?</a>
-                                    </h3>
-                                 </div>
-                                 <div id="collapseFive" class="panel-collapse collapse">
-                                    <div class="panel-body">
-                                       <p>Aenean malesuada vitae nibh id lacinia. Vestibulum imperdiet viverra lobortis. Quisque placerat sapien non placerat interdum. libero vitae scelerisque tristique, turpis augue faucibus dolor, at aliquet ligula massa at justo.</p>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="panel panel-default">
-                                 <div class="panel-heading">
-                                    <h3 class="panel-title">
-                                       <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseSix"><i class=""></i> Do I need an account to place an order?</a>
-                                    </h3>
-                                 </div>
-                                 <div id="collapseSix" class="panel-collapse collapse">
-                                    <div class="panel-body">
-                                       <p>In egestas, libero vitae scelerisque tristique, turpis augue faucibus dolor, at aliquet ligula massa at justo. Donec viverra tortor quis tortor scelerisque risus finibus. Integer viverra pretium auctor.</p>
-                                    </div>
-                                 </div>
-                              </div>
+                              @endforeach
                            </div>
                         </div>
                      </div>
