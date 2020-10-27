@@ -10,8 +10,6 @@
 @endsection
 
 @section('main_content')
-<div id="primary" class="content-area">
-   <main id="main" class="site-main" >
       <div id="post-375" class="post-375 page type-page status-publish hentry">
          {{-- <header class="entry-header">
             <h3 class="entry-title">Frequently Asked Questions</h3>

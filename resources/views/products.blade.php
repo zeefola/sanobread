@@ -1,6 +1,6 @@
- @extends('layouts.frontend')
+@extends('layouts.frontend')
 
- @section('body')
+@section('body')
  <body class="full-width grid-view columns-3 archive woocommerce-page">
    <div id="page" class="hfeed site">
 @endsection
