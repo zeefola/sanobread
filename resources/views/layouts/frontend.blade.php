@@ -39,7 +39,7 @@
       @yield('body')
    
         {{-- header --}}
-        @includeIf('layouts.header')
+        @yield('header')
         {{-- end header --}}
         <div id="content" class="site-content" tabindex="-1" >
             <div class="col-full">

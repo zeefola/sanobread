@@ -1,5 +1,9 @@
 @extends('layouts.frontend')
 
+@section('header')
+@includeIf('layouts.header')
+@endsection
+
 @section('body')
  <body class="full-width grid-view columns-3 archive woocommerce-page">
    <div id="page" class="hfeed site">
