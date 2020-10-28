@@ -1,5 +1,9 @@
 @extends('layouts.frontend')
 
+@section('header')
+@includeIf('layouts.header')
+@endsection
+
 @section('body')
 <body class="blog full-width">
    <div id="page" class="hfeed site">

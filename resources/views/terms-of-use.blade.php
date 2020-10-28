@@ -1,8 +1,12 @@
 @extends('layouts.frontend')
- 
- @section('body')
- <body class="terms-conditions">
-   <div id="page" class="hfeed site">
+
+@section('header')
+@includeIf('layouts.header')
+@endsection
+
+@section('body')
+<body class="terms-conditions">
+<div id="page" class="hfeed site">
 @endsection
 
 @section('breadcrumb')
