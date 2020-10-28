@@ -11,9 +11,9 @@ return [
         'defaults'       => [
             'title'        => config('app.name'), // set false to total remove
             'titleBefore'  => false, // Put defaults.title before page title, like 'It's Over 9000! - Dashboard'
-            'description'  => 'For those who helped create the Genki Dama', // set false to total remove
+            'description'  => 'Vitamin In Every Bite', // set false to total remove
             'separator'    => ' - ',
-            'keywords'     => [],
+            'keywords'     => ['Bread, Bread in Lagos, Orange-Fleshed Sweet Potato, Sano Bread, Healthy Bread, Cheap Bread in Lagos, Healthy Bread in Lagos, Cheap Bread, Affordable bread, Fresh Bread, Organic Bread, Fresh Bread in Lagos, Vitamin A, Foods with Vitamin A, Healthy Food, Organic Food'],
             'canonical'    => null, // Set null for using Url::current(), set false to total remove
             'robots'       => 'index,follow', // Set to 'all', 'none' or any combination of index/noindex and follow/nofollow
         ],
@@ -37,7 +37,7 @@ return [
          */
         'defaults' => [
             'title'       => config('app.name'), // set false to total remove
-            'description' => 'For those who helped create the Genki Dama', // set false to total remove
+            'description' => 'Vitamin In Every Bite', // set false to total remove
             'url'         => null, // Set null for using Url::current(), set false to total remove
             'type'        => 'Website',
             'site_name'   => config('app.name'),
@@ -59,7 +59,7 @@ return [
          */
         'defaults' => [
             'title'       => config('app.name'), // set false to total remove
-            'description' => 'For those who helped create the Genki Dama', // set false to total remove
+            'description' => 'Vitamin In Every Bite', // set false to total remove
             'url'         => null, // Set null for using Url::current(), set false to total remove
             'type'        => 'WebPage',
             'images'      => [config('app.url').'/assets/images/sanobread.png'],

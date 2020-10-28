@@ -27,4 +27,12 @@ Route::get('/products', 'HomepageController@products');
 Route::get('/faq', 'HomepageController@faq');
 // Route::get('/newsletter', 'HomepageController@news_letter');
 Route::get('/terms-of-use', 'HomepageController@terms_of_use');
+
 Route::get('/la-familia', 'HomepageController@la_familia');
+Route::get('/classic-loaf', 'HomepageController@classic_loaf');
+Route::get('/amet-coconut-loaf', 'HomepageController@amet_coconut_loaf');
+Route::get('/fresh-basil-slipper', 'HomepageController@fresh_basil_slipper');
+Route::get('/fresco-delight-loaf', 'HomepageController@fresco_delight_loaf');
+Route::get('/sano-juice', 'HomepageController@sano_juice');
+Route::get('/breakfast-box', 'HomepageController@breakfast_box');
+
