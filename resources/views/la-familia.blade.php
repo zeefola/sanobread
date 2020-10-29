@@ -33,6 +33,7 @@
 
 
       @includeIf('layouts.analytics')
+      @includeIf('layouts.schema.organization')
    </head>
    <body class="home-v2 page-template-template-homepage-v2 html-change woocommerce-active">
       <div id="page" class="hfeed site">

@@ -34,6 +34,7 @@
 
 
       @includeIf('layouts.analytics')
+      @includeIf('layouts.schema.organization')
    </head>
       {{-- body --}}
       @yield('body')
