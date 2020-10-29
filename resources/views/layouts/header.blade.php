@@ -16,37 +16,7 @@
           <nav id="site-navigation" class="main-navigation"  aria-label="Primary Navigation">
              <button class="menu-toggle" aria-controls="site-navigation" aria-expanded="false"><span class="close-icon"><i class="po po-close-delete"></i></span><span class="menu-icon"><i class="po po-menu-icon"></i></span><span class=" screen-reader-text">Menu</span></button>
              <div class="primary-navigation">
-                <ul id="menu-main-menu" class="menu nav-menu" aria-expanded="false">
-                   
-                   <li class="menu-item"><a href="/">Home</a></li>
-                   <li class="menu-item"><a href="/about-us">About Us</a></li>
-                   <li class="menu-item"><a href="/products">Products</a></li>
-                   <li class="cart-content menu-item-has-children">
-                    <a><span>Pages</span></a>
-                    <ul class="sub-menu">
-                       <li>
-                          <a href="/contact-us" title="Contact Us ">
-                          <span class="count">Contact Us</span>
-                          </a>
-                       </li>
-                       <li>
-                          <a href="/faq" title="Faq">
-                            <span class="count">Faq</span>
-                          </a>
-                       </li>
-                     {{-- <li>
-                        <a href="/newsletter" title="News Letter">
-                          <span class="count">News Letter</span>
-                        </a>
-                     </li> --}}
-                     <li>
-                        <a href="/terms-of-use" title="Terms of Use">
-                          <span class="count">Terms of Use</span>
-                        </a>
-                     </li>
-                    </ul>
-                 </li>
-                </ul>
+                @yield('site_navigation')
              </div>
              <div class="handheld-navigation">
                 <span class="phm-close">Close</span>

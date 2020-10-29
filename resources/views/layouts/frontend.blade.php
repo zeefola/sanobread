@@ -40,6 +40,39 @@
       @yield('body')
    
         {{-- header --}}
+        @section('site_navigation')
+        <ul id="menu-main-menu" class="menu nav-menu" aria-expanded="false" itemscope itemtype="http://www.schema.org/SiteNavigationElement">
+                   
+         <li class="menu-item"><a href="/">Home</a></li>
+         <li class="menu-item" itemprop="name"><a itemprop="url" href="/about-us">About Us</a></li>
+         <li class="menu-item" itemprop="name"><a itemprop="url" href="/products">Products</a></li>
+         <li class="cart-content menu-item-has-children">
+          <a><span>Pages</span></a>
+          <ul class="sub-menu">
+             <li itemprop="name">
+                <a itemprop="url" href="/contact-us" title="Contact Us ">
+                <span class="count">Contact Us</span>
+                </a>
+             </li>
+             <li itemprop="name">
+                <a itemprop="url" href="/faq" title="Faq">
+                  <span class="count">Faq</span>
+                </a>
+             </li>
+           {{-- <li>
+              <a href="/newsletter" title="News Letter">
+                <span class="count">News Letter</span>
+              </a>
+           </li> --}}
+           <li itemprop="name">
+              <a itemprop="url" href="/terms-of-use" title="Terms of Use">
+                <span class="count">Terms of Use</span>
+              </a>
+           </li>
+          </ul>
+       </li>
+      </ul>
+      @endsection
         @yield('header')
         {{-- end header --}}
         <div id="content" class="site-content" tabindex="-1" >
