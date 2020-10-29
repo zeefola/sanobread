@@ -1,7 +1,7 @@
 <script type="application/ld+json">
     {
       "@context": "https://schema.org",
-      "@type": "Corporation",
+      "@type": "Organization",
       "name": "Sano Bread",
       "alternateName": "Sano Bakery",
       "url": "http://sanobread.com/",
