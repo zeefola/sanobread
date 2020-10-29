@@ -1,9 +1,5 @@
 @extends('layouts.frontend')
 
-@section('header')
-@includeIf('layouts.header')
-@endsection
-
 @section('body')
 <body class="about full-width page-template-template-aboutpage">
     <div id="page" class="hfeed site">

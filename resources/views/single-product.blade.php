@@ -1,8 +1,5 @@
 @extends('layouts.frontend')
 
-@section('header')
-@includeIf('layouts.header')
-@endsection
 
 @section('body')
 <body class="single-product style-2">

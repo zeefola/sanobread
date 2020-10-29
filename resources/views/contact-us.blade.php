@@ -1,9 +1,5 @@
 @extends('layouts.frontend')
 
-@section('header')
-@includeIf('layouts.header')
-@endsection
-
 @section('body')
 <body class="page-template-template-contactpage">
    <div id="page" class="hfeed site">

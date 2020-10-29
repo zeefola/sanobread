@@ -73,7 +73,7 @@
        </li>
       </ul>
       @endsection
-        @yield('header')
+      @includeIf('layouts.header')
         {{-- end header --}}
         <div id="content" class="site-content" tabindex="-1" >
             <div class="col-full">
