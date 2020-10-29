@@ -7,7 +7,7 @@
 
 @section('main_content')
             <div class="contact-map" >
-               <iframe allowfullscreen height="450" src="https://maps.google.com/maps?q=20%2C%20Oba%20Ogunusi%20Road%2C%20Akiode%20Bus%20stop%2C%20Ojudu%20Berger%2C%20Lagos%2C%20Nigeria&t=&z=13&ie=UTF8&iwloc=&output=embed"></iframe>
+               <iframe allowfullscreen height="450" src="https://maps.google.com/maps?q=49%2C%20Agbado%20Road%2C%20Oke-Ayo%20Bus-Stop%2C%20Ishaga%2C%20Lagos%20State&t=&z=13&ie=UTF8&iwloc=&output=embed" ></iframe>
             </div>
             <header class="contact-header">
                <h1 class="entry-title">Contact Us</h1>
@@ -92,17 +92,17 @@
                            <div class="col-md-3 col-sm-3 col-xs-12">
                               <div class="store-info">
                                  <h2>Our Address</h2>
-                                 <p>17 Princess Road London, Greater London NW1 8JR, UK<br>Support (+800) 856 800 604<br>E-mail: info@pizzaro.com</p>
+                                 <p>{{ config('app.address') }}<br>Support: {{ config('app.telephone_3') }}<br>E-mail: {{ config('app.email') }}</p>
                                  <div class="address">
                                     <h3>Opening Hours</h3>
                                     <div class="address-info">
                                        <ul>
-                                          <li class="clearfix"><span class="day">Monday</span><span class="pull-right flip hours">12-6 PM</span></li>
-                                          <li class="clearfix"><span class="day">Tuesday</span><span class="pull-right flip hours">12-6 PM</span></li>
-                                          <li class="clearfix"><span class="day">Wednesday</span><span class="pull-right flip hours">12-6 PM</span></li>
-                                          <li class="clearfix"><span class="day">Thursday</span><span class="pull-right flip hours">12-6 PM</span></li>
-                                          <li class="clearfix"><span class="day">Friday</span><span class="pull-right flip hours">12-6 PM</span></li>
-                                          <li class="clearfix"><span class="day">Saturday</span><span class="pull-right flip hours">12-6 PM</span></li>
+                                          <li class="clearfix"><span class="day">Monday</span><span class="pull-right flip hours">8 AM - 7 PM</span></li>
+                                          <li class="clearfix"><span class="day">Tuesday</span><span class="pull-right flip hours">8 AM - 7 PM</span></li>
+                                          <li class="clearfix"><span class="day">Wednesday</span><span class="pull-right flip hours">8 AM - 7 PM</span></li>
+                                          <li class="clearfix"><span class="day">Thursday</span><span class="pull-right flip hours">8 AM - 7 PM</span></li>
+                                          <li class="clearfix"><span class="day">Friday</span><span class="pull-right flip hours">8 AM - 7 PM</span></li>
+                                          <li class="clearfix"><span class="day">Saturday</span><span class="pull-right flip hours">8 AM - 7 PM</span></li>
                                           <li class="clearfix"><span class="day">Sunday</span><span class="pull-right flip hours">Closed</span></li>
                                        </ul>
                                     </div>
@@ -110,7 +110,7 @@
                                  <div class="address">
                                     <h3>Careers.</h3>
                                     <div class="address-info">
-                                       <p class="inner-right-md">If you are interested in employment opportunities at Pizzaro, please email us: <a href="mailto:contact@yourstore.com">contact@yourstore.com</a></p>
+                                       <p class="inner-right-md">If you are interested in employment opportunities at Sano Bakery, please email us: <a href="mailto:info@sanobread.com">{{ config('app.email') }}</a></p>
                                     </div>
                                  </div>
                               </div>

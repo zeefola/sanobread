@@ -20,12 +20,12 @@ return [
     'linkedin' => 'https://www.linkedin.com/in/sano-bread-75a3181b9/',
     'pinterest' => 'https://www.pinterest.com/sanobread/',
     'youtube' => '#',
-    'telephone_1' => '(+234) 906-8790-206',
-    'telephone_2' => '(+234) 808-2996-801',
-    // 'email' => 'info@sanofoods.ng',
+    'telephone_1' => '090 687 90 206' ,
+    'telephone_2' => '(+234) 906-8790-206',
+    'telephone_3' => '(+234) 808-2996-801',
+    'email' => 'info@sanobread.com',
     'location' => 'Lagos, Nigeria',
-    'address' => '20, Oba Ogunusi Road, Akiode Bus stop, Ojudu Berger, 
-    Lagos, Nigeria' ,
+    'address' => '49, Agbado Road, Oke-Ayo Bus-Stop, Ishaga, Lagos State' ,
     'web' => 'www.sanobread.com',
 
     /*

@@ -42,20 +42,20 @@
        </div>
        <div class="site-address">
           <ul class="address">
-             <li>Pizzaro Restaurant</li>
-             <li>901-947 South Drive, Houston, TX 77057, USA</li>
-             <li>Telephone: +1 555 1234</li>
-             <li>Fax: +1 555 4444</li>
+             <li> {{ config('app.name') }} </li>
+             <li> {{ config('app.address') }} </li>
+             <li>Telephone 1: {{ config('app.telephone_2') }}</li>
+             <li>Telephone 2: {{ config('app.telephone_3') }}</li>
           </ul>
        </div>
        <div class="site-info">
           <p class="copyright">Copyright &copy; {{ date('Y') }} {{ config('app.name') }}. All rights reserved.</p>
        </div>
-       <!-- .site-info -->      <a role="button" class="footer-action-btn" data-toggle="collapse" href="#footer-map-collapse"><i class="po po-map-marker"></i>Find us on Map</a>
+       <!-- .site-info -->      <a role="button" class="footer-action-btn" data-toggle="collapse" href="/contact-us"><i class="po po-map-marker"></i>Find us on Map</a>
        <div class="pizzaro-handheld-footer-bar">
           <ul class="columns-3">
              <li class="my-account">
-                <a href="login-and-register.html">My Account</a>
+                <a href="https://shop.sanobread.com/login?back=my-account" target="_blank">My Account</a>
              </li>
              <li class="search">
                 <a href="">Search</a>
@@ -71,8 +71,8 @@
                 </div>
              </li>
              <li class="cart">
-                <a class="footer-cart-contents" href="cart.html" title="View your shopping cart">
-                <span class="count">2</span>
+                <a class="footer-cart-contents" href="https://shop.sanobread.com/cart?action=show" title="View your shopping cart" target="_blank">
+                <span class="count">0</span>
                 </a>
              </li>
           </ul>

@@ -86,19 +86,19 @@ class HomepageController extends Controller
         return view('products');
     }
 
-    public function single_product() {
+    // public function single_product() {
 
-        SEOTools::setTitle('Product_name here');
-        SEOTools::setDescription('This is my page description');
+    //     SEOTools::setTitle('Product_name here');
+    //     SEOTools::setDescription('This is my page description');
 
-        return view('single-product');
-    }
+    //     return view('single-product');
+    // }
 
 
     public function faq() {
 
         SEOTools::setTitle('Frequently Asked Questions');
-        SEOTools::setDescription('This is my page description');
+        SEOTools::setDescription('We know you have questions. We are here to answer all the answers to the most frequently asked questions (FAQs) regarding our different categories of bread products.');
 
         $datas = \App\Repositories\Faq::getFaq();
 

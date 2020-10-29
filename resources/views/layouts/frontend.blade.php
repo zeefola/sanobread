@@ -41,7 +41,7 @@
    
         {{-- header --}}
         @section('site_navigation')
-        <ul id="menu-main-menu" class="menu nav-menu" aria-expanded="false" itemscope itemtype="http://www.schema.org/SiteNavigationElement">
+        <ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" id="menu-main-menu" class="menu nav-menu" aria-expanded="false" >
                    
          <li class="menu-item"><a href="/">Home</a></li>
          <li class="menu-item" itemprop="name"><a itemprop="url" href="/about-us">About Us</a></li>
