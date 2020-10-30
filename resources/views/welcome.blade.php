@@ -17,7 +17,7 @@
              <a href="#">
                 <div class="banner-bg" style="background-size: cover; background-position: center center; background-image: url( assets/images/homepage-banners/1.jpg ); height: 442px;">
                    <div class="caption">
-                      <h3 class="title">GRILLED CHICKEN</h3>
+                      <h3 class="title">CLASSIC LOAF</h3>
                       <h4 class="subtitle">SUMMER PIZZA</h4>
                       <span class="button">HOT &amp; SPICY</span>
                       <span class="condition"><em>*</em>ONLY IN LOCAL</span>
@@ -33,8 +33,8 @@
                    <a href="#">
                       <div class="banner-bg" style="background-size: cover; background-position: center center; background-image: url( assets/images/homepage-banners/2.jpg ); height: 210px;">
                          <div class="caption">
-                            <h3 class="title">FREE</h3>
-                            <h4 class="subtitle">FRIES</h4>
+                            <h3 class="title">Fresh</h3>
+                            <h4 class="subtitle">Basil Slipper</h4>
                             <div class="description">for online orders in wendsdays</div>
                          </div>
                       </div>
@@ -44,8 +44,8 @@
                    <a href="#">
                       <div class="banner-bg" style="background-size: cover; background-position: center center; background-image: url( assets/images/homepage-banners/3.jpg ); height: 210px;">
                          <div class="caption">
-                            <h3 class="title">iCED COFFEE</h3>
-                            <h4 class="subtitle">SUMMERS</h4>
+                            <h3 class="title">La </h3>
+                            <h4 class="subtitle">Familia Loaf</h4>
                             <span class="condition"><em>*</em>ONLY IN LOCAL</span>
                          </div>
                       </div>
@@ -57,7 +57,7 @@
              <a href="#">
                 <div class="banner-bg" style="background-size: cover; background-position: center center; background-image: url( assets/images/homepage-banners/4.jpg  ); height: 210px;">
                    <div class="caption">
-                      <h3 class="title"><span>ORDER</span> ONLINE</h3>
+                      <h3 class="title"><span>Fresco</span> Delight Roll</h3>
                    </div>
                 </div>
              </a>
@@ -464,26 +464,26 @@
  </div>
  <div class="stretch-full-width section-products-sale-event"  style="background-size: cover; background-position: center center; background-image: url( assets/images/homepage-banners/5.jpg ); height: 468px;">
     <div class="sale-event-content">
-       <h3 class="pre-title"><span>FREE DELIVERY WITH</span></h3>
-       <h2 class="section-title">PIZZA OF THE DAY</h2>
+       <h3 class="pre-title"><span>Build your box of health here!</span></h3>
+       <h2 class="section-title">BREAKFAST BOX</h2>
        <div class="sale-event-products">
           <div class="products-price">
-             <span class="price"><span class="currency"> &#36;</span>9<span class="decimals">99</span><span class="price-info">EACH</span></span>
+             <span class="price"><span class="currency"> &#8358;</span>1<span class="decimals">500</span><span class="price-info">EACH</span></span>
           </div>
           <ul class="products-info">
              <li>
                 <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
-                   <h3>Vegge Lover</h3>
+                   <h3>Hurray</h3>
                 </a>
              </li>
              <li>
                 <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
-                   <h3>Summer Pizza</h3>
+                   <h3>And</h3>
                 </a>
              </li>
              <li>
                 <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
-                   <h3>Chicken Hawaii</h3>
+                   <h3>Order Now</h3>
                 </a>
              </li>
           </ul>
@@ -658,11 +658,11 @@
     <div class="product-wrapper">
        <div class="product-inner">
           <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
-             <h3>Pepperoni Pizza</h3>
+             <h3>SANO AMET COCONUT LOAF</h3>
              <div itemprop="description">
-                <p>Extra-virgin olive oil, garlic, mozzarella cheese, onions, mushrooms, green olives, black olives, fresh tomatoes.</p>
+                <p>Sano Amet Coconut Loaf comes with an adventurous, tropical coconutty feel made from organically grown Orange Fleshed Sweet Potato (OFSP).</p>
              </div>
-             <div  class="yith_wapo_groups_container">
+             {{-- <div  class="yith_wapo_groups_container">
                 <div  class="ywapo_group_container ywapo_group_container_radio form-row form-row-wide " data-requested="1" data-type="radio" data-id="1" data-condition="">
                    <h3><span>Pick Size</span></h3>
                    <div class="ywapo_input_container ywapo_input_container_radio">
@@ -680,7 +680,7 @@
                       <span class="ywapo_label_price"> <span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>25.90</span></span>
                    </div>
                 </div>
-             </div>
+             </div> --}}
           </a>
           <a rel="nofollow" href="single-product-v1.html" data-quantity="1" data-product_id="82" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
        </div>
@@ -691,29 +691,29 @@
        <div class="feature col-xs-12 col-sm-3">
           <div class="feature-icon"><i class="po po-best-quality"></i></div>
           <div class="feature-label">
-             <h4>Best Quality</h4>
-             <p>Praesent pulvinar neque pellentesque mattis pretium.</p>
-          </div>
-       </div>
-       <div class="feature col-xs-12 col-sm-3">
-          <div class="feature-icon"><i class="po po-on-time"></i></div>
-          <div class="feature-label">
-             <h4>On Time</h4>
-             <p>Praesent pulvinar neque pellentesque mattis pretium.</p>
-          </div>
-       </div>
-       <div class="feature col-xs-12 col-sm-3">
-          <div class="feature-icon"><i class="po po-master-chef"></i></div>
-          <div class="feature-label">
-             <h4>MasterChefs</h4>
-             <p>Praesent pulvinar neque pellentesque mattis pretium.</p>
+             <h4>OUR MISSION</h4>
+             <p>To bring delicious and nutritious bread to health-conscious people who love good food, and give people the platform for wealth creation.</p>
           </div>
        </div>
        <div class="feature col-xs-12 col-sm-3">
           <div class="feature-icon"><i class="po po-ready-delivery"></i></div>
           <div class="feature-label">
-             <h4>Taste Food</h4>
-             <p>Praesent pulvinar neque pellentesque mattis pretium.</p>
+             <h4>BEST QUALITY</h4>
+             <p>Baked with organic ingredients in the most hygienic environment.</p>
+          </div>
+       </div>
+       <div class="feature col-xs-12 col-sm-3">
+          <div class="feature-icon"><i class="po po-on-time"></i></div>
+          <div class="feature-label">
+             <h4>ON-TIME</h4>
+             <p>Timely sale and delivery of all your orders is assured.</p>
+          </div>
+       </div>
+       <div class="feature col-xs-12 col-sm-3">
+          <div class="feature-icon"><i class="po po-master-chef"></i></div>
+          <div class="feature-label">
+             <h4>MASTER BAKERS</h4>
+             <p>Our creative bakers are determined to give you the most amazing WOW mixes!</p>
           </div>
        </div>
     </div>

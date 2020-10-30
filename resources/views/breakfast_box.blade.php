@@ -9,8 +9,8 @@
                         <div id="owl-main" class="owl-carousel owl-inner-nav owl-ui-sm">
                            <div class="item slider-1" style="background-image: url(assets/images/slider/homepage-slider-1.jpg);">
                               <div class="caption fadeIn">
-                                 <div class="title">SANO LA FAMILIA LOAF</div>
-                                 <div class="sub-title">A loaf that speaks the language of Health, Creativity, and Family!</div>
+                                 <div class="title">UNBOX YOUR HEALTH!</div>
+                                 <div class="sub-title">Start your day with a box of health and unleash your creativity!</div>
                                  <div class="btn_action">
                                     <a href="">Order Now</a>
                                  </div>
@@ -152,12 +152,12 @@
                                  </div>
                                  <div class="col-md-7 content">
                                     <h2>Description</h2>
-                                    <p>Whether for a sandwich, or toast, spreads, or dips, the versatility and creative nature of a sliced 
-                                       loaf cannot be exhausted. Even better is the fact that it speaks FAMILY. You'd probably think it was OK, 
-                                       and that we should leave it alone. But the good stuff needs improving too, or else it'll end up being a 
-                                       cbit ordinary. That’s why we’ve gone the extra mile to ensure this breakfast king is served with vitamins. 
-                                       Cheers to health!
-                                       </p>
+                                    <p>Recall the anxiety of anticipating a gift box and the accompanying joy of 
+                                        unboxing it? This special breakfast box allows you the joy of relishing the 
+                                        health and taste of bread rolls made with Orange Fleshed Sweet Potato, perfect 
+                                        to start your day with. Then, if you’re thinking ‘wait, where the hell are my sides?’ No need to fret; you also get a sizeable helping of toppings, enhancers, creams, and drinks. More amazing is the fact that you can get it on-the-go and by order. So go ahead and UNBOX YOUR HEALTH! 
+                                        Consider this one a gift from nature!
+                                        </p>
                                  </div>
                               </div>
                            </div>
@@ -202,8 +202,8 @@
                      <div class="pitch-2">
                         <div class="container">
                           <div class="pitch-inner wow fadeInRight">
-                            <h1>Share with family! Ignite your creative powers! </h1>
-                            <button class="btn btn-action" type="button"><span>Order Now</span></button>
+                            <h1>To have this loaf of big, bold, classy, and specially made SANO Bread,</h1>
+                            <button class="btn btn-action" type="button"><span>Order Now!</span></button>
                           </div>
                         </div>
                       </div>
@@ -237,8 +237,8 @@
                         <span><i class="li_key"></i></span>
                         </div>
                         <div class="media-body">
-                        <h4>Vitamin A</h4>
-                        <p>The presence of Vitamin A in Orange Fleshed Sweet Potato (OFSP)</p>
+                        <h4>Easy To Purchase</h4>
+                        <p>Easy to purchase (online and on-the-go)</p>
                         </div>
                         </div>
                         <div class="media wow fadeInUp" data-wow-delay="0.3s">
@@ -246,8 +246,8 @@
                         <span><i class="li_megaphone"></i></span>
                         </div>
                         <div class="media-body">
-                        <h4>Creativity</h4>
-                        <p>Allows for creativity (toast, sandwich, dips)</p>
+                        <h4>Healthy</h4>
+                        <p>Healthy/organic bread rolls and drinks</p>
                         </div>
                         </div>
                         </div>
@@ -257,8 +257,8 @@
                         <span><i class="li_like"></i></span>
                         </div>
                         <div class="media-body">
-                        <h4>Growth</h4>
-                        <p>Supports cell growth and differentiation.</p>
+                        <h4>Breakfast Choices</h4>
+                        <p>Option to make breakfast choices</p>
                         </div>
                         </div>
                         <div class="media wow fadeInUp" data-wow-delay="0.3s">
@@ -266,8 +266,8 @@
                         <span><i class="li_user"></i></span>
                         </div>
                         <div class="media-body">
-                        <h4>Maintenance</h4>
-                        <p>Plays a critical role in the normal formation and maintenance of the heart, lungs, kidneys, and other organs.</p>
+                        <h4>Wholesome and affordable</h4>
+                        <p>Wholesome and affordable</p>
                         </div>
                         </div>
                         </div>

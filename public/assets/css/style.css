@@ -3914,7 +3914,7 @@ embed, iframe, object, video {
   .footer-logo .custom-logo-link {
     float: none;
     display: block;
-    margin-bottom: -2rem;
+    margin-bottom: 1rem;
     margin-top: -4rem; }
 
 .site-info {
@@ -4164,7 +4164,7 @@ embed, iframe, object, video {
   background-color: #232d35;
   color: #ddd;
   padding-top: 4.125em;
-  padding-bottom: 4.125em; }
+  padding-bottom: -1rem; }
   .site-footer.footer-v2 .footer-contact-form {
     float: left;
     position: relative;
@@ -7535,7 +7535,7 @@ button.menu-toggle {
   border: none;
   background-image: none;
   padding: 0;
-  font-size: 1.5rem; }
+  font-size: 3rem; }
   button.menu-toggle:hover {
     background-image: none; }
   button.menu-toggle span:before {
@@ -7709,7 +7709,7 @@ button.menu-toggle {
           color: #fff;
           text-shadow: 0 0 .65px #fff, 0 0 .65px #fff; }
       .secondary-navigation ul.menu > li + li, .secondary-navigation ul.nav-menu > li + li {
-        margin-left: 32px; }
+        margin-left: 1rem; }
       .secondary-navigation ul.menu ul, .secondary-navigation ul.nav-menu ul {
         margin-left: 0; }
         .secondary-navigation ul.menu ul li a, .secondary-navigation ul.nav-menu ul li a {
@@ -15474,7 +15474,8 @@ p.order-again .button:after {
 @media (max-width: 1199px) {
   .site-header {
     z-index: 10000;
-    padding: 1rem 0; }
+    padding-top: 2rem;
+    padding-bottom: 1rem; }
     .site-header .header-info-wrapper, .site-header .site-header-cart {
       display: none; }
     .site-header button.menu-toggle {
@@ -15490,9 +15491,8 @@ p.order-again .button:after {
       margin-right: 20px;
       margin-top: 10px; }
   .header-v1 .header-wrap {
-    justify-content: space-between;
-    margin-bottom: -2rem;
-    margin-top: -1rem; }
+    justify-content: space-between; 
+    margin-bottom: -1rem;}
   .header-v1.site-header .main-navigation {
     margin-top: 0; } }
 
@@ -16641,13 +16641,18 @@ a:hover, a:focus, a:visited {
   padding-bottom: 1rem;
 }
 .content-details h2 {
-  font-size: 40px;
+  font-size: 37px;
   font-weight: 500;
   margin-bottom: 20px;
   color: #333;
   margin: 0 0 10px;
   line-height: 1.1;
   letter-spacing: -.04em;
+}
+@media (max-width: 991px){
+  .content-details h2 {
+    margin-top: -5rem;
+  }
 }
 .content-details p {
   margin-bottom: 20px;
@@ -16695,6 +16700,7 @@ a:hover, a:focus, a:visited {
 @media (max-width: 767px){
 .xs-padding {
     padding: 15px;
+    padding-top: -5rem !important;
 }
 }
 

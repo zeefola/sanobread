@@ -11,7 +11,7 @@
             </div>
             <header class="contact-header">
                <h1 class="entry-title">Contact Us</h1>
-               <p class="description">We are a second-generation family business established in 1972</p>
+               <p class="description">We committed to serving you. Your feedback means a lot.</p>
                @includeIf('layouts.error_template')
             </header>
                      <div class="contact-form-with-address">
@@ -19,7 +19,7 @@
                            <div class="col-md-9 col-sm-9 col-xs-12">
                               <div class="contact-form">
                                  <h2>Leave us a Message</h2>
-                                 <p>Aenean massa diam, viverra vitae luctus sed, gravida eget est. Etiam nec ipsum porttitor, consequat libero eu, dignissim eros. Nulla auctor lacinia enim id mollis.</p>
+                                 <p>How Can We Help You?</p>
                                  <div role="form" class="wpcf7" id="wpcf7-f425-o1" lang="en-US" dir="ltr">
                                     <div class="screen-reader-response"></div>
                                     <form   class="wpcf7-form" method="POST" action="/contact-us">

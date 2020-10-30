@@ -128,7 +128,7 @@ class HomepageController extends Controller
         SEOTools::setTitle('Classic Loaf');
         SEOTools::setDescription('Sano Classic Loaf is a bold, appetizing loaf made from organically grown Orange Fleshed Sweet Potato (OFSP). This fresh-out-of-oven bread is made in Lagos and is rich in vitamins.');
 
-        // return view('terms-of-use');
+        return view('classic_loaf');
     }
 
     public function amet_coconut_loaf() {
@@ -136,7 +136,7 @@ class HomepageController extends Controller
         SEOTools::setTitle('Amet Coconut Loaf');
         SEOTools::setDescription('Sano Amet Coconut Loaf comes with an adventurous, tropical coconutty feel made from organically grown Orange Fleshed Sweet Potato (OFSP). This fresh-out-of-oven bread is made in Lagos and is rich in vitamins.');
 
-        // return view('terms-of-use');
+        return view('amet_coconut_loaf');
     }
 
     public function fresh_basil_slipper() {
@@ -144,15 +144,15 @@ class HomepageController extends Controller
         SEOTools::setTitle('Fresh Basil Slipper');
         SEOTools::setDescription('Sano Fresh Basil Slipper is a scenty, trendy and snacky amazing feel and is made from the nutritious Orange Fleshed Sweet Potato (OFSP). This fresh-out-of-oven bread is baked with love in Lagos and is rich in vitamins.');
 
-        // return view('terms-of-use');
+        return view('fresh_basil_slipper');
     }
 
-    public function fresco_delight_loaf() {
+    public function fresco_delight_roll() {
 
         SEOTools::setTitle('Fresco Delight Loaf');
         SEOTools::setDescription('The Sano Fresco Delight Loaf is an amazing bread with a snacky feel, made from the nutritious Orange Fleshed Sweet Potato (OFSP). This fresh-out-of-oven bread is rich in vitamins and proudly baked with love in Lagos.');
 
-        // return view('terms-of-use');
+        return view('fresco_delight_roll');
     }
 
     public function sano_juice() {
@@ -160,7 +160,7 @@ class HomepageController extends Controller
         SEOTools::setTitle('Sano Juice');
         SEOTools::setDescription('A trendy natural juice, filled with exciting moments of healthy and refreshing sips. SANO Lemongrass & Pineapple flavored Juice is an amazing blend of nature, made in Lagos, for your satisfaction.');
 
-        // return view('terms-of-use');
+        return view('sano_juice');
     }
 
     public function breakfast_box() {
@@ -168,6 +168,6 @@ class HomepageController extends Controller
         SEOTools::setTitle('Breakfast In A Box');
         SEOTools::setDescription('SANO breakfast box of healthy goodies made from naturally grown and produced spices is all the organic nourishment you need. Made in Lagos, specially for you!');
 
-        // return view('terms-of-use');
+        return view('breakfast_box');
     }
 }

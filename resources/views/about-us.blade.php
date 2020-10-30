@@ -17,19 +17,23 @@
             <!-- Content Column -->
             <div class="content-column col-lg-7 col-md-12 col-sm-12">
                 <div class="inner-column">
-                    <h2>Some Words About Us <br> & Our Fast Food</h2>
+                    <h2>About Sano Bakery</h2>
                     <div class="text">
-                        <p>Leverage agile frameworks to provide a robust synopsis for high level overviews.
-                            Iterative approaches to corporate strategy foster collaborative thinking to further
-                            the overall value proposition. Organically grow the holistic world view of
-                            disruptive innovation via workplace diversity and empowerment.</p>
-                        <p>Bring to the table win-win survival strategies to ensure proactive domination. At the
-                            end of the day, going forward, a new normal that has evolved from generation X is on
-                            the runway heading towards a streamlined cloud solution. User generated content in
-                            real-time will have multiple touchpoints for offshoring. strategies to ensure
-                            proactive domination. At the end of the day, going forward, a new normal that has
-                            evolved from generation X is on the runway heading towards a streamlined cloud
-                            solution</p>
+                        <p>Sano Bakery is the expression of nutrition and health-conscious baker's craft, 
+                            where Orange Fleshed Sweet Potato (OFSP), an excellent source of vitamin A, 
+                            a major raw material from organic farming, is processed, 
+                            using a special technique that guarantees good taste and health.
+                            All of Sano Bread variants are birthed from recent global research on the production 
+                            of nutritious and healthier food for human consumption. Our creative bakers then set 
+                            out to make Sano Bread by substituting about 30% to 40% of flour with 
+                            Orange Fleshed Sweet Potato (OFSP) in the bread production process.
+                         
+                        </p>
+                        <p>We strive for perfection and believe in giving our consumers the highest quality bread 
+                            possible and to achieve that, we source our ingredients from only organic farms around Nigeria.
+                            We provide bread for offices, schools, events, families, and individuals as both meals and 
+                            healthy snacks across Nigeria. No matter who you are, we have a Sano Bread that fits your unique meal style.
+                            </p>
                     </div>
                 </div>
             </div>
@@ -64,9 +68,9 @@
                                 alt="" /></a>
                     </div>
                     <div class="lower-content">
-                        <h4><a href="menu-features.html">Take Care of Quality</a></h4>
-                        <div class="text">apitalize on low hanging fruit to identify a ballpark value added
-                            activity to beta test. Override the digital divide with additional clickthroughs.
+                        <h4><a href="menu-features.html">Quality Unmatched</a></h4>
+                        <div class="text">Baked with the finest organic ingredients, 
+                            we create an identity of value and quality. Satisfaction is guaranteed to both your health and stomach.
                         </div>
                     </div>
                 </div>
@@ -80,9 +84,9 @@
                                 alt="" /></a>
                     </div>
                     <div class="lower-content">
-                        <h4><a href="menu-features.html">Taste Driven Food</a></h4>
-                        <div class="text">apitalize on low hanging fruit to identify a ballpark value added
-                            activity to beta test. Override the digital divide with additional clickthroughs.
+                        <h4><a href="menu-features.html">Taste Driven</a></h4>
+                        <div class="text">Think of amazing adjectives - Yummy! Appetizing! Delicious! Snacky! 
+                            Sano Bread is all of these and more. Your taste buds will thank you for your choice!
                         </div>
                     </div>
                 </div>
@@ -96,9 +100,9 @@
                                 alt="" /></a>
                     </div>
                     <div class="lower-content">
-                        <h4><a href="menu-features.html">On Time Delivery</a></h4>
-                        <div class="text">apitalize on low hanging fruit to identify a ballpark value added
-                            activity to beta test. Override the digital divide with additional clickthroughs.
+                        <h4><a href="menu-features.html">All About Your Health!</a></h4>
+                        <div class="text">
+                            We know you love being healthy, we do too. That’s why Sano Bread is fortified with OFSP which provides vitamins A & C, zinc, and iron.
                         </div>
                     </div>
                 </div>
@@ -113,9 +117,8 @@
 <section class="video-section" style="background-image: url(assets/images/12.jpg)">
     <div class="auto-container">
         <div class="content">
-            <h1>Big Taste <span>Great Taste</span></h1>
-            <div class="text">Nam sollicitudin tincidunt dolor. Nunc sed feugiat tortor. <br> In auctor odio
-                odio, ut auctor enim tempus.</div>
+            <h1>HEALTHY BREAD<span>AT LAST!</span></h1>
+            <div class="text">Our bakers are dedicated, hardworking, <br> and creative professionals</div>
         </div>
     </div>
 </section>
@@ -127,7 +130,7 @@
 
         <!-- Title Box -->
         <div class="title-box">
-            <h2>Our Chef</h2>
+            <h2>Meet Our Bakers</h2>
             <div class="text">Override the digital divide with additional clickthroughs from immersion <br>
                 along the information highway.</div>
         </div>
@@ -289,7 +292,7 @@
                     <div class="icon-box">
                         <img src="assets/images/service-1.png" alt="" />
                     </div>
-                    <h6>Free shipping on <br> first order</h6>
+                    <h6>Free Delivery <br> On First Order</h6>
                     <div class="text">Sign up for updates and <br> get free shipping</div>
                 </div>
             </div>
@@ -300,8 +303,8 @@
                     <div class="icon-box">
                         <img src="assets/images/service-2.png" alt="" />
                     </div>
-                    <h6>Best Taste <br> Guaranttee</h6>
-                    <div class="text">We use best ingredients to <br> cook the taste food.</div>
+                    <h6>Best Taste <br> Guaranteed</h6>
+                    <div class="text">We use the best organic <br> ingredients to bake</div>
                 </div>
             </div>
 
@@ -311,8 +314,8 @@
                     <div class="icon-box">
                         <img src="assets/images/service-3.png" alt="" />
                     </div>
-                    <h6>Variety of <br> Dishes</h6>
-                    <div class="text">We give variety of dishes, <br> deserts, and drinks</div>
+                    <h6>Varieties Just <br> For You</h6>
+                    <div class="text">Explore our various <br> bread variants made for you</div>
                 </div>
             </div>
 
@@ -322,8 +325,8 @@
                     <div class="icon-box">
                         <img src="assets/images/service-4.png" alt="" />
                     </div>
-                    <h6>25 Minites <br> Delivery</h6>
-                    <div class="text">We deliver your food at <br> your dooe that you order</div>
+                    <h6>Swift <br> Delivery</h6>
+                    <div class="text">Timely delivery of all <br> your orders is assured</div>
                 </div>
             </div>
 

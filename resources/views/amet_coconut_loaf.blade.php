@@ -1,7 +1,7 @@
 @extends('layouts.landing_header')
 
 @section('main_content')
-<div id="content" class="site-content" tabindex="-1" >
+         <div id="content" class="site-content" tabindex="-1" >
             <div class="col-full">
                <div id="primary" class="content-area">
                   <main id="main" class="site-main" >
@@ -9,8 +9,8 @@
                         <div id="owl-main" class="owl-carousel owl-inner-nav owl-ui-sm">
                            <div class="item slider-1" style="background-image: url(assets/images/slider/homepage-slider-1.jpg);">
                               <div class="caption fadeIn">
-                                 <div class="title">SANO LA FAMILIA LOAF</div>
-                                 <div class="sub-title">A loaf that speaks the language of Health, Creativity, and Family!</div>
+                                 <div class="title">SANO AMET COCONUT LOAF</div>
+                                 <div class="sub-title">Discover the tropical adventure in this nutritious combination of Coconut and OFSP.</div>
                                  <div class="btn_action">
                                     <a href="">Order Now</a>
                                  </div>
@@ -39,7 +39,7 @@
                                                    </div>
                                                    <div class="product-content-wrapper">
                                                       <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
-                                                         <h3>Tasty</h3>
+                                                         <h3>Adventurous</h3>
                                                       </a>
                                                       <div class="hover-area">
                                                          <a rel="nofollow" href="single-product-v1.html" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
@@ -60,7 +60,7 @@
                                                    </div>
                                                    <div class="product-content-wrapper">
                                                       <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
-                                                         <h3>Soft</h3>
+                                                         <h3>Exciting</h3>
                                                       </a>
                                                       <div class="hover-area">
                                                          <a rel="nofollow" href="single-product-v1.html" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
@@ -81,7 +81,7 @@
                                                    </div>
                                                    <div class="product-content-wrapper">
                                                       <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
-                                                         <h3>Creative</h3>
+                                                         <h3>Tropical</h3>
                                                       </a>
                                                       <div class="hover-area">
                                                          <a rel="nofollow" href="single-product-v1.html" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
@@ -102,7 +102,7 @@
                                                    </div>
                                                    <div class="product-content-wrapper">
                                                       <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
-                                                         <h3>Rationable</h3>
+                                                         <h3>Appetizing</h3>
                                                       </a>
                                                       <div class="hover-area">
                                                          <a rel="nofollow" href="single-product-v1.html" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
@@ -123,7 +123,7 @@
                                                    </div>
                                                    <div class="product-content-wrapper">
                                                       <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
-                                                         <h3>Flexible and Family</h3>
+                                                         <h3>Tasty</h3>
                                                       </a>
                                                       <div class="hover-area">
                                                          <a rel="nofollow" href="single-product-v1.html" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
@@ -152,12 +152,12 @@
                                  </div>
                                  <div class="col-md-7 content">
                                     <h2>Description</h2>
-                                    <p>Whether for a sandwich, or toast, spreads, or dips, the versatility and creative nature of a sliced 
-                                       loaf cannot be exhausted. Even better is the fact that it speaks FAMILY. You'd probably think it was OK, 
-                                       and that we should leave it alone. But the good stuff needs improving too, or else it'll end up being a 
-                                       cbit ordinary. That’s why we’ve gone the extra mile to ensure this breakfast king is served with vitamins. 
-                                       Cheers to health!
-                                       </p>
+                                    <p>
+                                        Coconuts and the tropics are one inseparable combo, so much that the only memory they bring is of nice hot places. 
+                                        Whether you call it a nut, a fruit, or a seed, the life-affirming rays that you'll only get where 
+                                        this fibrous one-seeded drupe is grown finds expression in this adventurous mix. 
+                                        It’s a healthy coconutty fiesta!
+                                    </p>
                                  </div>
                               </div>
                            </div>
@@ -202,8 +202,8 @@
                      <div class="pitch-2">
                         <div class="container">
                           <div class="pitch-inner wow fadeInRight">
-                            <h1>Share with family! Ignite your creative powers! </h1>
-                            <button class="btn btn-action" type="button"><span>Order Now</span></button>
+                            <h1>Keep the fun up! Stay adventurous! Eat Sano Amet Coconut loaf! </h1>
+                            <button class="btn btn-action" type="button"><span>Order Now!</span></button>
                           </div>
                         </div>
                       </div>
@@ -213,8 +213,8 @@
                            <div class="content-wrap row">
                            <div class="col-md-6 xs-padding">
                            <div class="content-details">
-                           <h2>A loaf that speaks the language <br> of Health, Creativity, and Family!</h2>
-                           <p>Baked with love and vitamin-rich Orange Fleshed Sweet Potato (OFSP), Sano La Familia Loaf is an excellent source of vitamin A and nicely cut to suit your creative style - from sandwich, to toast, to dips.</p>
+                           <h2>Discover the tropical adventure in this nutritious <br> combination of Coconut and OFSP.</h2>
+                           <p>The nutritious and tasty amazing fusion of Coconut and Orange Fleshed Sweet Potato (OFSP) that is rich in beta-carotene, a major source of vitamin A will leave you longing for more.</p>
                            <a href="#" class="default-btn">Order Now</a>
                            </div>
                            </div>
@@ -247,7 +247,7 @@
                         </div>
                         <div class="media-body">
                         <h4>Creativity</h4>
-                        <p>Allows for creativity (toast, sandwich, dips)</p>
+                        <p>Plays a critical role in the normal formation and maintenance of the heart, lungs, kidneys, and other organs.</p>
                         </div>
                         </div>
                         </div>
@@ -266,8 +266,8 @@
                         <span><i class="li_user"></i></span>
                         </div>
                         <div class="media-body">
-                        <h4>Maintenance</h4>
-                        <p>Plays a critical role in the normal formation and maintenance of the heart, lungs, kidneys, and other organs.</p>
+                        <h4>Nutritious</h4>
+                        <p>Provides essential nutrients to the body that helps to shore up bones and bolster the immune system.</p>
                         </div>
                         </div>
                         </div>
@@ -334,4 +334,5 @@
             </div>
             <!-- .col-full -->
          </div>
-         @endsection
+         <!-- #content -->
+@endsection
