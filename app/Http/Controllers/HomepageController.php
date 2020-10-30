@@ -28,7 +28,7 @@ class HomepageController extends Controller
     public function contactUs(){
 
         SEOTools::setTitle('Contact Us');
-        SEOTools::setDescription('At SANO Breads, we are committed to giving you the best experience, however, if you can’t seem to find the answer to any of your questions within our FAQs, please contact us on our customer service line 080XXXXXXXX and EMAIL');
+        SEOTools::setDescription('At Sano Bread, we are committed to giving you the best experience. However, if you can’t seem to find the answer to any of your questions within our FAQs, please contact us on our customer service line 080XXXXXXXX and EMAIL');
     
         return view('contact-us');
     }
@@ -81,7 +81,7 @@ class HomepageController extends Controller
     public function products() {
 
         SEOTools::setTitle('Products');
-        SEOTools::setDescription('This is my page description');
+        SEOTools::setDescription('From a wide range of organic ingredients, these special organic breads have been carefully selected to give your taste buds sweet delight and health to your body.');
 
         return view('products');
     }
@@ -108,7 +108,7 @@ class HomepageController extends Controller
     public function terms_of_use() {
 
         SEOTools::setTitle('Terms of Use');
-        SEOTools::setDescription('This is my page description');
+        SEOTools::setDescription('Although, we love you and we look forward to always having you as a visitor here. However, we’re guided by some terms and conditions. Kindly go through our terms, as we are always here to satisfy your cravings.');
 
         return view('terms-of-use');
     }
