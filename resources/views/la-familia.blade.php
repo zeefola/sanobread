@@ -57,14 +57,11 @@
      
                      <hr>
                      <ul  class="menu">
-                         <li class="menu-item"><a href=""><i class="po po-pizza"></i>Pizza</a></li>
-                         <li class="menu-item"><a href=""><i class="po po-burger"></i>Burgers</a></li>
-                         <li class="menu-item"><a href=""><i class="po po-salads"></i>Salads</a></li>
-                         <li class="menu-item"><a href=""><i class="po po-tacos"></i>Tacos</a></li>
-                         <li class="menu-item"><a href=""><i class="po po-wraps"></i>Wraps</a></li>
-                         <li class="menu-item"><a href=""><i class="po po-fries"></i>Fries</a></li>
-                         <li class="menu-item"><a href=""><i class="po po-salads"></i>Salads</a></li>
-                         <li class="menu-item"><a href=""><i class="po po-drinks"></i>Drinks</a></li>
+                         <li class="menu-item"><a href="/classic"><i class="po po-wraps"></i>SANO Classic</a></li>
+                         <li class="menu-item"><a href="/la-familia"><i class="po po-wraps"></i>SANO Lafamilia</a></li>
+                         <li class="menu-item"><a href="/amet-coconut"><i class="po po-wraps"></i>SANO Amet Coconut</a></li>
+                         <li class="menu-item"><a href="/fresco-delight"><i class="po po-wraps"></i>SANO Fresco Delight</a></li>
+                         <li class="menu-item"><a href="/fresh"><i class="po po-wraps"></i>SANO Fresh Basil Slipper</a></li>
                       </ul>
                   </div>
                </nav>
@@ -235,52 +232,124 @@
                                        cbit ordinary. That’s why we’ve gone the extra mile to ensure this breakfast king is served with vitamins. 
                                        Cheers to health!
                                        </p>
-                                    <p>
-                                       Baked with love and vitamin-rich Orange Fleshed Sweet Potato (OFSP), 
-                                       Sano La Familia Loaf is an excellent source of vitamin A and nicely cut to suit your creative style - from sandwich, to toast, to dips. 
-                                    </p>
                                  </div>
                               </div>
                            </div>
                         </div>
                      </div>
 
-<section class="promo-section bg-grey bd-bottom padding">
-<div class="container">
-<div class="promo-wrap row">
-<div class="col-lg-3 col-sm-6 sm-padding">
-<div class="promo-content text-center">
-<i class="icon-speedometer"></i>
-<h3>Creativity</h3>
-<p>Allows for creativity (toast, sandwich, dips)</p>
-</div>
-</div> 
-<div class="col-lg-3 col-sm-6 sm-padding">
-<div class="promo-content text-center">
-<i class="icon-adjustments"></i>
-<h3>Cell Growth</h3>
-<p>Supports cell growth and differentiation.</p>
-</div>
-</div>
-<div class="col-lg-3 col-sm-6 sm-padding">
-<div class="promo-content text-center">
-<i class="icon-camera"></i>
-<h3>Vitamin A</h3>
-<p>The presence of Vitamin A in Orange Fleshed Sweet Potato (OFSP)</p>
-</div>
-</div>
-<div class="col-lg-3 col-sm-6 sm-padding">
-<div class="promo-content text-center">
-<i class="icon-bargraph"></i>
-<h3>Healthy Life</h3>
-<p>Plays a critical role in the normal formation and maintenance of the heart, lungs, kidneys, and other organs.</p>
-</div>
-</div> 
-</div>
-</div>
-</section>
+                     {{-- <section class="promo-section bg-grey bd-bottom padding">
+                     <div class="container">
+                     <div class="promo-wrap row">
+                     <div class="col-lg-3 col-sm-6 sm-padding">
+                     <div class="promo-content text-center">
+                     <i class="icon-speedometer"></i>
+                     <h3>Creativity</h3>
+                     <p>Allows for creativity (toast, sandwich, dips)</p>
+                     </div>
+                     </div> 
+                     <div class="col-lg-3 col-sm-6 sm-padding">
+                     <div class="promo-content text-center">
+                     <i class="icon-adjustments"></i>
+                     <h3>Cell Growth</h3>
+                     <p>Supports cell growth and differentiation.</p>
+                     </div>
+                     </div>
+                     <div class="col-lg-3 col-sm-6 sm-padding">
+                     <div class="promo-content text-center">
+                     <i class="icon-camera"></i>
+                     <h3>Vitamin A</h3>
+                     <p>The presence of Vitamin A in Orange Fleshed Sweet Potato (OFSP)</p>
+                     </div>
+                     </div>
+                     <div class="col-lg-3 col-sm-6 sm-padding">
+                     <div class="promo-content text-center">
+                     <i class="icon-bargraph"></i>
+                     <h3>Healthy Life</h3>
+                     <p>Plays a critical role in the normal formation and maintenance of the heart, lungs, kidneys, and other organs.</p>
+                     </div>
+                     </div> 
+                     </div>
+                     </div>
+                     </section> --}}
+                     
+                     <div class="pitch-2">
+                        <div class="container">
+                          <div class="pitch-inner wow fadeInRight">
+                            <h1>Share with family! Ignite your creative powers! </h1>
+                            <button class="btn btn-action" type="button"><span>Order Now</span></button>
+                          </div>
+                        </div>
+                      </div>
 
-                     <div class="section-events" >
+                     <section class="content-section bd-bottom padding">
+                        <div class="container">
+                           <div class="content-wrap row">
+                           <div class="col-md-6 xs-padding">
+                           <div class="content-details">
+                           <h2>A loaf that speaks the language <br> of Health, Creativity, and Family!</h2>
+                           <p>Baked with love and vitamin-rich Orange Fleshed Sweet Potato (OFSP), Sano La Familia Loaf is an excellent source of vitamin A and nicely cut to suit your creative style - from sandwich, to toast, to dips.</p>
+                           <a href="#" class="default-btn">Order Now</a>
+                           </div>
+                           </div>
+                           <div class="col-md-6 xs-padding text-center">
+                           <img src="/assets/images/content-bg-1.jpg" alt="img">
+                           </div>
+                           </div>
+                        </div>
+                     </section>
+
+                     <section class="row left-right-contents">
+                        <div class="container">
+                        <div class="row ">
+                        <div class="col-sm-12 col-md-4 col-md-push-4 text-center wow fadeIn">
+                        <img src="/assets/images/apple-watch-3.png" alt="">
+                        </div>
+                        <div class="col-md-4 col-sm-6 col-md-pull-4 left-content">
+                        <div class="media wow fadeInUp">
+                        <div class="media-left">
+                        <span><i class="li_key"></i></span>
+                        </div>
+                        <div class="media-body">
+                        <h4>Fast and secure</h4>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore </p>
+                        </div>
+                        </div>
+                        <div class="media wow fadeInUp" data-wow-delay="0.3s">
+                        <div class="media-left">
+                        <span><i class="li_megaphone"></i></span>
+                        </div>
+                        <div class="media-body">
+                        <h4>Voice Assistant</h4>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore </p>
+                        </div>
+                        </div>
+                        </div>
+                        <div class="col-md-4 col-sm-6 right-content">
+                        <div class="media wow fadeInUp">
+                        <div class="media-left">
+                        <span><i class="li_like"></i></span>
+                        </div>
+                        <div class="media-body">
+                        <h4>Stay in touch</h4>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore </p>
+                        </div>
+                        </div>
+                        <div class="media wow fadeInUp" data-wow-delay="0.3s">
+                        <div class="media-left">
+                        <span><i class="li_user"></i></span>
+                        </div>
+                        <div class="media-body">
+                        <h4>Designed for you</h4>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore </p>
+                        </div>
+                        </div>
+                        </div>
+                        </div>
+                        </div>
+                     </section>                        
+
+                     {{-- <div class="section-events" >
                         <h3 class="pre-title"><span>Customers Reviews</span></h3>
                         <h2 class="section-title">TESTIMONIALS</h2>
                         <div class="events">
@@ -331,7 +400,7 @@
                               </div>
                            </div>
                         </div>
-                     </div>
+                     </div> --}}
                   </main>
                   <!-- #main -->
                </div>
