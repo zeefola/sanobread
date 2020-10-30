@@ -5,13 +5,12 @@
              <div class="pre-title">
                 <div class="border front"></div>
                 <div class="lable">New!</div>
-                <div class="pre-title-value">LIMITED TIME OFFER</div>
+                <div class="pre-title-value">Best Offer</div>
                 <div class="border back"></div>
              </div>
-             <div class="title">SUPREME BBQ</div>
-             <div class="sub-title">CHICKEN</div>
-             <div class="bottom-caption">Bacon  -  Grilled Onions  -  Potatos  -  Mozarella  -  BBQ Sauce</div>
-          </div>
+             <div class="title">HEALTHY BREAD AT LAST!</div>
+             <div class="sub-title">Sano Bread is ready to take your taste buds on a deliciously nutritious journey. </div>
+         </div>
           <!-- /.caption -->
        </div>
        <!-- /.item -->

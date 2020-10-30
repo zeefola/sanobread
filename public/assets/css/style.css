@@ -3914,7 +3914,7 @@ embed, iframe, object, video {
   .footer-logo .custom-logo-link {
     float: none;
     display: block;
-    margin-bottom: -2rem;
+    margin-bottom: 1rem;
     margin-top: -4rem; }
 
 .site-info {
@@ -7709,7 +7709,7 @@ button.menu-toggle {
           color: #fff;
           text-shadow: 0 0 .65px #fff, 0 0 .65px #fff; }
       .secondary-navigation ul.menu > li + li, .secondary-navigation ul.nav-menu > li + li {
-        margin-left: 32px; }
+        margin-left: 1rem; }
       .secondary-navigation ul.menu ul, .secondary-navigation ul.nav-menu ul {
         margin-left: 0; }
         .secondary-navigation ul.menu ul li a, .secondary-navigation ul.nav-menu ul li a {
