@@ -42,7 +42,7 @@
                                            <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne"><i class=""></i> Brief description of SANO Bread?</a>
                                         </h3>
                                      </div>
-                                     <div id="collapseOne" class="panel-collapse collapse in">
+                                     <div id="collapseOne" class="panel-collapse collapse">
                                         <div class="panel-body">
                                            <p>SANO Bread is the outcome of recent global research on production of nutritious and healthier food for human consumption. It is made from substituting about 30% to 40% of flour with Orange Fleshed Sweet Potato (OFSP) in bread production process.</p>
                                         </div>

@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'name' => env('APP_NAME', 'SANOBREAD'),
+    'name' => env('APP_NAME', 'SanoBread'),
     'facebook' => 'https://www.facebook.com/sanobread',
     'twitter' => 'https://twitter.com/sanobread',
     'instagram' => 'https://www.instagram.com/sanobread/',

@@ -12,7 +12,8 @@ class HomepageController extends Controller
     public function index(){
 
         SEOTools::setTitle('Vitamin In Every Bite');
-        SEOTools::setDescription('This is my page description');
+        SEOTools::setDescription('To give you the healthy and nourishing taste that you deserve, Sano Breads have been baked to meet your healthy demands by being made from organically grown Orange Fleshed Sweet Potato (OFSP), a good source of Vitamin A. 
+        ');
 
         return view('welcome');
     }
@@ -20,7 +21,7 @@ class HomepageController extends Controller
     public function about_us(){
 
         SEOTools::setTitle('About Us');
-        SEOTools::setDescription('This is my page description');
+        SEOTools::setDescription('We are a team of committed and dedicated professional bakers with core values hinged on baking nutritious bread from the finest organic ingredients, to ensure you maintain good health.');
     
         return view('about-us');
     }
@@ -98,7 +99,7 @@ class HomepageController extends Controller
     public function faq() {
 
         SEOTools::setTitle('Frequently Asked Questions');
-        SEOTools::setDescription('We know you have questions. We are here to answer all the answers to the most frequently asked questions (FAQs) regarding our different categories of bread products.');
+        SEOTools::setDescription('We know you have questions. So, whether you want to know more about Sano bread variants, or how to make an order, or even become our distributor, we are here to answer all your questions.');
 
         $datas = \App\Repositories\Faq::getFaq();
 
