@@ -32,7 +32,7 @@ Route::get('/la-familia', 'HomepageController@la_familia');
 Route::get('/classic-loaf', 'HomepageController@classic_loaf');
 Route::get('/amet-coconut-loaf', 'HomepageController@amet_coconut_loaf');
 Route::get('/fresh-basil-slipper', 'HomepageController@fresh_basil_slipper');
-Route::get('/fresco-delight-loaf', 'HomepageController@fresco_delight_loaf');
+Route::get('/fresco-delight-roll', 'HomepageController@fresco_delight_roll');
 Route::get('/sano-juice', 'HomepageController@sano_juice');
 Route::get('/breakfast-box', 'HomepageController@breakfast_box');
 

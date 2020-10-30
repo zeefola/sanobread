@@ -1,7 +1,7 @@
 @extends('layouts.landing_header')
 
 @section('main_content')
-<div id="content" class="site-content" tabindex="-1" >
+         <div id="content" class="site-content" tabindex="-1" >
             <div class="col-full">
                <div id="primary" class="content-area">
                   <main id="main" class="site-main" >
@@ -9,8 +9,8 @@
                         <div id="owl-main" class="owl-carousel owl-inner-nav owl-ui-sm">
                            <div class="item slider-1" style="background-image: url(assets/images/slider/homepage-slider-1.jpg);">
                               <div class="caption fadeIn">
-                                 <div class="title">SANO LA FAMILIA LOAF</div>
-                                 <div class="sub-title">A loaf that speaks the language of Health, Creativity, and Family!</div>
+                                 <div class="title">SANO FRESCO DELIGHT ROLL</div>
+                                 <div class="sub-title">Cool! Effective! Snacky! You should try it!</div>
                                  <div class="btn_action">
                                     <a href="">Order Now</a>
                                  </div>
@@ -39,7 +39,7 @@
                                                    </div>
                                                    <div class="product-content-wrapper">
                                                       <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
-                                                         <h3>Tasty</h3>
+                                                         <h3>Cool</h3>
                                                       </a>
                                                       <div class="hover-area">
                                                          <a rel="nofollow" href="single-product-v1.html" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
@@ -60,7 +60,7 @@
                                                    </div>
                                                    <div class="product-content-wrapper">
                                                       <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
-                                                         <h3>Soft</h3>
+                                                         <h3>Calm</h3>
                                                       </a>
                                                       <div class="hover-area">
                                                          <a rel="nofollow" href="single-product-v1.html" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
@@ -81,7 +81,7 @@
                                                    </div>
                                                    <div class="product-content-wrapper">
                                                       <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
-                                                         <h3>Creative</h3>
+                                                         <h3>Conservative</h3>
                                                       </a>
                                                       <div class="hover-area">
                                                          <a rel="nofollow" href="single-product-v1.html" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
@@ -102,7 +102,7 @@
                                                    </div>
                                                    <div class="product-content-wrapper">
                                                       <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
-                                                         <h3>Rationable</h3>
+                                                         <h3>Effective</h3>
                                                       </a>
                                                       <div class="hover-area">
                                                          <a rel="nofollow" href="single-product-v1.html" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
@@ -123,7 +123,7 @@
                                                    </div>
                                                    <div class="product-content-wrapper">
                                                       <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
-                                                         <h3>Flexible and Family</h3>
+                                                         <h3>Snacky</h3>
                                                       </a>
                                                       <div class="hover-area">
                                                          <a rel="nofollow" href="single-product-v1.html" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
@@ -152,11 +152,8 @@
                                  </div>
                                  <div class="col-md-7 content">
                                     <h2>Description</h2>
-                                    <p>Whether for a sandwich, or toast, spreads, or dips, the versatility and creative nature of a sliced 
-                                       loaf cannot be exhausted. Even better is the fact that it speaks FAMILY. You'd probably think it was OK, 
-                                       and that we should leave it alone. But the good stuff needs improving too, or else it'll end up being a 
-                                       cbit ordinary. That’s why we’ve gone the extra mile to ensure this breakfast king is served with vitamins. 
-                                       Cheers to health!
+                                    <p>There are some strange rules around what you can and can’t eat together. Take jam for example; great spread for bread but a bit weird in a toast. Thanks to our creative bakers, this special recipe was birthed. They carefully handpicked the lemongrass, one of the world’s most medicinal plants, and brought it to mix. Game changers, yeah?
+                                        It’s a beauty to the eyes, a delight to your taste buds, and health to your body.
                                        </p>
                                  </div>
                               </div>
@@ -202,7 +199,7 @@
                      <div class="pitch-2">
                         <div class="container">
                           <div class="pitch-inner wow fadeInRight">
-                            <h1>Share with family! Ignite your creative powers! </h1>
+                            <h1>Take a bite of the Fresco Delight, and ignite the Oliver Twist in you! </h1>
                             <button class="btn btn-action" type="button"><span>Order Now</span></button>
                           </div>
                         </div>
@@ -213,8 +210,8 @@
                            <div class="content-wrap row">
                            <div class="col-md-6 xs-padding">
                            <div class="content-details">
-                           <h2>A loaf that speaks the language <br> of Health, Creativity, and Family!</h2>
-                           <p>Baked with love and vitamin-rich Orange Fleshed Sweet Potato (OFSP), Sano La Familia Loaf is an excellent source of vitamin A and nicely cut to suit your creative style - from sandwich, to toast, to dips.</p>
+                           <h2>Full extraction of nutrients, as both <br> major ingredients are organically grown.</h2>
+                           <p>The astonishing combo of fresh lemongrass and organically grown Orange Fleshed Sweet Potato (OFSP) in a loaf, is that perfect blend you need to keep going. Easy to carry, wholesome snack, health to your body!</p>
                            <a href="#" class="default-btn">Order Now</a>
                            </div>
                            </div>
@@ -237,8 +234,8 @@
                         <span><i class="li_key"></i></span>
                         </div>
                         <div class="media-body">
-                        <h4>Vitamin A</h4>
-                        <p>The presence of Vitamin A in Orange Fleshed Sweet Potato (OFSP)</p>
+                        <h4>Nutritious</h4>
+                        <p>Full extraction of nutrients, as both major ingredients are organically grown.</p>
                         </div>
                         </div>
                         <div class="media wow fadeInUp" data-wow-delay="0.3s">
@@ -334,4 +331,5 @@
             </div>
             <!-- .col-full -->
          </div>
-         @endsection
+         <!-- #content -->
+@endsection
