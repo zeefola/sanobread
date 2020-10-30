@@ -3914,7 +3914,8 @@ embed, iframe, object, video {
   .footer-logo .custom-logo-link {
     float: none;
     display: block;
-    margin-bottom: 0; }
+    margin-bottom: -2rem;
+    margin-top: -4rem; }
 
 .site-info {
   margin-bottom: 2.5em; }
@@ -3955,7 +3956,8 @@ embed, iframe, object, video {
   .pizzaro-handheld-footer-bar:after {
     clear: both; }
   .pizzaro-handheld-footer-bar ul {
-    margin: 0; }
+    margin: 0; 
+    }
     .pizzaro-handheld-footer-bar ul li {
       display: inline-block;
       float: left;
@@ -4204,7 +4206,7 @@ embed, iframe, object, video {
     float: right; }
   .site-footer.footer-v2 .footer-logo {
     margin: 0;
-    margin-bottom: 2.188em; }
+    margin-bottom: -5rem; }
     .site-footer.footer-v2 .footer-logo .site-title {
       margin: 0; }
     .site-footer.footer-v2 .footer-logo .site-description {
@@ -4238,7 +4240,7 @@ embed, iframe, object, video {
       .site-footer.footer-v2 ul.social-icons > li + li {
         margin-left: 1.75em; }
   .site-footer.footer-v2 .footer-contact-form .contact-form {
-    background-color: #fff;
+    background-color: #232d35;
     margin: 0 auto;
     padding: 2.875em 2.188em 2.375em 2.188em;
     position: absolute;
@@ -4339,7 +4341,7 @@ embed, iframe, object, video {
     margin-bottom: 1.542em; }
   .footer-about-info .content {
     padding-left: 20px;
-    width: 50%; }
+    padding-right: 35px; }
   .footer-about-info p {
     color: #666666;
     margin-bottom: 1.8em; }
@@ -15472,7 +15474,7 @@ p.order-again .button:after {
 @media (max-width: 1199px) {
   .site-header {
     z-index: 10000;
-    padding: 1.618em 0; }
+    padding: 1rem 0; }
     .site-header .header-info-wrapper, .site-header .site-header-cart {
       display: none; }
     .site-header button.menu-toggle {
@@ -16700,7 +16702,7 @@ a:hover, a:focus, a:visited {
   width: 100%;
   background: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5)), url(/assets/images/cta.jpg) no-repeat center center;
   background-size: cover;
-  padding: 50px 0 100px 0;
+  padding: 50px 0 170px 0;
   margin-bottom: 3rem;
   width: 100vw;
     position: relative;
