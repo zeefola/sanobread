@@ -54,7 +54,7 @@
        <!-- .site-info -->      <a role="button" class="footer-action-btn" data-toggle="collapse" href="/contact-us"><i class="po po-map-marker"></i>Find us on Map</a>
        <div class="pizzaro-handheld-footer-bar">
           <ul class="columns-3">
-             <li class="my-account">
+             {{-- <li class="my-account">
                 <a href="https://shop.sanobread.com/login?back=my-account" target="_blank">My Account</a>
              </li>
              <li class="search">
@@ -74,7 +74,7 @@
                 <a class="footer-cart-contents" href="https://shop.sanobread.com/cart?action=show" title="View your shopping cart" target="_blank">
                 <span class="count">0</span>
                 </a>
-             </li>
+             </li> --}}
           </ul>
        </div>
     </div>

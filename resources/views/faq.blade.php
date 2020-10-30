@@ -94,48 +94,63 @@
                                 <div class="panel panel-default">
                                     <div class="panel-heading">
                                     <h3 class="panel-title">
-                                        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordionRight" href="#collapseFive"><i class=""></i> How Do I Track My Order?</a>
+                                        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordionRight" href="#collapseFive"><i class=""></i> Can you explain these nutrients and how it benefits the body?</a>
                                     </h3>
                                     </div>
                                     <div id="collapseFive" class="panel-collapse collapse">
                                     <div class="panel-body">
-                                        <p>Aenean malesuada vitae nibh id lacinia. Vestibulum imperdiet viverra lobortis. Quisque placerat sapien non placerat interdum. libero vitae scelerisque tristique, turpis augue faucibus dolor, at aliquet ligula massa at justo.</p>
+                                        <p>
+                                            <ul>
+                                                <li>Vitamin A - helps your body's natural defence against illness and infection (the immune system) work properly. helping vision in dim light.</li>
+                                                <li>Vitamin C - is necessary for the growth, development and repair of all body tissues. It's involved in many body functions, including the proper functioning of the immune system, wound healing, and the maintenance ofbones, and teeth.</li>
+                                                <li>Zinc - helps your immune system and is also important to wound healing and your sense of taste and smell.</li>
+                                                <li>Iron - helps to preserve many vital functions in the body, including general energy and the immune system. Also help regulates body temperature.</li>
+                                            </ul>
+                                        </p>
                                     </div>
                                     </div>
                                 </div>
                                 <div class="panel panel-default">
                                     <div class="panel-heading">
                                     <h3 class="panel-title">
-                                        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordionRight" href="#collapseSix"><i class=""></i> How do I place an Order?</a>
+                                        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordionRight" href="#collapseSix"><i class=""></i> What are the different types of varieties available under SANO Bread?</a>
                                     </h3>
                                     </div>
                                     <div id="collapseSix" class="panel-collapse collapse">
                                     <div class="panel-body">
-                                        <p>Dolor sit amet, consectetur adipiscing elit. Etiam quis diam erat. Duis velit lectus, posuere a blandit sit amet, tempor at lorem. libero vitae scelerisque tristique, turpis augue faucibus dolor, at aliquet ligula massa at justo.</p>
+                                        <p>
+                                            <ul>
+                                                <li>SANO Classic Loaf– Unsliced conventional OFSP Bread</li>
+                                                <li>SANO Lafamilia Loaf – Sliced OFSP Bread</li>
+                                                <li>SANO Amet Coconut Loaf -(made with OFSP and Coconut)</li>
+                                                <li>SANO Fresco Delight Loaf -(made with OFSP and Lemongrass)</li>
+                                                <li>SANO Fresh Basil Slipper - (made with OFSP and Basil)</li>
+                                            </ul>
+                                        </p>
                                     </div>
                                     </div>
                                 </div>
                                 <div class="panel panel-default">
                                     <div class="panel-heading">
                                     <h3 class="panel-title">
-                                        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordionRight" href="#collapseSeven"><i class=""></i> How do I place an Order?</a>
+                                        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordionRight" href="#collapseSeven"><i class=""></i> How can I get SANO Bread to buy?</a>
                                     </h3>
                                     </div>
                                     <div id="collapseSeven" class="panel-collapse collapse">
                                     <div class="panel-body">
-                                        <p>Dolor sit amet, consectetur adipiscing elit. Etiam quis diam erat. Duis velit lectus, posuere a blandit sit amet, tempor at lorem. libero vitae scelerisque tristique, turpis augue faucibus dolor, at aliquet ligula massa at justo.</p>
+                                        <p>Available at supermarkets and with major market distributors. If we are yet in your area, you can link us up with any supermarket or distributor in your area.</p>
                                     </div>
                                     </div>
                                 </div>
                                 <div class="panel panel-default">
                                     <div class="panel-heading">
                                     <h3 class="panel-title">
-                                        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordionRight" href="#collapseEight"><i class=""></i> How do I place an Order?</a>
+                                        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordionRight" href="#collapseEight"><i class=""></i> Is SANO Bread available online?</a>
                                     </h3>
                                     </div>
                                     <div id="collapseEight" class="panel-collapse collapse">
                                     <div class="panel-body">
-                                        <p>Dolor sit amet, consectetur adipiscing elit. Etiam quis diam erat. Duis velit lectus, posuere a blandit sit amet, tempor at lorem. libero vitae scelerisque tristique, turpis augue faucibus dolor, at aliquet ligula massa at justo.</p>
+                                        <p>Not yet. But it will be available in few weeks on www.sanobread.com</p>
                                     </div>
                                     </div>
                                 </div>
