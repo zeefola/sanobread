@@ -32,12 +32,12 @@
                 <div class="product-outer">
                    <div class="product-inner">
                       <div class="product-image-wrapper">
-                         <a href="/single-product" class="woocommerce-LoopProduct-link">
+                         <a href="shop.sanobread.com" class="woocommerce-LoopProduct-link">
                          <img src="assets/images/products/p1.jpg" class="img-responsive" alt="">
                          </a>
                       </div>
                       <div class="product-content-wrapper">
-                         <a href="/single-product" class="woocommerce-LoopProduct-link">
+                         <a href="shop.sanobread.com" class="woocommerce-LoopProduct-link">
                             <h3>La Familia Loaf</h3>
                             <div itemprop="description">
                                <p style="max-height: none;">A Loaf -  Health, Creativity, and Family!</p>
@@ -45,7 +45,7 @@
                             <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">#</span>350.00</span></span>
                          </a>
                          <div class="hover-area">
-                            <a rel="nofollow" href="/single-product" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
+                            <a rel="nofollow" href="shop.sanobread.com" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
                          </div>
                       </div>
                    </div>
@@ -57,12 +57,12 @@
                 <div class="product-outer">
                    <div class="product-inner">
                       <div class="product-image-wrapper">
-                         <a href="/single-product" class="woocommerce-LoopProduct-link">
+                         <a href="shop.sanobread.com" class="woocommerce-LoopProduct-link">
                          <img src="assets/images/products/p2.jpg" class="img-responsive" alt="">
                          </a>
                       </div>
                       <div class="product-content-wrapper">
-                         <a href="/single-product" class="woocommerce-LoopProduct-link">
+                         <a href="shop.sanobread.com" class="woocommerce-LoopProduct-link">
                             <h3>Classic Loaf</h3>
                             <div itemprop="description">
                                <p style="max-height: none;">All the nutrients you need in one vintage loaf!</p>
@@ -70,7 +70,7 @@
                             <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">#</span>350.00</span></span>
                          </a>
                          <div class="hover-area">
-                            <a rel="nofollow" href="/single-product" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
+                            <a rel="nofollow" href="shop.sanobread.com" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
                          </div>
                       </div>
                    </div>
@@ -82,12 +82,12 @@
                 <div class="product-outer">
                    <div class="product-inner">
                       <div class="product-image-wrapper">
-                         <a href="/single-product" class="woocommerce-LoopProduct-link">
+                         <a href="shop.sanobread.com" class="woocommerce-LoopProduct-link">
                          <img src="assets/images/products/p3.jpg" class="img-responsive" alt="">
                          </a>
                       </div>
                       <div class="product-content-wrapper">
-                         <a href="/single-product" class="woocommerce-LoopProduct-link">
+                         <a href="shop.sanobread.com" class="woocommerce-LoopProduct-link">
                             <h3>Amet Coconut Loaf</h3>
                             <div itemprop="description">
                                <p style="max-height: none;">Exciting tropical adventure in one coconutty loaf!</p>
@@ -95,7 +95,7 @@
                             <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">#</span>400.00</span></span>
                          </a>
                          <div class="hover-area">
-                            <a rel="nofollow" href="/single-product" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
+                            <a rel="nofollow" href="shop.sanobread.com" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
                          </div>
                       </div>
                    </div>
@@ -107,12 +107,12 @@
                 <div class="product-outer">
                    <div class="product-inner">
                       <div class="product-image-wrapper">
-                         <a href="/single-product" class="woocommerce-LoopProduct-link">
+                         <a href="shop.sanobread.com" class="woocommerce-LoopProduct-link">
                          <img src="assets/images/products/p4.jpg" class="img-responsive" alt="">
                          </a>
                       </div>
                       <div class="product-content-wrapper">
-                         <a href="/single-product" class="woocommerce-LoopProduct-link">
+                         <a href="shop.sanobread.com" class="woocommerce-LoopProduct-link">
                             <h3>Fresh Basil Slipper</h3>
                             <div itemprop="description">
                                <p style="max-height: none;">Break the rules! Rewrite the laws! You decide what goes into you!</p>
@@ -120,7 +120,7 @@
                             <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">#</span>350.00</span></span>
                          </a>
                          <div class="hover-area">
-                            <a rel="nofollow" href="/single-product" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
+                            <a rel="nofollow" href="shop.sanobread.com" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
                          </div>
                       </div>
                    </div>
@@ -132,12 +132,12 @@
                 <div class="product-outer">
                    <div class="product-inner">
                       <div class="product-image-wrapper">
-                         <a href="/single-product" class="woocommerce-LoopProduct-link">
+                         <a href="shop.sanobread.com" class="woocommerce-LoopProduct-link">
                          <img src="assets/images/products/p5.jpg" class="img-responsive" alt="">
                          </a>
                       </div>
                       <div class="product-content-wrapper">
-                         <a href="/single-product" class="woocommerce-LoopProduct-link">
+                         <a href="shop.sanobread.com" class="woocommerce-LoopProduct-link">
                             <h3>Fresco Delight Roll</h3>
                             <div itemprop="description">
                                <p style="max-height: none;">Cool! Effective! Snacky! You should try it!</p>
@@ -145,7 +145,7 @@
                             <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">#</span>350.00</span></span>
                          </a>
                          <div class="hover-area">
-                            <a rel="nofollow" href="/single-product" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
+                            <a rel="nofollow" href="shop.sanobread.com" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
                          </div>
                       </div>
                    </div>
@@ -157,12 +157,12 @@
                 <div class="product-outer">
                    <div class="product-inner">
                       <div class="product-image-wrapper">
-                         <a href="/single-product" class="woocommerce-LoopProduct-link">
+                         <a href="shop.sanobread.com" class="woocommerce-LoopProduct-link">
                          <img src="assets/images/products/p6.jpg" class="img-responsive" alt="">
                          </a>
                       </div>
                       <div class="product-content-wrapper">
-                         <a href="/single-product" class="woocommerce-LoopProduct-link">
+                         <a href="shop.sanobread.com" class="woocommerce-LoopProduct-link">
                             <h3>Breakfast Box</h3>
                             <div itemprop="description">
                                <p style="max-height: none;">Your favorite box of health! Build your menu here!</p>
@@ -170,7 +170,7 @@
                             <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">#</span>1500.00</span></span>
                          </a>
                          <div class="hover-area">
-                            <a rel="nofollow" href="/single-product" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
+                            <a rel="nofollow" href="shop.sanobread.com" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
                          </div>
                       </div>
                    </div>
@@ -182,12 +182,12 @@
                 <div class="product-outer">
                    <div class="product-inner">
                       <div class="product-image-wrapper">
-                         <a href="/single-product" class="woocommerce-LoopProduct-link">
+                         <a href="shop.sanobread.com" class="woocommerce-LoopProduct-link">
                          <img src="assets/images/products/p7.jpg" class="img-responsive" alt="">
                          </a>
                       </div>
                       <div class="product-content-wrapper">
-                         <a href="/single-product" class="woocommerce-LoopProduct-link">
+                         <a href="shop.sanobread.com" class="woocommerce-LoopProduct-link">
                             <h3>Pepperoni Calzone</h3>
                             <div itemprop="description">
                                <p style="max-height: none;">Extra-virgin olive oil, garlic, mozzarella, mushrooms and olives.</p>
@@ -209,7 +209,7 @@
                             </div>
                          </a>
                          <div class="hover-area">
-                            <a rel="nofollow" href="/single-product" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
+                            <a rel="nofollow" href="shop.sanobread.com" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
                          </div>
                       </div>
                    </div>
@@ -226,7 +226,7 @@
                          </a>
                       </div>
                       <div class="product-content-wrapper">
-                         <a href="/single-product" class="woocommerce-LoopProduct-link">
+                         <a href="shop.sanobread.com" class="woocommerce-LoopProduct-link">
                             <h3>Pepperoni Pizza</h3>
                             <div itemprop="description">
                                <p style="max-height: none;">Extra-virgin olive oil, garlic, mozzarella, mushrooms and olives.</p>
@@ -248,7 +248,7 @@
                             </div>
                          </a>
                          <div class="hover-area">
-                            <a rel="nofollow" href="/single-product" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
+                            <a rel="nofollow" href="shop.sanobread.com" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
                          </div>
                       </div>
                    </div>
@@ -260,12 +260,12 @@
                 <div class="product-outer">
                    <div class="product-inner">
                       <div class="product-image-wrapper">
-                         <a href="/single-product" class="woocommerce-LoopProduct-link">
+                         <a href="shop.sanobread.com" class="woocommerce-LoopProduct-link">
                          <img src="assets/images/products/p9.jpg" class="img-responsive" alt="">
                          </a>
                       </div>
                       <div class="product-content-wrapper">
-                         <a href="/single-product" class="woocommerce-LoopProduct-link">
+                         <a href="shop.sanobread.com" class="woocommerce-LoopProduct-link">
                             <h3>Trio Cheese</h3>
                             <div itemprop="description">
                                <p style="max-height: none;">Extra-virgin olive oil, garlic, mozzarella, mushrooms and olives.</p>
@@ -287,7 +287,7 @@
                             </div>
                          </a>
                          <div class="hover-area">
-                            <a rel="nofollow" href="/single-product" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
+                            <a rel="nofollow" href="shop.sanobread.com" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
                          </div>
                       </div>
                    </div>
