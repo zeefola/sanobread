@@ -9,7 +9,7 @@
 @includeIf('layouts.breadcrumb', ['title' => 'Error 404'])
 @endsection
 
-@section('main_content')       
+@section('main_content')     
             <div class="error-404 not-found">
                 <div class="page-content">
                    <header class="page-header">
@@ -21,4 +21,10 @@
                 <!-- .page-content -->
             </div>
             <!-- .error-404 -->
+         </div>
+         <!-- #primary -->
+      </div>
+      <!-- .col-full -->
+   </div>
+   <!-- #content -->
 @endsection
