@@ -12,7 +12,7 @@
                                  <div class="title">SANO FRESH BASIL SLIPPER </div>
                                  <div class="sub-title">Break the rules! Rewrite the laws! You decide what goes into you!</div>
                                  <div class="btn_action">
-                                    <a href="">Order Now</a>
+                                    <a href="https://shop.sanobread.com/home/21-fresh-basil-slipper.html">Order Now</a>
                                  </div>
 
 
@@ -38,11 +38,11 @@
                                                          <img src="assets/images/products/p5.png" class="img-responsive" alt=""></div>
                                                    </div>
                                                    <div class="product-content-wrapper">
-                                                      <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
+                                                      <a href="https://shop.sanobread.com/home/21-fresh-basil-slipper.html" class="woocommerce-LoopProduct-link">
                                                          <h3>Snacky</h3>
                                                       </a>
                                                       <div class="hover-area">
-                                                         <a rel="nofollow" href="single-product-v1.html" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
+                                                         <a rel="nofollow" href="https://shop.sanobread.com/home/21-fresh-basil-slipper.html" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
                                                       </div>
                                                    </div>
                                                 </div>
@@ -59,11 +59,11 @@
                                                       </div>
                                                    </div>
                                                    <div class="product-content-wrapper">
-                                                      <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
+                                                      <a href="https://shop.sanobread.com/home/21-fresh-basil-slipper.html" class="woocommerce-LoopProduct-link">
                                                          <h3>Trendy</h3>
                                                       </a>
                                                       <div class="hover-area">
-                                                         <a rel="nofollow" href="single-product-v1.html" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
+                                                         <a rel="nofollow" href="https://shop.sanobread.com/home/21-fresh-basil-slipper.html" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
                                                       </div>
                                                    </div>
                                                 </div>
@@ -80,11 +80,11 @@
                                                       </div>
                                                    </div>
                                                    <div class="product-content-wrapper">
-                                                      <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
+                                                      <a href="https://shop.sanobread.com/home/21-fresh-basil-slipper.html" class="woocommerce-LoopProduct-link">
                                                          <h3>Scenty</h3>
                                                       </a>
                                                       <div class="hover-area">
-                                                         <a rel="nofollow" href="single-product-v1.html" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
+                                                         <a rel="nofollow" href="https://shop.sanobread.com/home/21-fresh-basil-slipper.html" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
                                                       </div>
                                                    </div>
                                                 </div>
@@ -101,11 +101,11 @@
                                                       </div>
                                                    </div>
                                                    <div class="product-content-wrapper">
-                                                      <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
+                                                      <a href="https://shop.sanobread.com/home/21-fresh-basil-slipper.html" class="woocommerce-LoopProduct-link">
                                                          <h3>Sassy</h3>
                                                       </a>
                                                       <div class="hover-area">
-                                                         <a rel="nofollow" href="single-product-v1.html" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
+                                                         <a rel="nofollow" href="https://shop.sanobread.com/home/21-fresh-basil-slipper.html" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
                                                       </div>
                                                    </div>
                                                 </div>
@@ -122,11 +122,11 @@
                                                       </div>
                                                    </div>
                                                    <div class="product-content-wrapper">
-                                                      <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
+                                                      <a href="https://shop.sanobread.com/home/21-fresh-basil-slipper.html" class="woocommerce-LoopProduct-link">
                                                          <h3>Fashionista</h3>
                                                       </a>
                                                       <div class="hover-area">
-                                                         <a rel="nofollow" href="single-product-v1.html" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
+                                                         <a rel="nofollow" href="https://shop.sanobread.com/home/21-fresh-basil-slipper.html" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
                                                       </div>
                                                    </div>
                                                 </div>
@@ -161,46 +161,13 @@
                         </div>
                      </div>
 
-                     {{-- <section class="promo-section bg-grey bd-bottom padding">
-                     <div class="container">
-                     <div class="promo-wrap row">
-                     <div class="col-lg-3 col-sm-6 sm-padding">
-                     <div class="promo-content text-center">
-                     <i class="icon-speedometer"></i>
-                     <h3>Creativity</h3>
-                     <p>Allows for creativity (toast, sandwich, dips)</p>
-                     </div>
-                     </div> 
-                     <div class="col-lg-3 col-sm-6 sm-padding">
-                     <div class="promo-content text-center">
-                     <i class="icon-adjustments"></i>
-                     <h3>Cell Growth</h3>
-                     <p>Supports cell growth and differentiation.</p>
-                     </div>
-                     </div>
-                     <div class="col-lg-3 col-sm-6 sm-padding">
-                     <div class="promo-content text-center">
-                     <i class="icon-camera"></i>
-                     <h3>Vitamin A</h3>
-                     <p>The presence of Vitamin A in Orange Fleshed Sweet Potato (OFSP)</p>
-                     </div>
-                     </div>
-                     <div class="col-lg-3 col-sm-6 sm-padding">
-                     <div class="promo-content text-center">
-                     <i class="icon-bargraph"></i>
-                     <h3>Healthy Life</h3>
-                     <p>Plays a critical role in the normal formation and maintenance of the heart, lungs, kidneys, and other organs.</p>
-                     </div>
-                     </div> 
-                     </div>
-                     </div>
-                     </section> --}}
+                     
                      
                      <div class="pitch-2">
                         <div class="container">
                           <div class="pitch-inner wow fadeInRight">
                             <h1>Stay trendy! Get that bread that fits into your style! Snack on some Fresh Basil Slipper today! </h1>
-                            <button class="btn btn-action" type="button"><span>Order Now</span></button>
+                            <button class="btn btn-action" type="button" href="https://shop.sanobread.com/home/21-fresh-basil-slipper.html"><span>Order Now</span></button>
                           </div>
                         </div>
                       </div>
@@ -212,7 +179,7 @@
                            <div class="content-details">
                            <h2>Break the rules! Rewrite the laws! <br> You decide what goes into you!</h2>
                            <p>The astonishing combo of fresh basil and organically grown Orange Fleshed Sweet Potato (OFSP) in a loaf, is that perfect blend you need to keep going. Easy to carry, wholesome snack, health to your body!</p>
-                           <a href="#" class="default-btn">Order Now</a>
+                           <a href="https://shop.sanobread.com/home/21-fresh-basil-slipper.html" class="default-btn">Order Now</a>
                            </div>
                            </div>
                            <div class="col-md-6 xs-padding text-center">
