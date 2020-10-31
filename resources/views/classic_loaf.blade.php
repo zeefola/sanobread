@@ -213,8 +213,8 @@
                            <div class="content-wrap row">
                            <div class="col-md-6 xs-padding">
                            <div class="content-details">
-                           <h2>Full extraction of nutrients, as both <br> major ingredients are organically grown.</h2>
-                           <p>!</p>
+                           <h2>Specially baked with Orange Fleshed Sweet Potato (OFSP), <br> this vintage loaf speaks HEALTH. Its fluffy and big enough to fill.</h2>
+                           <p>Baked with love and vitamin-rich Orange Fleshed Sweet Potato (OFSP), Sano La Familia Loaf is an excellent source of vitamin A and nicely cut to suit your creative style - from sandwich, to toast, to dips.</p>
                            <a href="#" class="default-btn">Order Now</a>
                            </div>
                            </div>
@@ -247,7 +247,7 @@
                         </div>
                         <div class="media-body">
                         <h4>Creativity</h4>
-                        <p>Plays a critical role in the normal formation and maintenance of the heart, lungs, kidneys, and other organs.</p>
+                        <p>Allows for creativity (toast, sandwich, dips)</p>
                         </div>
                         </div>
                         </div>
@@ -257,7 +257,7 @@
                         <span><i class="li_like"></i></span>
                         </div>
                         <div class="media-body">
-                        <h4>Growth</h4>
+                        <h4>Cell Growth</h4>
                         <p>Supports cell growth and differentiation.</p>
                         </div>
                         </div>
@@ -266,8 +266,8 @@
                         <span><i class="li_user"></i></span>
                         </div>
                         <div class="media-body">
-                        <h4>Nutritious</h4>
-                        <p>Provides essential nutrients to the body that helps to shore up bones and bolster the immune system.</p>
+                        <h4>Body Maintenance</h4>
+                        <p>Plays a critical role in the normal formation and maintenance of the heart, lungs, kidneys, and other organs.</p>
                         </div>
                         </div>
                         </div>

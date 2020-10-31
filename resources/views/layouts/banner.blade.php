@@ -8,8 +8,8 @@
                 <div class="pre-title-value">Best Offer</div>
                 <div class="border back"></div>
              </div>
-             <div class="title">HEALTHY BREAD AT LAST!</div>
-             <div class="sub-title">Sano Bread is ready to take your taste buds on a deliciously nutritious journey. </div>
+             <div class="title">HEALTHY BREAD </div>
+             <div class="sub-title">AT LAST!</div>
          </div>
           <!-- /.caption -->
        </div>
