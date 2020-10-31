@@ -12,7 +12,7 @@
                                  <div class="title">UNBOX YOUR HEALTH!</div>
                                  <div class="sub-title">Start your day with a box of health and unleash your creativity!</div>
                                  <div class="btn_action">
-                                    <a href="">Order Now</a>
+                                    <a href="shop.sanobread.com">Order Now</a>
                                  </div>
 
 
@@ -38,11 +38,11 @@
                                                          <img src="assets/images/products/p5.png" class="img-responsive" alt=""></div>
                                                    </div>
                                                    <div class="product-content-wrapper">
-                                                      <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
+                                                      <a href="shop.sanobread.com" class="woocommerce-LoopProduct-link">
                                                          <h3>Tasty</h3>
                                                       </a>
                                                       <div class="hover-area">
-                                                         <a rel="nofollow" href="single-product-v1.html" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
+                                                         <a rel="nofollow" href="shop.sanobread.com" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
                                                       </div>
                                                    </div>
                                                 </div>
@@ -59,11 +59,11 @@
                                                       </div>
                                                    </div>
                                                    <div class="product-content-wrapper">
-                                                      <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
+                                                      <a href="shop.sanobread.com" class="woocommerce-LoopProduct-link">
                                                          <h3>Soft</h3>
                                                       </a>
                                                       <div class="hover-area">
-                                                         <a rel="nofollow" href="single-product-v1.html" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
+                                                         <a rel="nofollow" href="shop.sanobread.com" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
                                                       </div>
                                                    </div>
                                                 </div>
@@ -80,11 +80,11 @@
                                                       </div>
                                                    </div>
                                                    <div class="product-content-wrapper">
-                                                      <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
+                                                      <a href="shop.sanobread.com" class="woocommerce-LoopProduct-link">
                                                          <h3>Creative</h3>
                                                       </a>
                                                       <div class="hover-area">
-                                                         <a rel="nofollow" href="single-product-v1.html" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
+                                                         <a rel="nofollow" href="shop.sanobread.com" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
                                                       </div>
                                                    </div>
                                                 </div>
@@ -101,11 +101,11 @@
                                                       </div>
                                                    </div>
                                                    <div class="product-content-wrapper">
-                                                      <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
+                                                      <a href="shop.sanobread.com" class="woocommerce-LoopProduct-link">
                                                          <h3>Rationable</h3>
                                                       </a>
                                                       <div class="hover-area">
-                                                         <a rel="nofollow" href="single-product-v1.html" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
+                                                         <a rel="nofollow" href="shop.sanobread.com" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
                                                       </div>
                                                    </div>
                                                 </div>
@@ -122,11 +122,11 @@
                                                       </div>
                                                    </div>
                                                    <div class="product-content-wrapper">
-                                                      <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
+                                                      <a href="shop.sanobread.com" class="woocommerce-LoopProduct-link">
                                                          <h3>Flexible and Family</h3>
                                                       </a>
                                                       <div class="hover-area">
-                                                         <a rel="nofollow" href="single-product-v1.html" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
+                                                         <a rel="nofollow" href="shop.sanobread.com" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
                                                       </div>
                                                    </div>
                                                 </div>
@@ -164,46 +164,12 @@
                         </div>
                      </div>
 
-                     {{-- <section class="promo-section bg-grey bd-bottom padding">
-                     <div class="container">
-                     <div class="promo-wrap row">
-                     <div class="col-lg-3 col-sm-6 sm-padding">
-                     <div class="promo-content text-center">
-                     <i class="icon-speedometer"></i>
-                     <h3>Creativity</h3>
-                     <p>Allows for creativity (toast, sandwich, dips)</p>
-                     </div>
-                     </div> 
-                     <div class="col-lg-3 col-sm-6 sm-padding">
-                     <div class="promo-content text-center">
-                     <i class="icon-adjustments"></i>
-                     <h3>Cell Growth</h3>
-                     <p>Supports cell growth and differentiation.</p>
-                     </div>
-                     </div>
-                     <div class="col-lg-3 col-sm-6 sm-padding">
-                     <div class="promo-content text-center">
-                     <i class="icon-camera"></i>
-                     <h3>Vitamin A</h3>
-                     <p>The presence of Vitamin A in Orange Fleshed Sweet Potato (OFSP)</p>
-                     </div>
-                     </div>
-                     <div class="col-lg-3 col-sm-6 sm-padding">
-                     <div class="promo-content text-center">
-                     <i class="icon-bargraph"></i>
-                     <h3>Healthy Life</h3>
-                     <p>Plays a critical role in the normal formation and maintenance of the heart, lungs, kidneys, and other organs.</p>
-                     </div>
-                     </div> 
-                     </div>
-                     </div>
-                     </section> --}}
                      
                      <div class="pitch-2">
                         <div class="container">
                           <div class="pitch-inner wow fadeInRight">
                             <h1>To have this loaf of big, bold, classy, and specially made SANO Bread,</h1>
-                            <button class="btn btn-action" type="button"><span>Order Now!</span></button>
+                            <button class="btn btn-action" type="button" href="shop.sanobread.com"><span>Order Now!</span></button>
                           </div>
                         </div>
                       </div>
@@ -215,7 +181,7 @@
                            <div class="content-details">
                            <h2>A loaf that speaks the language <br> of Health, Creativity, and Family!</h2>
                            <p>Baked with love and vitamin-rich Orange Fleshed Sweet Potato (OFSP), Sano La Familia Loaf is an excellent source of vitamin A and nicely cut to suit your creative style - from sandwich, to toast, to dips.</p>
-                           <a href="#" class="default-btn">Order Now</a>
+                           <a href="shop.sanobread.com" class="default-btn">Order Now</a>
                            </div>
                            </div>
                            <div class="col-md-6 xs-padding text-center">

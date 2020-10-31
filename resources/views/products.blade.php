@@ -16,9 +16,9 @@
        </div>
        <div class="widget woocommerce widget_layered_nav">
           <ul>
-             <li class="wc-layered-nav-term "><a href="#">Loaves</a> <span class="food-type-icon"><i class="fa fa-cutlery"></i></span></li>
-             <li class="wc-layered-nav-term "><a href="#">Bread Rolls</a> <span class="food-type-icon"><i class="fa fa-fire"></i></span></li>
-             <li class="wc-layered-nav-term "><a href="#">Breakfast Box</a> <span class="food-type-icon"><i class="po po-veggie-icon"></i></span></li>
+             <li class="wc-layered-nav-term "><a href="https://shop.sanobread.com">Loaves</a> <span class="food-type-icon"><i class="fa fa-cutlery"></i></span></li>
+             <li class="wc-layered-nav-term "><a href="https://shop.sanobread.com">Bread Rolls</a> <span class="food-type-icon"><i class="fa fa-fire"></i></span></li>
+             <li class="wc-layered-nav-term "><a href="https://shop.sanobread.com">Breakfast Box</a> <span class="food-type-icon"><i class="po po-veggie-icon"></i></span></li>
           </ul>
        </div>
        {{-- <div class="create-your-own"><a href="single-product-v3.html">Create your own</a></div> --}}
@@ -32,12 +32,12 @@
                 <div class="product-outer">
                    <div class="product-inner">
                       <div class="product-image-wrapper">
-                         <a href="shop.sanobread.com" class="woocommerce-LoopProduct-link">
+                         <a href="https://shop.sanobread.com/home/5-la-familia-loaf.html" class="woocommerce-LoopProduct-link">
                          <img src="assets/images/products/p1.jpg" class="img-responsive" alt="">
                          </a>
                       </div>
                       <div class="product-content-wrapper">
-                         <a href="shop.sanobread.com" class="woocommerce-LoopProduct-link">
+                         <a href="https://shop.sanobread.com/home/5-la-familia-loaf.html" class="woocommerce-LoopProduct-link">
                             <h3>La Familia Loaf</h3>
                             <div itemprop="description">
                                <p style="max-height: none;">A Loaf -  Health, Creativity, and Family!</p>
@@ -45,7 +45,7 @@
                             <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">#</span>350.00</span></span>
                          </a>
                          <div class="hover-area">
-                            <a rel="nofollow" href="shop.sanobread.com" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
+                            <a rel="nofollow" href="https://shop.sanobread.com/home/5-la-familia-loaf.html" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
                          </div>
                       </div>
                    </div>
@@ -57,12 +57,12 @@
                 <div class="product-outer">
                    <div class="product-inner">
                       <div class="product-image-wrapper">
-                         <a href="shop.sanobread.com" class="woocommerce-LoopProduct-link">
+                         <a href="https://shop.sanobread.com/home/6-classic-loaf.html" class="woocommerce-LoopProduct-link">
                          <img src="assets/images/products/p2.jpg" class="img-responsive" alt="">
                          </a>
                       </div>
                       <div class="product-content-wrapper">
-                         <a href="shop.sanobread.com" class="woocommerce-LoopProduct-link">
+                         <a href="https://shop.sanobread.com/home/6-classic-loaf.html" class="woocommerce-LoopProduct-link">
                             <h3>Classic Loaf</h3>
                             <div itemprop="description">
                                <p style="max-height: none;">All the nutrients you need in one vintage loaf!</p>
@@ -70,7 +70,7 @@
                             <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">#</span>350.00</span></span>
                          </a>
                          <div class="hover-area">
-                            <a rel="nofollow" href="shop.sanobread.com" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
+                            <a rel="nofollow" href="https://shop.sanobread.com/home/6-classic-loaf.html" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
                          </div>
                       </div>
                    </div>
@@ -82,12 +82,12 @@
                 <div class="product-outer">
                    <div class="product-inner">
                       <div class="product-image-wrapper">
-                         <a href="shop.sanobread.com" class="woocommerce-LoopProduct-link">
+                         <a href="https://shop.sanobread.com/home/20-amet-coconut-loaf.html" class="woocommerce-LoopProduct-link">
                          <img src="assets/images/products/p3.jpg" class="img-responsive" alt="">
                          </a>
                       </div>
                       <div class="product-content-wrapper">
-                         <a href="shop.sanobread.com" class="woocommerce-LoopProduct-link">
+                         <a href="https://shop.sanobread.com/home/20-amet-coconut-loaf.html" class="woocommerce-LoopProduct-link">
                             <h3>Amet Coconut Loaf</h3>
                             <div itemprop="description">
                                <p style="max-height: none;">Exciting tropical adventure in one coconutty loaf!</p>
@@ -95,7 +95,7 @@
                             <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">#</span>400.00</span></span>
                          </a>
                          <div class="hover-area">
-                            <a rel="nofollow" href="shop.sanobread.com" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
+                            <a rel="nofollow" href="https://shop.sanobread.com/home/20-amet-coconut-loaf.html" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
                          </div>
                       </div>
                    </div>
@@ -107,12 +107,12 @@
                 <div class="product-outer">
                    <div class="product-inner">
                       <div class="product-image-wrapper">
-                         <a href="shop.sanobread.com" class="woocommerce-LoopProduct-link">
+                         <a href="https://shop.sanobread.com/home/21-fresh-basil-slipper.html" class="woocommerce-LoopProduct-link">
                          <img src="assets/images/products/p4.jpg" class="img-responsive" alt="">
                          </a>
                       </div>
                       <div class="product-content-wrapper">
-                         <a href="shop.sanobread.com" class="woocommerce-LoopProduct-link">
+                         <a href="https://shop.sanobread.com/home/21-fresh-basil-slipper.html" class="woocommerce-LoopProduct-link">
                             <h3>Fresh Basil Slipper</h3>
                             <div itemprop="description">
                                <p style="max-height: none;">Break the rules! Rewrite the laws! You decide what goes into you!</p>
@@ -120,7 +120,7 @@
                             <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">#</span>350.00</span></span>
                          </a>
                          <div class="hover-area">
-                            <a rel="nofollow" href="shop.sanobread.com" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
+                            <a rel="nofollow" href="https://shop.sanobread.com/home/21-fresh-basil-slipper.html" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
                          </div>
                       </div>
                    </div>
@@ -132,12 +132,12 @@
                 <div class="product-outer">
                    <div class="product-inner">
                       <div class="product-image-wrapper">
-                         <a href="shop.sanobread.com" class="woocommerce-LoopProduct-link">
+                         <a href="https://shop.sanobread.com/home/22-fresco-delight-roll.html" class="woocommerce-LoopProduct-link">
                          <img src="assets/images/products/p5.jpg" class="img-responsive" alt="">
                          </a>
                       </div>
                       <div class="product-content-wrapper">
-                         <a href="shop.sanobread.com" class="woocommerce-LoopProduct-link">
+                         <a href="https://shop.sanobread.com/home/22-fresco-delight-roll.html" class="woocommerce-LoopProduct-link">
                             <h3>Fresco Delight Roll</h3>
                             <div itemprop="description">
                                <p style="max-height: none;">Cool! Effective! Snacky! You should try it!</p>
@@ -145,7 +145,7 @@
                             <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">#</span>350.00</span></span>
                          </a>
                          <div class="hover-area">
-                            <a rel="nofollow" href="shop.sanobread.com" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
+                            <a rel="nofollow" href="https://shop.sanobread.com/home/22-fresco-delight-roll.html" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
                          </div>
                       </div>
                    </div>
@@ -157,12 +157,12 @@
                 <div class="product-outer">
                    <div class="product-inner">
                       <div class="product-image-wrapper">
-                         <a href="shop.sanobread.com" class="woocommerce-LoopProduct-link">
+                         <a href="https://shop.sanobread.com" class="woocommerce-LoopProduct-link">
                          <img src="assets/images/products/p6.jpg" class="img-responsive" alt="">
                          </a>
                       </div>
                       <div class="product-content-wrapper">
-                         <a href="shop.sanobread.com" class="woocommerce-LoopProduct-link">
+                         <a href="https://shop.sanobread.com" class="woocommerce-LoopProduct-link">
                             <h3>Breakfast Box</h3>
                             <div itemprop="description">
                                <p style="max-height: none;">Your favorite box of health! Build your menu here!</p>
@@ -170,7 +170,7 @@
                             <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">#</span>1500.00</span></span>
                          </a>
                          <div class="hover-area">
-                            <a rel="nofollow" href="shop.sanobread.com" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
+                            <a rel="nofollow" href="https://shop.sanobread.com" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
                          </div>
                       </div>
                    </div>
