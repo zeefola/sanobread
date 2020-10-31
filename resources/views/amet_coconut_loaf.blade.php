@@ -238,7 +238,7 @@
                         </div>
                         <div class="media-body">
                         <h4>Vitamin A</h4>
-                        <p>The presence of Vitamin A in Orange Fleshed Sweet Potato (OFSP)</p>
+                        <p>Full extraction of nutrients, as both major ingredients are organically grown.</p>
                         </div>
                         </div>
                         <div class="media wow fadeInUp" data-wow-delay="0.3s">
@@ -267,7 +267,7 @@
                         </div>
                         <div class="media-body">
                         <h4>Nutritious</h4>
-                        <p>Provides essential nutrients to the body that helps to shore up bones and bolster the immune system.</p>
+                        <p>A perfect mixture of nutrients from the coconut and Orange Fleshed Sweet Potato (OFSP). </p>
                         </div>
                         </div>
                         </div>
