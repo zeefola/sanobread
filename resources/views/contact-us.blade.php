@@ -18,8 +18,8 @@
                         <div class="row">
                            <div class="col-md-9 col-sm-9 col-xs-12">
                               <div class="contact-form">
-                                 <h2>Leave us a Message</h2>
-                                 <p>How Can We Help You?</p>
+                                 <h2>How Can We Help You?</h2>
+                                 <p>We strive towards understanding who our customers are and what we can do better for them. We'd love to hear from you!</p>
                                  <div role="form" class="wpcf7" id="wpcf7-f425-o1" lang="en-US" dir="ltr">
                                     <div class="screen-reader-response"></div>
                                     <form   class="wpcf7-form" method="POST" action="/contact-us">

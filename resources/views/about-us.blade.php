@@ -64,11 +64,11 @@
             <div class="service-block-two col-lg-4 col-md-6 col-sm-12">
                 <div class="inner-box wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
                     <div class="image">
-                        <a href="menu-features.html"><img src="assets/images/service-5.jpg"
+                        <a href="#"><img src="assets/images/service-5.jpg"
                                 alt="" /></a>
                     </div>
                     <div class="lower-content">
-                        <h4><a href="menu-features.html">Quality Unmatched</a></h4>
+                        <h4><a href="#">Quality Unmatched</a></h4>
                         <div class="text">Baked with the finest organic ingredients, 
                             we create an identity of value and quality. Satisfaction is guaranteed to both your health and stomach.
                         </div>
@@ -80,11 +80,11 @@
             <div class="service-block-two col-lg-4 col-md-6 col-sm-12">
                 <div class="inner-box wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
                     <div class="image">
-                        <a href="menu-features.html"><img src="assets/images/service-6.jpg"
+                        <a href="#"><img src="assets/images/service-6.jpg"
                                 alt="" /></a>
                     </div>
                     <div class="lower-content">
-                        <h4><a href="menu-features.html">Taste Driven</a></h4>
+                        <h4><a href="#">Taste Driven</a></h4>
                         <div class="text">Think of amazing adjectives - Yummy! Appetizing! Delicious! Snacky! 
                             Sano Bread is all of these and more. Your taste buds will thank you for your choice!
                         </div>
@@ -96,11 +96,11 @@
             <div class="service-block-two col-lg-4 col-md-6 col-sm-12">
                 <div class="inner-box wow fadeInRight" data-wow-delay="0ms" data-wow-duration="1500ms">
                     <div class="image">
-                        <a href="menu-features.html"><img src="assets/images/service-7.jpg"
+                        <a href="#"><img src="assets/images/service-7.jpg"
                                 alt="" /></a>
                     </div>
                     <div class="lower-content">
-                        <h4><a href="menu-features.html">All About Your Health!</a></h4>
+                        <h4><a href="#">All About Your Health!</a></h4>
                         <div class="text">
                             We know you love being healthy, we do too. That’s why Sano Bread is fortified with OFSP which provides vitamins A & C, zinc, and iron.
                         </div>
@@ -118,7 +118,7 @@
     <div class="auto-container">
         <div class="content">
             <h1>HEALTHY BREAD<span>AT LAST!</span></h1>
-            <div class="text">Our bakers are dedicated, hardworking, <br> and creative professionals</div>
+            <div class="text">It’s nourishment, health, and vitamin in every bite. <br> Breakfast just got healthier!</div>
         </div>
     </div>
 </section>
@@ -131,8 +131,7 @@
         <!-- Title Box -->
         <div class="title-box">
             <h2>Meet Our Bakers</h2>
-            <div class="text">Override the digital divide with additional clickthroughs from immersion <br>
-                along the information highway.</div>
+            <div class="text">Our bakers are dedicated, hardworking, and creative professionals.</div>
         </div>
 
         <div class="row clearfix">
@@ -293,7 +292,7 @@
                         <img src="assets/images/service-1.png" alt="" />
                     </div>
                     <h6>Free Delivery <br> On First Order</h6>
-                    <div class="text">Sign up for updates and <br> get free shipping</div>
+                    <div class="text">Sign Up To Our <br> Subscription Package</div>
                 </div>
             </div>
 
@@ -304,7 +303,7 @@
                         <img src="assets/images/service-2.png" alt="" />
                     </div>
                     <h6>Best Taste <br> Guaranteed</h6>
-                    <div class="text">We use the best organic <br> ingredients to bake</div>
+                    <div class="text">We use the best organic<br> ingredients to bake</div>
                 </div>
             </div>
 
@@ -315,7 +314,7 @@
                         <img src="assets/images/service-3.png" alt="" />
                     </div>
                     <h6>Varieties Just <br> For You</h6>
-                    <div class="text">Explore our various <br> bread variants made for you</div>
+                    <div class="text">Explore our various  <br> bread variants made for you</div>
                 </div>
             </div>
 

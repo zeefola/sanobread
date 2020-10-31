@@ -90,7 +90,7 @@
                          <a href="/single-product" class="woocommerce-LoopProduct-link">
                             <h3>Amet Coconut Loaf</h3>
                             <div itemprop="description">
-                               <p style="max-height: none;">EExciting tropical adventure in one coconutty loaf!</p>
+                               <p style="max-height: none;">Exciting tropical adventure in one coconutty loaf!</p>
                             </div>
                             <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">#</span>400.00</span></span>
                          </a>
@@ -113,7 +113,7 @@
                       </div>
                       <div class="product-content-wrapper">
                          <a href="/single-product" class="woocommerce-LoopProduct-link">
-                            <h3>FRESH BASIL SLIPPER</h3>
+                            <h3>Fresh Basil Slipper</h3>
                             <div itemprop="description">
                                <p style="max-height: none;">Break the rules! Rewrite the laws! You decide what goes into you!</p>
                             </div>

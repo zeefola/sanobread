@@ -68,13 +68,13 @@
  <div class="section-tabs">
     <ul class="nav nav-tabs pizzaro-nav-tabs" >
        <li class="nav-item">
-          <a href="#h1-tab-products-1" data-toggle="tab">Wraps</a>
+          <a href="#h1-tab-products-1" data-toggle="tab"> Bread Loaves</a>
        </li>
        <li class="nav-item active">
-          <a href="#h1-tab-products-2" class="active" data-toggle="tab">Pizza Sets</a>
+          <a href="#h1-tab-products-2" class="active" data-toggle="tab">Bread Rolls</a>
        </li>
        <li class="nav-item">
-          <a href="#h1-tab-products-3" data-toggle="tab">Burgers</a>
+          <a href="#h1-tab-products-3" data-toggle="tab">Special Products</a>
        </li>
     </ul>
     <div class="tab-content">
@@ -93,24 +93,9 @@
                                </div>
                                <div class="product-content-wrapper">
                                   <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
-                                     <h3>Pepperoni Pizza</h3>
+                                     <h3>Classic Loaf</h3>
                                      <div itemprop="description">
-                                        <p style="max-height: none;">Extra-virgin olive oil, garlic, mozzarella, mushrooms and olives.</p>
-                                     </div>
-                                     <div  class="yith_wapo_groups_container">
-                                        <div  class="ywapo_group_container ywapo_group_container_radio form-row form-row-wide " data-requested="1" data-type="radio" data-id="1" data-condition="">
-                                           <h3><span>Pick Size</span></h3>
-                                           <div class="ywapo_input_container ywapo_input_container_radio">
-
-                                              <span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">22 cm</span></span>
-                                              <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>19</span></span>
-                                           </div>
-                                           <div class="ywapo_input_container ywapo_input_container_radio">
-
-                                              <span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">29 cm</span></span>
-                                              <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>25</span></span>
-                                           </div>
-                                        </div>
+                                        <p style="max-height: none;">All the nutrients you need in one vintage loaf!</p>
                                      </div>
                                   </a>
                                   <div class="hover-area">
@@ -132,24 +117,9 @@
                                </div>
                                <div class="product-content-wrapper">
                                   <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
-                                     <h3>Trio Cheese</h3>
+                                     <h3>La Familia Loaf</h3>
                                      <div itemprop="description">
-                                        <p style="max-height: none;">Extra-virgin olive oil, garlic, mozzarella, mushrooms and olives.</p>
-                                     </div>
-                                     <div  class="yith_wapo_groups_container">
-                                        <div  class="ywapo_group_container ywapo_group_container_radio form-row form-row-wide " data-requested="1" data-type="radio" data-id="1" data-condition="">
-                                           <h3><span>Pick Size</span></h3>
-                                           <div class="ywapo_input_container ywapo_input_container_radio">
-
-                                              <span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">22 cm</span></span>
-                                              <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>19</span></span>
-                                           </div>
-                                           <div class="ywapo_input_container ywapo_input_container_radio">
-
-                                              <span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">29 cm</span></span>
-                                              <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>25</span></span>
-                                           </div>
-                                        </div>
+                                        <p style="max-height: none;">A Loaf -  Health, Creativity, and Family!</p>
                                      </div>
                                   </a>
                                   <div class="hover-area">
@@ -171,24 +141,9 @@
                                </div>
                                <div class="product-content-wrapper">
                                   <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
-                                     <h3>Apricot Chicken</h3>
+                                     <h3>Amet Coconut Loaf</h3>
                                      <div itemprop="description">
-                                        <p style="max-height: none;">Extra-virgin olive oil, garlic, mozzarella, mushrooms and olives.</p>
-                                     </div>
-                                     <div  class="yith_wapo_groups_container">
-                                        <div  class="ywapo_group_container ywapo_group_container_radio form-row form-row-wide " data-requested="1" data-type="radio" data-id="1" data-condition="">
-                                           <h3><span>Pick Size</span></h3>
-                                           <div class="ywapo_input_container ywapo_input_container_radio">
-
-                                              <span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">22 cm</span></span>
-                                              <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>19</span></span>
-                                           </div>
-                                           <div class="ywapo_input_container ywapo_input_container_radio">
-
-                                              <span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">29 cm</span></span>
-                                              <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>25</span></span>
-                                           </div>
-                                        </div>
+                                        <p style="max-height: none;">Exciting tropical adventure in one coconutty loaf!</p>
                                      </div>
                                   </a>
                                   <div class="hover-area">
@@ -220,24 +175,9 @@
                                </div>
                                <div class="product-content-wrapper">
                                   <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
-                                     <h3>Italiano Original</h3>
+                                     <h3>Fresh Basil Slipper</h3>
                                      <div itemprop="description">
-                                        <p style="max-height: none;">Extra-virgin olive oil, garlic, mozzarella, mushrooms and olives.</p>
-                                     </div>
-                                     <div  class="yith_wapo_groups_container">
-                                        <div  class="ywapo_group_container ywapo_group_container_radio form-row form-row-wide " data-requested="1" data-type="radio" data-id="1" data-condition="">
-                                           <h3><span>Pick Size</span></h3>
-                                           <div class="ywapo_input_container ywapo_input_container_radio">
-
-                                              <span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">22 cm</span></span>
-                                              <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>19</span></span>
-                                           </div>
-                                           <div class="ywapo_input_container ywapo_input_container_radio">
-
-                                              <span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">29 cm</span></span>
-                                              <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>25</span></span>
-                                           </div>
-                                        </div>
+                                        <p style="max-height: none;">Break the rules! Rewrite the laws! You decide what goes into you!</p>
                                      </div>
                                   </a>
                                   <div class="hover-area">
@@ -259,24 +199,9 @@
                                </div>
                                <div class="product-content-wrapper">
                                   <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
-                                     <h3>Chicken Hawaii</h3>
+                                     <h3>Fresco Delight Roll</h3>
                                      <div itemprop="description">
-                                        <p style="max-height: none;">Extra-virgin olive oil, garlic, mozzarella, mushrooms and olives.</p>
-                                     </div>
-                                     <div  class="yith_wapo_groups_container">
-                                        <div  class="ywapo_group_container ywapo_group_container_radio form-row form-row-wide " data-requested="1" data-type="radio" data-id="1" data-condition="">
-                                           <h3><span>Pick Size</span></h3>
-                                           <div class="ywapo_input_container ywapo_input_container_radio">
-
-                                              <span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">22 cm</span></span>
-                                              <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>19</span></span>
-                                           </div>
-                                           <div class="ywapo_input_container ywapo_input_container_radio">
-
-                                              <span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">29 cm</span></span>
-                                              <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>25</span></span>
-                                           </div>
-                                        </div>
+                                        <p style="max-height: none;">Cool! Effective! Snacky! You should try it!</p>
                                      </div>
                                   </a>
                                   <div class="hover-area">
@@ -347,24 +272,9 @@
                                </div>
                                <div class="product-content-wrapper">
                                   <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
-                                     <h3>Pepperoni Calzone</h3>
+                                     <h3>Breakfast Box</h3>
                                      <div itemprop="description">
-                                        <p style="max-height: none;">Extra-virgin olive oil, garlic, mozzarella, mushrooms and olives.</p>
-                                     </div>
-                                     <div  class="yith_wapo_groups_container">
-                                        <div  class="ywapo_group_container ywapo_group_container_radio form-row form-row-wide " data-requested="1" data-type="radio" data-id="1" data-condition="">
-                                           <h3><span>Pick Size</span></h3>
-                                           <div class="ywapo_input_container ywapo_input_container_radio">
-
-                                              <span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">22 cm</span></span>
-                                              <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>19</span></span>
-                                           </div>
-                                           <div class="ywapo_input_container ywapo_input_container_radio">
-
-                                              <span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">29 cm</span></span>
-                                              <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>25</span></span>
-                                           </div>
-                                        </div>
+                                        <p style="max-height: none;">Your favorite box of health! Build your menu here!</p>
                                      </div>
                                   </a>
                                   <div class="hover-area">
@@ -505,24 +415,9 @@
                    </div>
                    <div class="product-content-wrapper">
                       <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
-                         <h3>Trio Cheese</h3>
+                         <h3>Drinks</h3>
                          <div itemprop="description">
                             <p style="max-height: none;">Extra-virgin olive oil, garlic, mozzarella, mushrooms and olives.</p>
-                         </div>
-                         <div  class="yith_wapo_groups_container">
-                            <div  class="ywapo_group_container ywapo_group_container_radio form-row form-row-wide " data-requested="1" data-type="radio" data-id="1" data-condition="">
-                               <h3><span>Pick Size</span></h3>
-                               <div class="ywapo_input_container ywapo_input_container_radio">
-
-                                  <span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">22 cm</span></span>
-                                  <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>19</span></span>
-                               </div>
-                               <div class="ywapo_input_container ywapo_input_container_radio">
-
-                                  <span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">29 cm</span></span>
-                                  <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>25</span></span>
-                               </div>
-                            </div>
                          </div>
                       </a>
                       <div class="hover-area">
@@ -544,24 +439,9 @@
                    </div>
                    <div class="product-content-wrapper">
                       <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
-                         <h3>Trio Cheese</h3>
+                         <h3>Toppings</h3>
                          <div itemprop="description">
                             <p style="max-height: none;">Extra-virgin olive oil, garlic, mozzarella, mushrooms and olives.</p>
-                         </div>
-                         <div  class="yith_wapo_groups_container">
-                            <div  class="ywapo_group_container ywapo_group_container_radio form-row form-row-wide " data-requested="1" data-type="radio" data-id="1" data-condition="">
-                               <h3><span>Pick Size</span></h3>
-                               <div class="ywapo_input_container ywapo_input_container_radio">
-
-                                  <span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">22 cm</span></span>
-                                  <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>19</span></span>
-                               </div>
-                               <div class="ywapo_input_container ywapo_input_container_radio">
-
-                                  <span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">29 cm</span></span>
-                                  <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>25</span></span>
-                               </div>
-                            </div>
                          </div>
                       </a>
                       <div class="hover-area">
@@ -583,24 +463,9 @@
                    </div>
                    <div class="product-content-wrapper">
                       <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
-                         <h3>Trio Cheese</h3>
+                         <h3>Enhancers </h3>
                          <div itemprop="description">
                             <p style="max-height: none;">Extra-virgin olive oil, garlic, mozzarella, mushrooms and olives.</p>
-                         </div>
-                         <div  class="yith_wapo_groups_container">
-                            <div  class="ywapo_group_container ywapo_group_container_radio form-row form-row-wide " data-requested="1" data-type="radio" data-id="1" data-condition="">
-                               <h3><span>Pick Size</span></h3>
-                               <div class="ywapo_input_container ywapo_input_container_radio">
-
-                                  <span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">22 cm</span></span>
-                                  <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>19</span></span>
-                               </div>
-                               <div class="ywapo_input_container ywapo_input_container_radio">
-
-                                  <span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">29 cm</span></span>
-                                  <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>25</span></span>
-                               </div>
-                            </div>
                          </div>
                       </a>
                       <div class="hover-area">
@@ -622,24 +487,9 @@
                    </div>
                    <div class="product-content-wrapper">
                       <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
-                         <h3>Trio Cheese</h3>
+                         <h3>Creams</h3>
                          <div itemprop="description">
                             <p style="max-height: none;">Extra-virgin olive oil, garlic, mozzarella, mushrooms and olives.</p>
-                         </div>
-                         <div  class="yith_wapo_groups_container">
-                            <div  class="ywapo_group_container ywapo_group_container_radio form-row form-row-wide " data-requested="1" data-type="radio" data-id="1" data-condition="">
-                               <h3><span>Pick Size</span></h3>
-                               <div class="ywapo_input_container ywapo_input_container_radio">
-
-                                  <span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">22 cm</span></span>
-                                  <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>19</span></span>
-                               </div>
-                               <div class="ywapo_input_container ywapo_input_container_radio">
-
-                                  <span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">29 cm</span></span>
-                                  <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>25</span></span>
-                               </div>
-                            </div>
                          </div>
                       </a>
                       <div class="hover-area">

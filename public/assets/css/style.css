@@ -9734,7 +9734,7 @@ article.post {
 .terms-conditions .entry-header p, .faq .entry-header p {
   font-size: 0.938em; }
 .terms-conditions .entry-content .section, .faq .entry-content .section {
-  margin-bottom: 4em; }
+  margin-bottom: 2em; }
   .terms-conditions .entry-content .section h2, .faq .entry-content .section h2 {
     font-size: 1.563em;
     font-weight: normal; }
@@ -16816,4 +16816,8 @@ a:hover, a:focus, a:visited {
 .left-right-contents .media+.media {
   margin-top: 2rem;
 }
+}
+
+.inner-bottom-xs ol li{
+  list-style: disc;
 }

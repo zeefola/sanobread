@@ -57,12 +57,13 @@
      
                      <hr>
                      <ul  class="menu">
-                         <li class="menu-item"><a href="/classic-loaf"><i class="po po-wraps"></i>SANO Classic Loaf</a></li>
-                         <li class="menu-item"><a href="/la-familia"><i class="po po-wraps"></i>SANO La Familia</a></li>
-                         <li class="menu-item"><a href="/amet-coconut"><i class="po po-wraps"></i>SANO Amet Coconut</a></li>
-                         <li class="menu-item"><a href="/fresco-delight-roll"><i class="po po-wraps"></i>SANO Fresco Delight</a></li>
-                         <li class="menu-item"><a href="/fresh-basil-slipper"><i class="po po-wraps"></i>SANO Fresh Basil Slipper</a></li>
-                      </ul>
+                        <li class="menu-item"><a href="/classic-loaf"><i class="po po-wraps"></i>Classic Loaf</a></li>
+                        <li class="menu-item"><a href="/la-familia"><i class="po po-wraps"></i>La Familia Loaf</a></li>
+                        <li class="menu-item"><a href="/amet-coconut-loaf"><i class="po po-wraps"></i>Amet Coconut Loaf</a></li>
+                        <li class="menu-item"><a href="/fresh-basil-slipper"><i class="po po-wraps"></i>Fresh Basil Slipper</a></li>
+                        <li class="menu-item"><a href="/fresco-delight-roll"><i class="po po-wraps"></i>Fresco Delight Roll</a></li>
+                        <li class="menu-item"><a href="/breakfast-box"><i class="po po-wraps"></i>Breakfast Box</a></li>
+                     </ul>
                   </div>
                </nav>
                <!-- #site-navigation -->
