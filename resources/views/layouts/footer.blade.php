@@ -51,7 +51,8 @@
        <div class="site-info">
           <p class="copyright">Copyright &copy; {{ date('Y') }} {{ config('app.name') }}. All rights reserved.</p>
        </div>
-       <!-- .site-info -->      <a role="button" class="footer-action-btn" data-toggle="collapse" href="/contact-us"><i class="po po-map-marker"></i>Find us on Map</a>
+       <!-- .site-info -->      
+       <a role="button" class="footer-action-btn" href="/contact-us"><i class="po po-map-marker"></i>Find us on Map</a>
        <div class="pizzaro-handheld-footer-bar">
           <ul class="columns-3">
              <li class="my-account">
@@ -63,7 +64,7 @@
                 </a>
              </li> 
              <li class="search">
-                <a href="">Search</a>
+                <a href="#">Search</a>
                 <div class="site-search">
                    <div class="widget woocommerce widget_product_search">
                       <form role="search" method="get" class="woocommerce-product-search" >
