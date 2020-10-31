@@ -14,33 +14,26 @@
           <!-- /.caption -->
        </div>
        <!-- /.item -->
-       <div class="item slider-2" style="background-image: url(assets/images/slider/homepage-slider-2.jpg);">
+       <div class="item slider-4" style="background-image: url(assets/images/slider/homepage-slider-2.jpg);">
           <div class="caption fadeIn">
-             <div class="price-tag">
-                <div class="border front"> </div>
-                <div class="price-tag-value">
-                   <div class="price"><span class="symbol">$</span>12<span class="slider-amount">99<br><span class="price-only">only</span></span> </div>
-                </div>
-                <div class="border back"> </div>
-             </div>
-             <div class="title">ORYGINAL ITALY</div>
-             <div class="sub-title">PIZZA LOVERS SET</div>
-          </div>
+            <div class="pre-title">It’s Not Just Flour,</div>
+            <div class="title"><span>It’s Health!</span></div>
+         </div>
           <!-- /.caption -->
        </div>
        <!-- /.item -->
        <div class="item slider-3" style="background-image: url(assets/images/slider/homepage-slider-3.jpg);">
           <div class="caption fadeIn">
-             <div class="pre-title">DISCOVER WHAT'S NEW</div>
-             <div class="title"><span>and</span>order<span>with<br>visa</span>online</div>
+             <div class="pre-title">maintain health in your meals</div>
+             <div class="title">Nutrition<span>For<br>All</span>Ages!</div>
           </div>
           <!-- /.caption -->
        </div>
        <!-- /.item -->
        <div class="item slider-4" style="background-image: url(assets/images/slider/homepage-slider-4.jpg);">
           <div class="caption fadeIn">
-             <div class="pre-title">EXCLUSIVE OFFER</div>
-             <div class="title"><span>VEGGIE FUN</span><br>DELICIOUS SUMMER!</div>
+             <div class="pre-title">made from organic spices</div>
+             <div class="title"><span>Variety Is</span><br>The Spice Of Life!</div>
           </div>
           <!-- /.caption -->
        </div>

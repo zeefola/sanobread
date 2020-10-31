@@ -47,7 +47,7 @@
       <section class="section inner-bottom-xs">
          <h2>Prohibited Activities </h2>
          <p>It is strictly forbidden to commit any act that, in consideration of Sano Bakery, is considered to be inappropriate or illegal, including in an unlimited manner:</p>
-         <ol style="list-style-type: upper-roman;">
+         <ol>
             <li> Any act that may constitute a breach of privacy (including uploading private information without the consent of the owner) or any other that forms part of the legal rights of the individuals. </li>
             <li> Using this website to defame or slander Sano Bakery, its collaborators, or any other third party, as well as to act in a manner that damages Sano Bakery. </li>
             <li> Uploading files that contain viruses that may cause damage to the property of Sano Bakery or the property of other individuals. </li>
