@@ -243,8 +243,8 @@
                         <span><i class="li_megaphone"></i></span>
                         </div>
                         <div class="media-body">
-                        <h4>Creativity</h4>
-                        <p>Allows for creativity (toast, sandwich, dips)</p>
+                        <h4>Rich In Vitamins</h4>
+                        <p>The presence of the Vitamin rich Orange Fleshed Sweet Potato (OFSP).</p>
                         </div>
                         </div>
                         </div>
@@ -254,8 +254,8 @@
                         <span><i class="li_like"></i></span>
                         </div>
                         <div class="media-body">
-                        <h4>Growth</h4>
-                        <p>Supports cell growth and differentiation.</p>
+                        <h4>Fresh</h4>
+                        <p>The astonishing combo of fresh lemongrass and organically grown Orange Fleshed Sweet Potato (OFSP) in a loaf.</p>
                         </div>
                         </div>
                         <div class="media wow fadeInUp" data-wow-delay="0.3s">
