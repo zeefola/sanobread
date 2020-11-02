@@ -3937,7 +3937,9 @@ embed, iframe, object, video {
     margin: 0;
     font-size: 0.813em;
     color: #7f7f7f;
-    line-height: 1.615em; }
+    line-height: 1.615em; 
+    margin-bottom: 5.5rem;
+    margin-top: -3.5rem;}
 
 /**
  * Handheld footer bar
