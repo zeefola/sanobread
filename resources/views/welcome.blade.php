@@ -20,7 +20,7 @@
                       <h3 class="title">CLASSIC LOAF</h3>
                       <h4 class="subtitle">SUMMER PIZZA</h4>
                       <span class="button">HOT &amp; SPICY</span>
-                      <span class="condition"><em>*</em>ONLY IN LOCAL</span>
+                      {{-- <span class="condition"><em>*</em>ONLY IN LOCAL</span> --}}
                    </div>
                 </div>
              </a>
@@ -34,8 +34,9 @@
                       <div class="banner-bg" style="background-size: cover; background-position: center center; background-image: url( assets/images/homepage-banners/2.jpg ); height: 210px;">
                          <div class="caption">
                             <h3 class="title">Fresh</h3>
-                            <h4 class="subtitle">Basil Slipper</h4>
-                            <div class="description">for online orders in wendsdays</div>
+                            <h3 class="title">Basil</h3>
+                            <h4 class="subtitle">Slipper</h4>
+                            {{-- <div class="description">for online orders in wendsdays</div> --}}
                          </div>
                       </div>
                    </a>
@@ -44,9 +45,9 @@
                    <a href="https://shop.sanobread.com/home/5-la-familia-loaf.html">
                       <div class="banner-bg" style="background-size: cover; background-position: center center; background-image: url( assets/images/homepage-banners/3.jpg ); height: 210px;">
                          <div class="caption">
-                            <h3 class="title">La </h3>
-                            <h4 class="subtitle">Familia Loaf</h4>
-                            <span class="condition"><em>*</em>ONLY IN LOCAL</span>
+                            <h3 class="title third-product">La Familia </h3>
+                            <h4 class="subtitle">Loaf</h4>
+                            {{-- <span class="condition"><em>*</em>ONLY IN LOCAL</span> --}}
                          </div>
                       </div>
                    </a>
