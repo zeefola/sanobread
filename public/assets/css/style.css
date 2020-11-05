@@ -16828,3 +16828,7 @@ a:hover, a:focus, a:visited {
 .inner-bottom-xs ol li{
   list-style: disc;
 }
+
+.third-product{
+  margin-left: -10rem;
+}
