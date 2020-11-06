@@ -12,7 +12,7 @@
                                  <div class="title">SANO AMET COCONUT LOAF</div>
                                  <div class="sub-title">Discover the tropical adventure in this nutritious combination of Coconut and OFSP.</div>
                                  <div class="btn_action">
-                                    <a href="">Order Now</a>
+                                    <a href="https://shop.sanobread.com/home/20-amet-coconut-loaf.html">Order Now</a>
                                  </div>
 
 
@@ -38,11 +38,11 @@
                                                          <img src="assets/images/products/p5.png" class="img-responsive" alt=""></div>
                                                    </div>
                                                    <div class="product-content-wrapper">
-                                                      <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
+                                                      <a href="https://shop.sanobread.com/home/20-amet-coconut-loaf.html" class="woocommerce-LoopProduct-link">
                                                          <h3>Adventurous</h3>
                                                       </a>
                                                       <div class="hover-area">
-                                                         <a rel="nofollow" href="single-product-v1.html" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
+                                                         <a rel="nofollow" href="https://shop.sanobread.com/home/20-amet-coconut-loaf.html" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
                                                       </div>
                                                    </div>
                                                 </div>
@@ -59,11 +59,11 @@
                                                       </div>
                                                    </div>
                                                    <div class="product-content-wrapper">
-                                                      <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
+                                                      <a href="https://shop.sanobread.com/home/20-amet-coconut-loaf.html" class="woocommerce-LoopProduct-link">
                                                          <h3>Exciting</h3>
                                                       </a>
                                                       <div class="hover-area">
-                                                         <a rel="nofollow" href="single-product-v1.html" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
+                                                         <a rel="nofollow" href="https://shop.sanobread.com/home/20-amet-coconut-loaf.html" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
                                                       </div>
                                                    </div>
                                                 </div>
@@ -80,11 +80,11 @@
                                                       </div>
                                                    </div>
                                                    <div class="product-content-wrapper">
-                                                      <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
+                                                      <a href="https://shop.sanobread.com/home/20-amet-coconut-loaf.html" class="woocommerce-LoopProduct-link">
                                                          <h3>Tropical</h3>
                                                       </a>
                                                       <div class="hover-area">
-                                                         <a rel="nofollow" href="single-product-v1.html" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
+                                                         <a rel="nofollow" href="https://shop.sanobread.com/home/20-amet-coconut-loaf.html" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
                                                       </div>
                                                    </div>
                                                 </div>
@@ -101,11 +101,11 @@
                                                       </div>
                                                    </div>
                                                    <div class="product-content-wrapper">
-                                                      <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
+                                                      <a href="https://shop.sanobread.com/home/20-amet-coconut-loaf.html" class="woocommerce-LoopProduct-link">
                                                          <h3>Appetizing</h3>
                                                       </a>
                                                       <div class="hover-area">
-                                                         <a rel="nofollow" href="single-product-v1.html" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
+                                                         <a rel="nofollow" href="https://shop.sanobread.com/home/20-amet-coconut-loaf.html" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
                                                       </div>
                                                    </div>
                                                 </div>
@@ -122,11 +122,11 @@
                                                       </div>
                                                    </div>
                                                    <div class="product-content-wrapper">
-                                                      <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
+                                                      <a href="https://shop.sanobread.com/home/20-amet-coconut-loaf.html" class="woocommerce-LoopProduct-link">
                                                          <h3>Tasty</h3>
                                                       </a>
                                                       <div class="hover-area">
-                                                         <a rel="nofollow" href="single-product-v1.html" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
+                                                         <a rel="nofollow" href="https://shop.sanobread.com/home/20-amet-coconut-loaf.html" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
                                                       </div>
                                                    </div>
                                                 </div>
@@ -163,47 +163,12 @@
                            </div>
                         </div>
                      </div>
-
-                     {{-- <section class="promo-section bg-grey bd-bottom padding">
-                     <div class="container">
-                     <div class="promo-wrap row">
-                     <div class="col-lg-3 col-sm-6 sm-padding">
-                     <div class="promo-content text-center">
-                     <i class="icon-speedometer"></i>
-                     <h3>Creativity</h3>
-                     <p>Allows for creativity (toast, sandwich, dips)</p>
-                     </div>
-                     </div> 
-                     <div class="col-lg-3 col-sm-6 sm-padding">
-                     <div class="promo-content text-center">
-                     <i class="icon-adjustments"></i>
-                     <h3>Cell Growth</h3>
-                     <p>Supports cell growth and differentiation.</p>
-                     </div>
-                     </div>
-                     <div class="col-lg-3 col-sm-6 sm-padding">
-                     <div class="promo-content text-center">
-                     <i class="icon-camera"></i>
-                     <h3>Vitamin A</h3>
-                     <p>The presence of Vitamin A in Orange Fleshed Sweet Potato (OFSP)</p>
-                     </div>
-                     </div>
-                     <div class="col-lg-3 col-sm-6 sm-padding">
-                     <div class="promo-content text-center">
-                     <i class="icon-bargraph"></i>
-                     <h3>Healthy Life</h3>
-                     <p>Plays a critical role in the normal formation and maintenance of the heart, lungs, kidneys, and other organs.</p>
-                     </div>
-                     </div> 
-                     </div>
-                     </div>
-                     </section> --}}
                      
                      <div class="pitch-2">
                         <div class="container">
                           <div class="pitch-inner wow fadeInRight">
                             <h1>Keep the fun up! Stay adventurous! Eat Sano Amet Coconut loaf! </h1>
-                            <button class="btn btn-action" type="button"><span>Order Now!</span></button>
+                            <button class="btn btn-action" type="button" href="https://shop.sanobread.com/home/20-amet-coconut-loaf.html"><span>Order Now!</span></button>
                           </div>
                         </div>
                       </div>
@@ -215,7 +180,7 @@
                            <div class="content-details">
                            <h2>Discover the tropical adventure in this nutritious <br> combination of Coconut and OFSP.</h2>
                            <p>The nutritious and tasty amazing fusion of Coconut and Orange Fleshed Sweet Potato (OFSP) that is rich in beta-carotene, a major source of vitamin A will leave you longing for more.</p>
-                           <a href="#" class="default-btn">Order Now</a>
+                           <a href="https://shop.sanobread.com/home/20-amet-coconut-loaf.html" class="default-btn">Order Now</a>
                            </div>
                            </div>
                            <div class="col-md-6 xs-padding text-center">
@@ -238,7 +203,7 @@
                         </div>
                         <div class="media-body">
                         <h4>Vitamin A</h4>
-                        <p>The presence of Vitamin A in Orange Fleshed Sweet Potato (OFSP)</p>
+                        <p>Full extraction of nutrients, as both major ingredients are organically grown.</p>
                         </div>
                         </div>
                         <div class="media wow fadeInUp" data-wow-delay="0.3s">
@@ -267,7 +232,7 @@
                         </div>
                         <div class="media-body">
                         <h4>Nutritious</h4>
-                        <p>Provides essential nutrients to the body that helps to shore up bones and bolster the immune system.</p>
+                        <p>A perfect mixture of nutrients from the coconut and Orange Fleshed Sweet Potato (OFSP). </p>
                         </div>
                         </div>
                         </div>

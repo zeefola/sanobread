@@ -56,13 +56,13 @@
                <div class="pizzaro-handheld-footer-bar">
                   <ul class="columns-3">
                      <li class="my-account">
-                        <a href="login-and-register.html">My Account</a>
+                        <a href="https://shop.sanobread.com/login?back=my-account">My Account</a>
                      </li>
                      <li class="cart">
-                        <a class="footer-cart-contents" href="cart.html" title="View your shopping cart"><span class="count">2</span></a>
+                        <a class="footer-cart-contents" href="https://shop.sanobread.com/cart?action=show" title="View your shopping cart"><span class="count">2</span></a>
                      </li>
                      <li class="search">
-                        <a href="">Search</a>
+                        <a href="#">Search</a>
                         <div class="site-search">
                            <div class="widget woocommerce widget_product_search">
                               <form role="search" method="get" class="woocommerce-product-search" action="#">

@@ -118,6 +118,8 @@
     <div class="auto-container">
         <div class="content">
             <h1>HEALTHY BREAD<span>AT LAST!</span></h1>
+            <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="lightbox-image video-box"><span
+                class="fa fa-play"><i class="ripple"></i></span></a>
             <div class="text">It’s nourishment, health, and vitamin in every bite. <br> Breakfast just got healthier!</div>
         </div>
     </div>

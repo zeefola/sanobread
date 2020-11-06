@@ -12,7 +12,7 @@
                                  <div class="title">SANO CLASSIC LOAF </div>
                                  <div class="sub-title">Enriched with all the nutrients you need to keep you vitalized and healthy.</div>
                                  <div class="btn_action">
-                                    <a href="">Order Now</a>
+                                    <a href="https://shop.sanobread.com/home/6-classic-loaf.html">Order Now</a>
                                  </div>
 
 
@@ -38,11 +38,11 @@
                                                          <img src="assets/images/products/p5.png" class="img-responsive" alt=""></div>
                                                    </div>
                                                    <div class="product-content-wrapper">
-                                                      <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
+                                                      <a href="shttps://shop.sanobread.com/home/6-classic-loaf.html" class="woocommerce-LoopProduct-link">
                                                          <h3>Big</h3>
                                                       </a>
                                                       <div class="hover-area">
-                                                         <a rel="nofollow" href="single-product-v1.html" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
+                                                         <a rel="nofollow" href="shttps://shop.sanobread.com/home/6-classic-loaf.html" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
                                                       </div>
                                                    </div>
                                                 </div>
@@ -59,11 +59,11 @@
                                                       </div>
                                                    </div>
                                                    <div class="product-content-wrapper">
-                                                      <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
+                                                      <a href="shttps://shop.sanobread.com/home/6-classic-loaf.html" class="woocommerce-LoopProduct-link">
                                                          <h3>Bold</h3>
                                                       </a>
                                                       <div class="hover-area">
-                                                         <a rel="nofollow" href="single-product-v1.html" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
+                                                         <a rel="nofollow" href="shttps://shop.sanobread.com/home/6-classic-loaf.html" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
                                                       </div>
                                                    </div>
                                                 </div>
@@ -80,11 +80,11 @@
                                                       </div>
                                                    </div>
                                                    <div class="product-content-wrapper">
-                                                      <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
+                                                      <a href="shttps://shop.sanobread.com/home/6-classic-loaf.html" class="woocommerce-LoopProduct-link">
                                                          <h3>Fluffy</h3>
                                                       </a>
                                                       <div class="hover-area">
-                                                         <a rel="nofollow" href="single-product-v1.html" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
+                                                         <a rel="nofollow" href="shttps://shop.sanobread.com/home/6-classic-loaf.html" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
                                                       </div>
                                                    </div>
                                                 </div>
@@ -101,11 +101,11 @@
                                                       </div>
                                                    </div>
                                                    <div class="product-content-wrapper">
-                                                      <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
+                                                      <a href="shttps://shop.sanobread.com/home/6-classic-loaf.html" class="woocommerce-LoopProduct-link">
                                                          <h3>Appetizing</h3>
                                                       </a>
                                                       <div class="hover-area">
-                                                         <a rel="nofollow" href="single-product-v1.html" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
+                                                         <a rel="nofollow" href="shttps://shop.sanobread.com/home/6-classic-loaf.html" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
                                                       </div>
                                                    </div>
                                                 </div>
@@ -122,11 +122,11 @@
                                                       </div>
                                                    </div>
                                                    <div class="product-content-wrapper">
-                                                      <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
+                                                      <a href="shttps://shop.sanobread.com/home/6-classic-loaf.html" class="woocommerce-LoopProduct-link">
                                                          <h3>Friendship</h3>
                                                       </a>
                                                       <div class="hover-area">
-                                                         <a rel="nofollow" href="single-product-v1.html" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
+                                                         <a rel="nofollow" href="shttps://shop.sanobread.com/home/6-classic-loaf.html" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
                                                       </div>
                                                    </div>
                                                 </div>
@@ -163,47 +163,12 @@
                            </div>
                         </div>
                      </div>
-
-                     {{-- <section class="promo-section bg-grey bd-bottom padding">
-                     <div class="container">
-                     <div class="promo-wrap row">
-                     <div class="col-lg-3 col-sm-6 sm-padding">
-                     <div class="promo-content text-center">
-                     <i class="icon-speedometer"></i>
-                     <h3>Creativity</h3>
-                     <p>Allows for creativity (toast, sandwich, dips)</p>
-                     </div>
-                     </div> 
-                     <div class="col-lg-3 col-sm-6 sm-padding">
-                     <div class="promo-content text-center">
-                     <i class="icon-adjustments"></i>
-                     <h3>Cell Growth</h3>
-                     <p>Supports cell growth and differentiation.</p>
-                     </div>
-                     </div>
-                     <div class="col-lg-3 col-sm-6 sm-padding">
-                     <div class="promo-content text-center">
-                     <i class="icon-camera"></i>
-                     <h3>Vitamin A</h3>
-                     <p>The presence of Vitamin A in Orange Fleshed Sweet Potato (OFSP)</p>
-                     </div>
-                     </div>
-                     <div class="col-lg-3 col-sm-6 sm-padding">
-                     <div class="promo-content text-center">
-                     <i class="icon-bargraph"></i>
-                     <h3>Healthy Life</h3>
-                     <p>Plays a critical role in the normal formation and maintenance of the heart, lungs, kidneys, and other organs.</p>
-                     </div>
-                     </div> 
-                     </div>
-                     </div>
-                     </section> --}}
                      
                      <div class="pitch-2">
                         <div class="container">
                           <div class="pitch-inner wow fadeInRight">
                             <h1>To have this loaf of big, bold, classy, and specially made SANO Bread,</h1>
-                            <button class="btn btn-action" type="button"><span>Order Now!</span></button>
+                            <button class="btn btn-action" type="button" href="https://shop.sanobread.com/home/6-classic-loaf.html"><span>Order Now!</span></button>
                           </div>
                         </div>
                       </div>
@@ -213,9 +178,9 @@
                            <div class="content-wrap row">
                            <div class="col-md-6 xs-padding">
                            <div class="content-details">
-                           <h2>Full extraction of nutrients, as both <br> major ingredients are organically grown.</h2>
-                           <p>!</p>
-                           <a href="#" class="default-btn">Order Now</a>
+                           <h2>Specially baked with Orange Fleshed Sweet Potato (OFSP), <br> this vintage loaf speaks HEALTH. Its fluffy and big enough to fill.</h2>
+                           <p>Baked with love and vitamin-rich Orange Fleshed Sweet Potato (OFSP), Sano La Familia Loaf is an excellent source of vitamin A and nicely cut to suit your creative style - from sandwich, to toast, to dips.</p>
+                           <a href="https://shop.sanobread.com/home/6-classic-loaf.html" class="default-btn">Order Now</a>
                            </div>
                            </div>
                            <div class="col-md-6 xs-padding text-center">
@@ -247,7 +212,7 @@
                         </div>
                         <div class="media-body">
                         <h4>Creativity</h4>
-                        <p>Plays a critical role in the normal formation and maintenance of the heart, lungs, kidneys, and other organs.</p>
+                        <p>Allows for creativity (toast, sandwich, dips)</p>
                         </div>
                         </div>
                         </div>
@@ -257,7 +222,7 @@
                         <span><i class="li_like"></i></span>
                         </div>
                         <div class="media-body">
-                        <h4>Growth</h4>
+                        <h4>Cell Growth</h4>
                         <p>Supports cell growth and differentiation.</p>
                         </div>
                         </div>
@@ -266,8 +231,8 @@
                         <span><i class="li_user"></i></span>
                         </div>
                         <div class="media-body">
-                        <h4>Nutritious</h4>
-                        <p>Provides essential nutrients to the body that helps to shore up bones and bolster the immune system.</p>
+                        <h4>Body Maintenance</h4>
+                        <p>Plays a critical role in the normal formation and maintenance of the heart, lungs, kidneys, and other organs.</p>
                         </div>
                         </div>
                         </div>
