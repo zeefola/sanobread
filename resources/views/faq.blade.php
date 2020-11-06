@@ -118,9 +118,9 @@
                                     </div>
                                     <div id="collapseSix" class="panel-collapse collapse">
                                     <div class="panel-body" itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer">
-                                        <p itemprop="text">
+                                        <p>
                                             <ul>
-                                                <li>SANO Classic Loaf– Unsliced conventional OFSP Bread</li>
+                                                <li itemprop="text">SANO Classic Loaf– Unsliced conventional OFSP Bread</li>
                                                 <li>SANO Lafamilia Loaf – Sliced OFSP Bread</li>
                                                 <li>SANO Amet Coconut Loaf -(made with OFSP and Coconut)</li>
                                                 <li>SANO Fresco Delight Loaf -(made with OFSP and Lemongrass)</li>
@@ -189,9 +189,9 @@
                                     </div>
                                     <div id="collapseNine" class="panel-collapse collapse">
                                        <div class="panel-body" itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer">
-                                          <p itemprop="text">
+                                          <p>
                                               <ul>
-                                                <li>SANO Classic Loaf– Unsliced conventional OFSP Bread</li>
+                                                <li itemprop="text">SANO Classic Loaf– Unsliced conventional OFSP Bread</li>
                                                 <li>SANO Lafamilia Loaf – Sliced OFSP Bread</li>
                                                 <li>SANO Amet Coconut Loaf -(made with OFSP and Coconut)</li>
                                                 <li>SANO Fresco Delight Loaf -(made with OFSP and Lemongrass)</li>
