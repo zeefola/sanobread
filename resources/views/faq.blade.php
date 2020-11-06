@@ -102,9 +102,9 @@
                                         <p>
                                             <ul>
                                                 <li itemprop="text">Vitamin A - helps your body's natural defence against illness and infection (the immune system) work properly. helping vision in dim light.</li>
-                                                <li itemprop="text">Vitamin C - is necessary for the growth, development and repair of all body tissues. It's involved in many body functions, including the proper functioning of the immune system, wound healing, and the maintenance ofbones, and teeth.</li>
-                                                <li itemprop="text">Zinc - helps your immune system and is also important to wound healing and your sense of taste and smell.</li>
-                                                <li itemprop="text">Iron - helps to preserve many vital functions in the body, including general energy and the immune system. Also help regulates body temperature.</li>
+                                                <li>Vitamin C - is necessary for the growth, development and repair of all body tissues. It's involved in many body functions, including the proper functioning of the immune system, wound healing, and the maintenance ofbones, and teeth.</li>
+                                                <li>Zinc - helps your immune system and is also important to wound healing and your sense of taste and smell.</li>
+                                                <li>Iron - helps to preserve many vital functions in the body, including general energy and the immune system. Also help regulates body temperature.</li>
                                             </ul>
                                         </p>
                                     </div>
