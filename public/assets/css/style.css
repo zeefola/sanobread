@@ -14175,7 +14175,8 @@ a.remove {
     opacity: 0; }
 
 .page-template-template-homepage-v1 .site-header, .page-template-template-homepage-v3 .site-header, .page-template-template-homepage-v4 .site-header, .page-template-template-homepage-v5 .site-header, .page-template-template-homepage-v7 .site-header {
-  margin-bottom: 0; }
+  margin-bottom: 0; 
+  margin-top: -1rem; }
 
 .woocommerce-order-received .entry-header, .woocommerce-order-received .woocommerce-thankyou-order-received {
   text-align: center; }
