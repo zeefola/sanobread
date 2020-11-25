@@ -508,7 +508,7 @@
           <div class="feature-icon"><i class="po po-on-time"></i></div>
           <div class="feature-label">
              <h4>ON-TIME</h4>
-             <p>Timely sale and delivery of all your orders is assured.</p>
+             <p>Timely sales and delivery of all your orders is assured.</p>
           </div>
        </div>
        <div class="feature col-xs-12 col-sm-3">
