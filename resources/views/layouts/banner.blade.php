@@ -14,13 +14,13 @@
           <!-- /.caption -->
        </div>
        <!-- /.item -->
-       <div class="item slider-4" style="background-image: url(assets/images/slider/homepage-slider-2.jpg);">
+       {{-- <div class="item slider-4" style="background-image: url(assets/images/slider/homepage-slider-2.jpg);">
           <div class="caption fadeIn">
             <div class="pre-title">It’s Not Just Flour,</div>
             <div class="title"><span>It’s Health!</span></div>
          </div>
           <!-- /.caption -->
-       </div>
+       </div> --}}
        <!-- /.item -->
        <div class="item slider-3" style="background-image: url(assets/images/slider/homepage-slider-3.jpg);">
           <div class="caption fadeIn">

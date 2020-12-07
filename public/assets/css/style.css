@@ -15500,7 +15500,8 @@ p.order-again .button:after {
       margin-top: 10px; }
   .header-v1 .header-wrap {
     justify-content: space-between; 
-    margin-bottom: -1rem;}
+    margin-bottom: -1rem;
+    margin-top: -2rem;}
   .header-v1.site-header .main-navigation {
     margin-top: 0; } }
 
