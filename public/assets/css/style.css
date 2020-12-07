@@ -15501,7 +15501,7 @@ p.order-again .button:after {
   .header-v1 .header-wrap {
     justify-content: space-between; 
     margin-bottom: -1rem;
-    margin-top: -2rem;}
+    margin-top: -1.5rem;}
   .header-v1.site-header .main-navigation {
     margin-top: 0; } }
 
@@ -16833,4 +16833,9 @@ a:hover, a:focus, a:visited {
 
 .third-product{
   margin-left: -10rem;
+}
+
+.handheld-navigation ul li a img{
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
