@@ -5277,7 +5277,8 @@ embed, iframe, object, video {
  * Header Elements
  */
 .woocommerce-active .site-header .col-full {
-  position: relative; }
+  position: relative; 
+  margin-top: -2rem;}
 .woocommerce-active .site-branding {
   float: left; }
 
@@ -10017,17 +10018,33 @@ article.post {
       font-family: "Open Sans";
       display: inline-block; }
     .site-content .home-v1-slider .owl-carousel .slider-1 .title {
-      font-size: 60px;
+      font-size: 65px;
       line-height: 1em;
       font-weight: 700;
       text-align: center;
       padding-bottom: 0.059em; }
+      @media (max-width: 768px) {
+        .site-content .home-v1-slider .owl-carousel .slider-1 .title {
+          font-size: 40px;
+          line-height: 1em;
+          font-weight: 700;
+          text-align: center;
+          padding-bottom: 0.059em; }
+        }
     .site-content .home-v1-slider .owl-carousel .slider-1 .sub-title {
-      font-size: 25px;
+      font-size: 30px;
       line-height: 1;
       font-weight: 300;
       text-align: center;
-      padding-bottom: 0.6em; }
+      padding-bottom:  0.6em; }
+      @media (max-width: 768px) {
+      .site-content .home-v1-slider .owl-carousel .slider-1 .sub-title {
+      font-size: 20px;
+      line-height: 1;
+      font-weight: 300;
+      text-align: center;
+      padding: 0 3rem 0.6em 3rem; }
+      }
     .site-content .home-v1-slider .owl-carousel .slider-1 .border-bottom {
       width: 1.735em;
       display: inline-block;
@@ -16638,6 +16655,7 @@ a:hover, a:focus, a:visited {
 @media only screen and (max-width: 1199px){
   .header-v2 .site-branding {
     display: inline-block;
+    margin-bottom: -1.5rem;
   }
 }
 
@@ -16661,6 +16679,7 @@ a:hover, a:focus, a:visited {
 @media (max-width: 991px){
   .content-details h2 {
     margin-top: -5rem;
+    font-size: 30px;
   }
 }
 .content-details p {
@@ -16723,6 +16742,11 @@ a:hover, a:focus, a:visited {
     position: relative;
     margin-left: -50vw;
     left: 50%;
+}
+@media (max-width: 768px){
+  .pitch-2 {
+    padding: 1rem 0 5rem 0;
+  }
 }
 .pitch-inner {
   max-width: 500px;
