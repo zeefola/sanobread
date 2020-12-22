@@ -43,7 +43,7 @@
        <div class="site-address">
           <ul class="address">
              <li> {{ config('app.name') }} </li>
-             <li> {{ config('app.address') }} </li>
+             <li> {{ config('app.address_1') }} </li>
              <li>Telephone 1: {{ config('app.telephone_2') }}</li>
              <li>Telephone 2: {{ config('app.telephone_3') }}</li>
           </ul>
