@@ -92,7 +92,7 @@
                            <div class="col-md-3 col-sm-3 col-xs-12">
                               <div class="store-info">
                                  <h2>Our Address</h2>
-                                 <p>{{ config('app.address') }}<br>Support: {{ config('app.telephone_3') }}<br>E-mail: {{ config('app.email') }}</p>
+                                 <p> <b>Factory:</b> {{ config('app.address_1') }} <br> <b> Office:</b> {{ config('app.address_2') }} <br> <b>Support:</b> {{ config('app.telephone_3') }}<br> <b>E-mail:</b> {{ config('app.email') }}</p>
                                  <div class="address">
                                     <h3>Opening Hours</h3>
                                     <div class="address-info">

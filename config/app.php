@@ -25,7 +25,8 @@ return [
     'telephone_3' => '(+234) 808-2996-801',
     'email' => 'info@sanobread.com',
     'location' => 'Lagos, Nigeria',
-    'address' => '49, Agbado Road, Oke-Ayo Bus-Stop, Ishaga, Lagos State' ,
+    'address_1' => '49, Agbado Road, Oke-Ayo Bus-Stop, Ishaga, Lagos State.' ,
+    'address_2' => '18, Udi Street, Wema Terrace, Osborne Foreshore Estate, Ikoyi.' ,
     'web' => 'www.sanobread.com',
 
     /*
